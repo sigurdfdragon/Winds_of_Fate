@@ -1,8 +1,8 @@
 Wikidrakia
 
-Great Ocean
+* Great Ocean
 
-Great Continent
+* Great Continent
 
 Drake s.,Drakes p. -- A race of dragonlike creatures.  
 
@@ -12,7 +12,7 @@ Drakish -- script, the scripted language of the drakes. Stored on keramic tables
 
 Morogor -- Archipelago, located northwest of wesnoth in the @Great oceaon.
 Morogor -- Drake Empire
-Morogor -- Vulcan
+Morogor -- Vulcan mountain on the central island of Archipelago
 
 Vulcaniad -- The era between an eruption of the Vulcan @Morogor. The drake calendar is based upon it.
  
@@ -24,7 +24,9 @@ The name of the drake empire, but also the name of the archipelago it is located
 
 Breeding cycle --
 
-Recorder -- Drakish scrollkeeper. He is enscripting the history into tables made out of keramic.
+Recorder -- Drakish scrollkeeper. He is enscripting the history into tables made out of @keramic. Despite the fact that the recorders see themselves as a caste of it's own they recruit thier members from any of the other castes members.
+
+Keramic -- The drakes are masters in the craftsmanship of keramic. They craft from tables for the recorders to armours for the clashers. Only the burners can master the amount of heat to burn the pieces to their full solidness.
 
 Hive -- A drake home building, fortificated. It contains the @breeding pens
 
@@ -36,7 +38,7 @@ Hatching --
 
 Hatchling -- A young drake that hasn't seen another generation hatch. The younger the current generation of hatchlings is the more aggressiv is the behaviour of the tribe.
 
-Swarmling -- A young drake that has seen another generation hatch.
+Swarmling -- A young drake that has seen another generation hatch. If the tribe can afford the loose of a generation they start the @Swarming.
 
 Breeder -- The female drakes. They are rare since eggs that shall involve into breeders have to be handled with extra care and a huge amount of work. The number of breeders is also limited to the amounts of non-breeders around, since breeders can't take care about their food for themselves when breeding. Drake breeder's get fertile after the last generation of edges hatched.
 
@@ -50,7 +52,7 @@ Dominant -- The contender that established himself to the drake leader, the only
 
 Swarm -- The Swarmlings that have left the hive to found a new one.
 
-Swarming -- 
+Swarming -- The flight for a new drake hive that reucurs every 
               
 
 
