@@ -1,15 +1,26 @@
 Chapter 1: The Swarm
 
 * Scenario 0: The Hunt
+  * Story telling scenario.
+  * Goal: Galun must reach level2 to become a contender.
 
 * Scenario 1: The Contend 
+  * Capture the flag like
+  * Win the contend to get the dominant
 
-* Scenario 2: (Story only?) The Swarming
+* Scenario 2: The Green Isle
+  * Secure a save landing point. Only Glider and Burners available.
 
-* Scenario 2: The Island
-
-* Scenario 3: The Landing 
+* Scenario 3: Tree Guardians
 
 * Scenario 4: 
 
 * Scenario 5:
+
+* This chapter ends with the finding of a place for the new hive.
+
+Chapter 2: The Hive
+
+* Scenario 0:  
+
+* Scenario 1:
