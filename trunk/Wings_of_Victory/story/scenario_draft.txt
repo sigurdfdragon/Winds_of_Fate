@@ -1,26 +1,59 @@
-Chapter 1: The Swarm
+Part 1: The Aspirant
 
-* Scenario 0: The Hunt
-  * Story telling scenario.
-  * Goal: Galun must reach level2 to become a contender.
+* Scenario 1: The Hunt
+  * Goal: Galun must reach level 2 to become an Aspirant.
 
-* Scenario 1: The Contend 
-  * Capture the flag like
-  * Win the contend to get the dominant
+* Scenario 2: The Contention 
+  * Capture-the-flag rules 
+  * Win the Contention to become a Dominant
 
-* Scenario 2: The Green Isle
-  * Secure a save landing point. Only Glider and Burners available.
+* Scenario 3: The Spiral Path
+  * Talk scenario: A dialogue between Galun and the Recorder of Kerath
+  * Galun receives his swarmlings and breeders.
+  * Informs the Recorder of his determination to fly east over the
+    Great Ocean
 
-* Scenario 3: Tree Guardians
+Part 2: The Flight
 
-* Scenario 4: 
+* Scenario 4: The Green Isle
+  * Secure a safe landing point. Only Gliders and Burners available.
 
-* Scenario 5:
+* Scenario 4: Sunrise Island
+  * Defeat the nagas and water serpents.
 
-* This chapter ends with the finding of a place for the new hive.
+* Scenario 5: Tree Guardians
+  * Defeat the Wose and Gryphons.
 
-Chapter 2: The Hive
+* Scenario 6: Kindling
+  * While passing north over the Forest of Wesmere, the flight stops to hunt.
+  * They must defeat elves.
 
-* Scenario 0:  
+* Scenario 7: The Storm
+  * The flight is forced to earth by storm weather in the Heart Mountains.
+  * They must defeat trolls.
+  * On victory, they discover they are in wild conuntry well suited to
+    their needs and decide to settle there.
 
-* Scenario 1:
+Part 3: The Nest
+
+* Scenario 8: Fire Meets Steel
+  * Dwarves living in the region investigate the intruders. 
+  * Drake arrogance and dwarven stubbornness do not mix well.
+  * Battle ensues.
+
+* Scenario 9: Lost City
+  * Drakes learn of a ruined Dwarven city nearby from a map on one of
+    their dead adversaries. 
+  * They seek to loot it for tools and metal.
+
+* Scenario 10: Confrontation
+  * A second wave of drakes arrives from Morogor. Now Galun must
+    fight his own kind in true war.
+
+* Scenario 11:  Epilog
+  * The dilemma of the Spiral Path has grown tighter.  
+  * Galun's descendants must walk a tightrope between expanding
+    too slowly (and falling prey to more aggressive drakes) and
+    coming into destructive contact with the fast-breeding lesser
+    races.
+  * Ulitimately, the Drake Way will require expansion off Irdya itself.
