@@ -2,6 +2,9 @@ Part 1: The Aspirant
 
 * Scenario 1: The Hunt
   * Goal: Galun must reach level 2 to become an Aspirant.
+  * Galun must solve a somwhat harder task in that scenario 
+    to become a hero for the members of his caste in order  
+    to get selected to be their representant in the contend.
 
 * Scenario 2: The Contention 
   * Capture-the-flag rules 
@@ -36,6 +39,10 @@ Part 2: The Flight
 
 Part 3: The Nest
 
+* Story: Galun sends the experienced Glider (one with a quick and resillent trait preferable) 
+  back home to Morodor to tell the drake society about the new continent.
+  This Messenger is intercepted by the Spiral Path.  
+
 * Scenario 8: Fire Meets Steel
   * Dwarves living in the region investigate the intruders. 
   * Drake arrogance and dwarven stubbornness do not mix well.
@@ -46,11 +53,30 @@ Part 3: The Nest
     their dead adversaries. 
   * They seek to loot it for tools and metal.
 
-* Scenario 10: Confrontation
-  * A second wave of drakes arrives from Morogor. Now Galun must
-    fight his own kind in true war.
+* Scenario 10: Spies
+  * A group of spies is captured. They are interrogated before eaten.
+    Galun learns that the dwarves from scenario 8 have informed the humans and elves of wesnoth about the new threat.
+    They are planning an united attack against the new nest to wipe the drakes out before they can reproduce.
 
-* Scenario 11:  Epilog
+* Scenario 11:  
+  * Galun deceides that their best chance to master the situation is to attack one of the three allies before their armies can be united.
+  * The Player may have the choice which of the lesser races to attack.
+
+* Scenario 12: Attack of the Lessers
+  * Galun's forces have to protect the nest against the incomming united army of the lesser races.
+  * Depending on which race was attacked in the scenario before the army of the lesser races only consists of the two remaining one.
+
+Part 4: Confrontation with the Spiral Path 
+
+* Scenario 13: Confrontation
+  * The Spiral Path talks Kerath into attacking Galun in order to keep the existence of the great continent a secret.
+  * Now Galun must fight his own kind in true war.
+  * After the fight Galun learns the story behind the Spiral Path from the captured Recorder of the attackers. 
+
+* Scenario 14: 
+  * Galun organizes an army to defeat the spiral path in morogor.
+
+* Scenario 15:  Epilog
   * The dilemma of the Spiral Path has grown tighter.  
   * Galun's descendants must walk a tightrope between expanding
     too slowly (and falling prey to more aggressive drakes) and
