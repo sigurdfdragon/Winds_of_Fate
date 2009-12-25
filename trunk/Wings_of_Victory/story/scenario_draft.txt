@@ -21,17 +21,17 @@ Part 2: The Flight
 * Scenario 4: The Green Isle
   * Secure a safe landing point. Only Gliders and Burners available.
 
-* Scenario 4: Sunrise Island
+* Scenario 5: Sunrise Island
   * Defeat the nagas and water serpents.
 
-* Scenario 5: Tree Guardians
+* Scenario 6: Tree Guardians
   * Defeat the Wose and Gryphons.
 
-* Scenario 6: Kindling
+* Scenario 7: Kindling
   * While passing north over the Forest of Wesmere, the flight stops to hunt.
   * They must defeat elves.
 
-* Scenario 7: The Storm
+* Scenario 8: The Storm
   * The flight is forced to earth by storm weather in the Heart Mountains.
   * They must defeat trolls.
   * On victory, they discover they are in wild conuntry well suited to
@@ -39,44 +39,52 @@ Part 2: The Flight
 
 Part 3: The Nest
 
-* Story: Galun sends the experienced Glider (one with a quick and resillent trait preferable) 
-  back home to Morodor to tell the drake society about the new continent.
-  This Messenger is intercepted by the Spiral Path.  
+* Story: One of the Sky Drake swarmlings disappears with several bags
+  of provisions. No attempt was made on the breeding pens, so it 
+  becomes apparent that he must have gone back to Morogor.  Someone
+  there will soon know where the eyrie of Galun is.
 
-* Scenario 8: Fire Meets Steel
+* Scenario 9: Fire Meets Steel
   * Dwarves living in the region investigate the intruders. 
   * Drake arrogance and dwarven stubbornness do not mix well.
   * Battle ensues.
 
-* Scenario 9: Lost City
+* Scenario 10: Lost City
   * Drakes learn of a ruined Dwarven city nearby from a map on one of
     their dead adversaries. 
   * They seek to loot it for tools and metal.
 
-* Scenario 10: Spies
+* Scenario 11: Spies
   * A group of spies is captured. They are interrogated before eaten.
-    Galun learns that the dwarves from scenario 8 have informed the humans and elves of wesnoth about the new threat.
-    They are planning an united attack against the new nest to wipe the drakes out before they can reproduce.
+    Galun learns that the dwarves from scenario 9 have informed the
+    humans and elves of wesnoth about the new threat. They are
+    planning a united attack against the new eyrie to wipe the drakes 
+    out before they can reproduce.
 
-* Scenario 11:  
-  * Galun deceides that their best chance to master the situation is to attack one of the three allies before their armies can be united.
+* Scenario 12:  
+  * Galun deceides that their best chance to master the situation is
+    to attack one of the three allies before their armies can be united.
   * The Player may have the choice which of the lesser races to attack.
 
-* Scenario 12: Attack of the Lessers
-  * Galun's forces have to protect the nest against the incomming united army of the lesser races.
-  * Depending on which race was attacked in the scenario before the army of the lesser races only consists of the two remaining one.
+* Scenario 13: Attack of the Lessers
+  * Galun's forces have to protect the nest against the incoming
+    united army of the lesser races.
+  * Depending on which race was attacked in the scenario before the
+    army of the lesser races only consists of the two remaining one.
 
 Part 4: Confrontation with the Spiral Path 
 
-* Scenario 13: Confrontation
-  * The Spiral Path talks Kerath into attacking Galun in order to keep the existence of the great continent a secret.
+* Scenario 14: Confrontation
+  * The Spiral Path talks Kerath into attacking Galun in order to keep
+    the existence of the great continent a secret.
   * Now Galun must fight his own kind in true war.
-  * After the fight Galun learns the story behind the Spiral Path from the captured Recorder of the attackers. 
+  * After the fight Galun learns the story behind the Spiral Path from 
+    the captured Recorder of the attackers. 
 
-* Scenario 14: 
+* Scenario 15: 
   * Galun organizes an army to defeat the spiral path in morogor.
 
-* Scenario 15:  Epilog
+* Scenario 16:  Epilog
   * The dilemma of the Spiral Path has grown tighter.  
   * Galun's descendants must walk a tightrope between expanding
     too slowly (and falling prey to more aggressive drakes) and
