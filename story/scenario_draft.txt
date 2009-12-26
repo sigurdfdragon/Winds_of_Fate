@@ -39,22 +39,33 @@ Part 2: The Flight
 
 Part 3: The Nest
 
+* Scenario 9: Fire Meets Steel
+  * Dwarves living in the region investigate the intruders. 
+  * Drake arrogance and dwarven stubbornness do not mix well.
+Story from Fendrin's sister:
+  
+  * A Battle ensues in which the dwarves manage to open a tunnel to the breeding pens.
+    The most part or all of the breeders are going to be killed by the dwarves.
+
+* Story: Galun sends the experienced Glider (one with a quick and resillent trait preferable) 
+  back home to Morodor to tell the drake society about the new continent and to ask for a set of fresh breeders.
+  This Messenger is intercepted by the Spiral Path.  
+
+Story from ESR:
+
 * Story: One of the Sky Drake swarmlings disappears with several bags
   of provisions. No attempt was made on the breeding pens, so it 
   becomes apparent that he must have gone back to Morogor.  Someone
   there will soon know where the eyrie of Galun is.
-
-* Scenario 9: Fire Meets Steel
-  * Dwarves living in the region investigate the intruders. 
-  * Drake arrogance and dwarven stubbornness do not mix well.
-  * Battle ensues.
 
 * Scenario 10: Lost City
   * Drakes learn of a ruined Dwarven city nearby from a map on one of
     their dead adversaries. 
   * They seek to loot it for tools and metal.
 
+
 * Scenario 11: Spies
+  * Story only scenario.
   * A group of spies is captured. They are interrogated before eaten.
     Galun learns that the dwarves from scenario 9 have informed the
     humans and elves of wesnoth about the new threat. They are
@@ -82,7 +93,8 @@ Part 4: Confrontation with the Spiral Path
     the captured Recorder of the attackers. 
 
 * Scenario 15: 
-  * Galun organizes an army to defeat the spiral path in morogor.
+  * Galun organizes an army to defeat the spiral path in morogor and to 
+    raid the desperadely needed set of breeders.
 
 * Scenario 16:  Epilog
   * The dilemma of the Spiral Path has grown tighter.  
