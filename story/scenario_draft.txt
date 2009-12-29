@@ -24,17 +24,18 @@ Part 2: The Flight
 * Scenario 5: Sunrise Island
   * Defeat the nagas and water serpents.
 
-* Scenario 6: Tree Guardians
-  * Defeat the Wose and Gryphons.
+* Scenario 6: Scuttlers
+  * Subdue the Saurians on the Cursed Isle
+  * On victory, some Saurians worship the Drakes and become their vassals
 
 * Scenario 7: Kindling
   * While passing north over the Forest of Wesmere, the flight stops to hunt.
-  * They must defeat elves.
+  * They must defeat elves and Woses.
 
 * Scenario 8: The Storm
   * The flight is forced to earth by storm weather in the Heart Mountains.
   * They must defeat trolls.
-  * On victory, they discover they are in wild conuntry well suited to
+  * On victory, they discover they are in wild country well suited to
     their needs and decide to settle there.
 
 Part 3: The Nest
