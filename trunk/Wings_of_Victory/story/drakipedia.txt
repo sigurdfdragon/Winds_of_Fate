@@ -44,7 +44,7 @@ Wikidrakia
   craftsmanship of making ceramics. Only the burners can generate 
   the amount of heat to cure the pieces to full strength.
 
-* Eyrie -- A drake home building, fortified. It contains the @breeding pens
+* Aerie -- A drake home building, fortified. It contains the @breeding pens
 
 * Breeding Pen -- Where the nonsentient Breeders live under the Dominant's eye.
 
