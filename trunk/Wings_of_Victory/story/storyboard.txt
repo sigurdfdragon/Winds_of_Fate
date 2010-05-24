@@ -1,0 +1,136 @@
+Scenario 7: Kindling
+
+From above the isle of the scuttlers, the keenest eyes in the flight
+could see a hint of a great range of mountains to the east and north
+over the water, such country as we Drakes love to build our eyries in.
+Galun ordered the flight in that direction.
+
+Days of flight later they reached the Great Continent and found
+themselves over green forest country.
+
+Vank: There is game in those trees. This may be a good place to hunt.
+
+Galun: Yes.  And the flight needs a night onm the ground to rest its
+wings.
+
+Vank: Some of the game has two legs rather than four. They don't quite
+look like our Runners, though.  They move better.  And...Galun, I
+could swear some of the trees down there are <i>moving</i>!
+
+Galun: I see them.  Well, if they choose to fight us, breath-fire
+should burn them nicely.  Call the hunt!
+
+Battle ensues. The map should be a fairly dense section of the Forest
+of Wesmere. The enemy side(s) should be elves and woses, allied.
+
+On victory:
+
+Galun: That was brisk.
+
+Vank: Yes, and there are more of the two-leggeds heading at us from 
+every direction.  I think I'm undercounting them - they're cursed hard
+to spot in these woods.
+
+Galun: Set up a rotating overwatch. We'll feed and rest here until the
+overwatch flyers spot more of them within a half-league, then fly
+north.
+
+Vank: As you command!
+
+Scenario 8: Lost City
+
+As the flight was nearing the range that men would someday call the
+Heart Mountains, they saw from the air a great, derelict city.  But so 
+little did we Drakes know as yet of the ways of other speaking peoples
+that the flight's eyes scarce knew how to comprehend it.
+
+Galun: Look, ahead of us near the edge of the high peaks.  There's something
+big there that looks <em>made</em>. Carved. Could those be buildings?
+
+Vank: Wait...yes, I see it.  How odd; it looks something like a Runner
+keep, but bigger. Much bigger. There is worked stone.  And something
+about the way it's layed out reminds me of an eyrie.
+
+Galun: Where there's worked stone there may be metal and tools. We'll
+need those things.
+
+Exploration and battle ensues. Fendrin needs to write this battle.
+
+Narrator: You can now recruit armored Clashers.
+
+Vank: Metal and tools, indeed. But I wouldn't want to settle here,
+it's too low.
+
+Galun: And not stable.  The builders are gone for good reason; sooner
+or later, tremors and earth-fire would eat anything we built here.  We go
+north, further into the mountains.
+
+Scenario 9: The Storm
+
+And the mountain country seemed to welcome them, until a fierced storm
+forced the flight to ground.
+
+Vank: What are those shambling things over there?  They look like
+Runners, but much bigger and uglier.
+
+Galun: They're waving clubs and they don't look friendly. 
+
+Vank: And us grounded until the storm lifts...
+
+Galun: Maybe you need to start thinking more like a Clasher, Vank.
+
+Battle ensues against one or more troll sides. The Drakes are
+grounded, so their terrain costs are a Clasher's.
+
+On victory:
+
+Galun: We can beat them, and we can eat them. And I like the feel of 
+these mountains.  I think we've found a good place to build an eyrie.
+
+Vank: Excellent. The flight will rejoice.  But it's colder here than
+Morogor was.  We'll sleep more.
+
+Galun: That's no bad thing, Vank.  With no rival eyries it's best
+that we incerease slowly, and draw on the game as lightly as we can.
+
+Scenario 10: The Storm
+
+The Drakes began to carve out a new home with fire and tools.  They
+built watchposts, and pens for the breeders, and sleeping chambers.
+They hunted the trolls and the beasts of the mountains for meat.
+
+But this harsh country, too, had its inhabitants.  And one day
+they came calling.
+
+Thurdakor: Who dares work stone in these mountains wi'out the
+leave o' the Dwarves?
+
+Galun: I am Galun, and this is my Flight.  Who gives us
+challenge in the tongue of slaves?
+
+Thurdakor: I am Thurdakor of Knalga, and nae slave but a lord of
+the living stone. You squat on my surface land.
+
+Vank (whispering): Galun, their weapons look well-made, and we are few.
+
+Galun: Surface land, eh?  Well, here we shall remain. Perhaps
+if you keep to your holes we'll have no trouble.
+
+Vank (whispering): Perhaps that could have been put better...
+
+Thurdakor: Keep to our holes? Arrogant one, you shall learn
+the bite of Dwarf steel for that taunt.
+
+Battle ensues.  The dwarven side(s) will have gryphon riders.
+
+On victory:
+
+Vank: Those "Dwarves" faught well.  If there are many more of them in these
+mounntains I fear for our hatchlings.  
+
+Galun: We'll flee no further. This is a strong, defensible site and
+the range around it is full of game.  If the dwarves molest us,
+we'll blood our young warriors on them.
+
+Vank: As you command!
+
