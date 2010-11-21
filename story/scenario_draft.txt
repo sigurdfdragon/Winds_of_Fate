@@ -2,7 +2,7 @@ Part 1: The Aspirant
 
 * Scenario 1: The Hunt
   * Goal: Galun must reach level 2 to become an Aspirant.
-  * Galun must solve a somwhat harder task in that scenario 
+  * Galun must solve a somewhat harder task in that scenario 
     to become a hero for the members of his caste in order  
     to get selected to be their representant in the contend.
 
