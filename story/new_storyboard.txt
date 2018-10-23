@@ -1,21 +1,28 @@
 Campaign Description
 
+Verkon - Drake Warden
 
-01 The Hunt
-            story= _ "My name is Reshan'lo, and I was in my youth long ago the Recorder of the Flight of Kerath. It falls to me to report what came to pass in the 14th cycle of the 5th Vulcaniad - the greatest error of Kerath, the flight's downfall and with it my own."
-        [/part]
+01 The Hunt - (Use The Hunt map)
+"My name is Reshan'lo, and I was in my youth long ago the Recorder of the Flight of Kerath. It falls to me to report what came to pass in the 14th cycle of the 5th Vulcaniad - the greatest error of Kerath, the flight's downfall and with it my own."
 
-        [part]
-        story= _ "For long cycles we Recorders of Morogor had watched the slow rising of the tides and the sinking of our islands. Each cycle it became slightly more difficult to feed our hatchlings. Newer flights scraped out a meager existence on islets of rock their grandsires would have scorned, and some turned their eyes enviously on the green expanses of the central islands. We feared a final war was nearly upon us."
-        [/part]
+"For long cycles we Recorders of Morogor had watched the slow rising of the tides and the sinking of our islands. Each cycle it became slightly more difficult to feed our hatchlings. Newer flights scraped out a meager existence on islets of rock their grandsires would have scorned, and some turned their eyes enviously on the green expanses of the central islands. We feared a final war was nearly upon us."
 
-        [part]
-            story= _ "There arose in the Flight of Verkon a young drake of subtle and dangerous mind who dreamed of vast unclaimed lands far over the waters of the Great Ocean, and spoke of his dream. And some listened..."
-        [/part]
-        
-        [message]
-            speaker=Vank
-            message= _ "Galun, I think I spy runners. Away north, past the slave farms."
+It was delayed when a long pig calling himself 'The Crown Prince' arrived at Northern Morogor, defeated our forces and established a foothold.
+
+We saw him make several journeys back and forth across the ocean. Some began to wonder if this long pig had found new land. And they wondered where he had come from.
+
+Then the voyages stopped. Northern Morogor was reclaimed. We sent flights to the west in the direction the long pig had come, but no land was in range.
+
+Then more long-pig ships came. These with enough long-pigs to settle new land. They fought us into retreat from the northern island
+
+Then the dirty long-pigs and their ships arrived. This time, the drakes stayed hidden from them, observing, waiting for the right moment.
+
+"Then the long pig ships came to our northern island. Their forces established a base, and sailed further east. After watching many ships pass, our people became convinced that there must be more land to be claimed. But none of the existing flights wished to chance leaving the islands of Morogor."
+
+
+"There arose in the Flight of Verkon a young drake of subtle and dangerous mind who dreamed of vast unclaimed lands far over the waters of the Great Ocean, and spoke of his dream. And some listened..."
+
+Vank: "Galun, I think I spy runners. Away north, past the slave farms."
         [/message]
         [message]
             speaker=Galun
@@ -39,15 +46,15 @@ Campaign Description
         [/message]
         [message]
             speaker=Vank
-            message= _ "The ocean is what splits the world from heaven. Nothing waits at its end but a yawning gap. Were you not listening during the lectures?"
+            message= _ "And just how would we get across the vast Ocean without knowing where to go?, Drakes have looked, and found nothing but water everywhere."
         [/message]
         [message]
             speaker=Galun
-            message= _ "Have you heard of those who believe the world is round like an egg? And there is no abyss to fall into?"
+            message= _ "But the ships must be going somewhere."
         [/message]
         [message]
             speaker=Vank
-            message= _ "Rumors. Bah! We cannot eat rumors. And if you truly aim to lead a flight to the Abyss at ocean's end, you'll have to become a Dominant first, otherwise no drake will follow you. (Laughs) And you an <i>Aspirant</i>? Not so long as you dream when the hunt is called..."
+            message= _ "That may be, but if you truly aim to lead a flight across the great ocean, you'll have to become a Dominant first, otherwise no drake will follow you. (Laughs) And you an <i>Aspirant</i>? Not so long as you dream when the hunt is called..."
         [/message]
         [message]
             speaker=Galun
@@ -75,15 +82,20 @@ On Victory:
 
 Alt 01 The Hunt
         
-02 North Morogor
-Having shown promise in the hunt, Verkon tasks Galun with the raid on the orc foothold on northern morogor
+02 North Morogor - (Use Peoples in Decline map from TRoW with sides remapped)
+Having shown promise in the hunt, Verkon speaks with Galun
+informs Galun that his sky drakes spying on Norther Morogor have discovered that the leaders of the dirty long-pigs will know
+where the ships are going to and from. and that they have been lulled into being careless.
+lead a force of drakes to capture the leaders. The honor from such an accomplishment will give Galun a shot at being chosen for the coming contention
+with the raid on the dirty long-pig foothold on northern Morogor
 
 Vank: There they are. Filthy creatures. But meat none the less.
 Galun: Indeed. Let's make sure we hold off on eating the leaders until we get the information we need.
 
-On victory: Nothing special
+On victory: 
+Galun's defeat of the foul long-pigs and obtaining of the information of how to find other land earns him much renown.
 
-03 The Contention
+03 The Contention - (map of a fighting arena)
     [story]
         [part]
             story= _ "For ages, we of the Spiral Path have not demurred when our kin of the Straight Path spoke vaguely of the 'end of the world' lying beyond the oceans, receding ever farther as Dominants claim new ranges. But we knew better: for we have found it written in the tides and the motion of the stars that our world is round, made like a drake's egg."
@@ -106,7 +118,7 @@ On victory: Nothing special
         # what I'm going for here is a good way to justify having the player start the contest with different resources than the opponent, for difficulty adjustments
         [message]
             speaker=narrator
-            message= _ "All the skills necessary to lead a Flight were tested. Each team faced various challenges of martial ability, hunting, group coordination, strategy, & tactics; to evaluate their ability at gathering resources. The two teams that acquired the most resources faced each other in a final battle: The Contention."
+            message= _ "All the skills necessary to lead a Flight were tested. Each team faced various challenges of martial ability, hunting, group coordination, strategy, & tactics; to evaluate their ability at gathering resources. The two teams that acquired the most resources faced each other in a final battle."
             image=wesnoth-icon.png
         [/message]
         [message]
@@ -128,7 +140,10 @@ On victory
 Alt 03 The Contention
 
 
-04 The Spiral Path
+04 The Spiral Path - (No Map)
+Some changes are needed here to account for the orcs
+The drakes don't try flying west, as that path has no stopping points, and that the green isle is overrun with the dirty long-pigs
+
     [story]
         [part]
             background=story/characters/reshanlo.png
@@ -168,12 +183,12 @@ Alt 03 The Contention
         [part]
             background=story/characters/galun.png
             scale_background=no
-            story={CAPTION ( _ "Galun")} + _ "If there is indeed an abyss at the world's edge, we must turn back. But I think there is no future for us here."
+            story={CAPTION ( _ "Galun")} + _ "Even with what we have learned from the long-pigs it is still dangerous. But I think there is no future for us here."
         [/part]
         [part]
             background=story/characters/reshanlo.png
             scale_background=no
-            story={CAPTION ( _ "Reshan'lo")} + _ "As to that abyss...you have heard, perhaps, that some drakes believe the world is round like an egg; that there is no abyss in which to fall."
+            story={CAPTION ( _ "Reshan'lo")} + _ "As for the abyss at the end of the great ocean...you have heard, perhaps, that some drakes believe the world is round like an egg; that there is no abyss in which to fall."
         [/part]
         [part]
             background=story/characters/galun.png
@@ -213,7 +228,7 @@ Alt 03 The Contention
         [part]
             background=story/characters/reshanlo.png
             scale_background=no
-            story={CAPTION ( _ "Reshan'lo")} + _ "It is written in the tides, and in the motions of the moons, that the world is indeed made in the shape of a drake's egg. You might find new land to the east of here, farther from whence we came."
+            story={CAPTION ( _ "Reshan'lo")} + _ "It is written in the tides, and in the motions of the moons, that the world is indeed made in the shape of a drake's egg. You might very well find new land to the east of here, farther from whence we came."
         [/part]
         [part]
             background=story/characters/reshanlo.png
@@ -256,84 +271,93 @@ Alt 03 The Contention
             story={CAPTION ( _ "Reshan'lo")} + _ "That is all any of us have been able to do, buy time. You are Spiral Path now. Your breeders and swarmlings await you, flight leader. Good luck!"
         [/part]
     [/story]
+    This is a dangerous mission over unknown territory. If it is successful, it will give our people new hope. As such, the flights of Kerath, Verkon, & (insert name here) will send sky drakes to assist you on your journey & and will report back with the way to new land if you are successful
     
-05 Midway
+05 Midway - (Use A Rough Landing map from TRoW)
     Lifted from Sunrise Isle, reword and rearrange to make sense with story changes
     [story]
         [part]
-            story= _ "After taking a few days to hunt and recover its strength, the flight flew north and east, skirting the edge of the Green Isle. Once again they headed east into unknown ocean."
+        story= _ "They had little time to prepare the new flight. The new hatchlings could not go long without food...but worse, if the breeders grew heavy with eggs they would lose their ability to fly."  
         [/part]
-
         [part]
-        story= _ "The keen eyes of the drakes, and the height of their flight, made them able to see over vast stretches of ocean as they flew. It was Vank who found their next landfall, a small volcanic island."
+        story= _ "Galun prepared for true long-distance travel by abandoning the massive armor of the Clashers. The flight would take only the lighter tools with it, counting on re-creating the heavier ones at its new home. Instead, they loaded up with sling bags of dried meat. That, and the prey they could take from the Great Ocean on their journey, might see them through."
         [/part]
-    [/story]
+        [part]
+            story= _ "All the drakes knew that if Galun was successful in finding new land, their people would have new hope. The flights of Verkon and Kerath set Sky Drakes to assist Galun in finding the Great Continent, and to report back when it was located."
+        [/part]
+        [part]
+            story= _ "For many days they flew over unknown waters, growing weary and hungry and wing-sore. Then Galun, scouting ahead with a few followers, sighted land..."
+        [/part]
     
+
+On victory
+        [message]
+            speaker=Galun
+            message= _ "We have triumphed. But these islands are not enough to hold us. We must continue to the greater land."
+        [/message]
+        [message]
+            speaker=Vank
+            message= _ "It is possible I have seen our destination. I glimpsed something on the eastern horizon as I scouted high above our enemies. A loom of cloud, the kind that forms over land."
+        [/message]
+        [message]
+            speaker=Galun
+            message= _ "That is good! We will seek it out."
+        [/message]
+
+    [/event]
+
+
+06 The Three Sisters (use Cursed Isle map from TRoW)
+        From Scuttlers, reword as needed
+        [part]
+            story= _ "After taking a few days to hunt and recover its strength, some sky drake representatives from the other flights left back to Morogor to report the location of the islands. Then the flight again flew east into unknown ocean."
+        [/part]
+        [part]
+            story= _ "Vank's eyes had not deceived him. There was indeed land to the east, farther than he guessed but reachable. A great warm current angled up from the south to intersect the flight's path, and then led them towards a group of three islands."  
+        [/part]
+        
         [message]
             speaker=Vank
             message= _ "This, too, is inhabited."
         [/message]
         [message]
             speaker=Galun
-            message= _ "But not by many; it is too small. We can take this place, and will."
+            message= _ "But not by many. We can take this place, and will."
         [/message]
+        
+
 
 On victory
-        [message]
-            speaker=Galun
-            message= _ "We have triumphed. But this island is not enough to hold us. We must find a greater land."
-        [/message]
-        [message]
-            speaker=Vank
-            message= _ "It is possible I have seen a destination. I glimpsed something on the eastern horizon as I scouted high above our enemies. A loom of cloud, the kind that forms over land."
-        [/message]
-        [message]
-            speaker=Galun
-            message= _ "That is good! We will seek it out."
-        [/message]
-    [/event]
+Vank: This could make a decent home for our flight.
+Galun: Maybe, but we can see the vast mainland from here. Let us scout above and see if there is somewhere better that we might go.
 
 
-06 The Three Sisters
-        From Scuttlers, reword as needed
-        [part]
-            story= _ "Vank's eyes had not deceived him. There was indeed land to the east, farther than he guessed but reachable. A great warm current angled up from the south to intersect the flight's path, and then led them towards a group of three islands."  
-        [/part]
-    [event]
-        name=start
-        [message]
-            id=Vank
-            #po: "scuttler" is a noun formed from the verb "to scuttle"
-            #po: It means to move quickly, and is often used of insects.
-            message= _ "Look! There are scuttlers on these islands!"
-        [/message]
-        [message]
-            id=Galun
-            message= _ "Scuttlers? Here? I suppose I should not be surprised, the little pests were everywhere in Morogor."
-        [/message]
-        [message]
-            id=Vank
-            message= _ "They make terrible game, but very obedient slaves."
-        [/message]
-        [message]
-            id=Galun
-            message= _ "Yes. But I am not sure we want slaves. Not yet; perhaps not ever. They eat up a lot of range."
-        [/message]
-    [/event]
-Modify slave part, having slaves is difficult when you can't fence them in or contain them on an island
-Drop part about scuttlers having been slaves
 
+07 Elensefar - (Use map from Liberty, but make it look like a village)
+Galun sent the remaining representatives of the other flights back to report on the success of finding the great continent.
 
-07 Village of Elensefar
-Hunt and terrorize the village of Elensefar
-comment about difficultness of fighting talking-meat in this land.
-
-08 Kindling
-
-From above the isle of the scuttlers, the keenest eyes in the flight
+From above the three sisters, the keenest eyes in the flight
 could see a hint of a great range of mountains to the east and north
 over the water, such country as we Drakes love to build our eyries in.
-Galun ordered the flight in that direction.
+
+With the mainland near, shorter jumps could be made.
+With the fire from the volcanoes the drakes reforged their heavier tools and armor for the clashers to prepare for the journey
+
+When everyone was ready, Galun ordered the flight toward the mountains.
+On their way, a settlement was spotted.
+
+
+Vank: A small village of long pigs is ahead.
+Galun: Call the hunt!
+Hunt and terrorize the village of Elensefar
+comment about difficulty of fighting talking-meat in this land.
+
+On Victory
+Galun: That was easy/difficult. They were not like the runners back in Morogor. if there were more of them, they would have posed a real threat to the hunt.
+
+
+08 Kindling - (use kindling map)
+
 
 Days of flight later they reached the Great Continent and found
 themselves over green forest country.
@@ -369,6 +393,7 @@ Vank: As you command!
 
 
 09 The Storm
+Make a foothills type feel of a map with some caves for a lich & spiders to come out of
 
 As the flight was nearing the range that men would someday call the
 Heart Mountains, a fierce storm forced the flight to ground in the foothills
@@ -383,16 +408,19 @@ Battle ensues against one or more troll sides. The Drakes are
 grounded, so their terrain costs are a Clasher's.
 
 On victory
-Galun: That was close. Onward
+Galun: The creatures on the continent are well armed, but we have succeded. Onward
 
 
-10 The Heart Mountains
+10 Heart Mountains - (Have 10-12 be different sections of a larger map for the surrounding area)
+Map needs some lava or a volcano for fire for tools
+
 The flight reaches the spot Galun wants to explore
 
 Vank: What are those shambling things over there?  They look like
 Runners, but much bigger and uglier.
 
 Galun: They're waving clubs and they don't look friendly. 
+
 
 On victory:
 
@@ -406,11 +434,32 @@ Galun: That's no bad thing, Vank.  With no rival eyries it's best
 that we increase slowly, and draw on the game as lightly as we can.
 
 
-11: Fire Meets Steel
+Vank: What about slave pens?
+Galun: I've been thinking about that. I don't want slaves, I never liked the effect keeping them had on us.
+Besides, we are not on an island, they could escape more easily.
+        [message]
+            id=Galun
+            message= _ "Yes. But I am not sure we want slaves. Not yet; perhaps not ever. They eat up a lot of range."
+        [/message]
+
+11 Fire Meets Steel
+
 
 The Drakes began to carve out a new home with fire and tools.  They
-built watchposts, and pens for the breeders, and sleeping chambers.
+built watchposts, and chambers for the breeders, and sleeping quarters.
 They hunted the trolls and the beasts of the mountains for meat.
+
+        [part]
+            #TODO ESR
+            story= _ "Soon, as the days got colder and nights longer they prepared for going in hibernation." 
+        [/part]
+        [part]
+            #TODO ESR
+            # * The Recorder tells us that, unknown to Galun, one of his Sky Drake 
+            # volunteers was a spy for the Flight of Kerath. It disappears with 
+            # several bags of provisions. No attempt was made on the breeding pens, so it 
+            # becomes apparent to Galun that he must have gone back to Morogor.
+            story= _ "This is a stub!"
 
 But this harsh country, too, had its inhabitants.  And one day
 they came calling.
@@ -436,10 +485,16 @@ the bite of Dwarf steel for that taunt.
 
 Battle ensues.  The dwarven side(s) will have gryphon riders.
 
+(move this to end of 10?)
+could have the saurians arrive beginning of scenario (turn 2), they saw the drakes flying above
+finally caught up to them. They've been lost & wandering since a long pig had defeated the dragon they
+were worshiping
+
+
 On victory:
 
-Vank: Those "Dwarves" faught well.  If there are many more of them in these
-mounntains I fear for our hatchlings.  
+Vank: Those "Dwarves" fought well.  If there are many more of them in these
+mountains I fear for our hatchlings.  
 
 Galun: We'll flee no further. This is a strong, defensible site and
 the range around it is full of game.  If the dwarves molest us,
@@ -449,4 +504,16 @@ Vank: As you command!
 
 
 12 Confrontation
+The flight of Kerath arrives, intending to kill the flight of Galun, and take the location and the breeders for themselves,
+so their descendants will populate this new land.
+
+dialog between Galun & Kerath
+Galun declares what Kerath is doing is treachery, dishonor, against the drake way
+Kerath makes some properly villainous reply
+Battle ensues
+
+
+13 Epilogue
+Galun proclaims the edicts
+
 
