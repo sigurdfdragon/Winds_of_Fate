@@ -7,20 +7,9 @@ Verkon - Drake Warden
 
 "For long cycles we Recorders of Morogor had watched the slow rising of the tides and the sinking of our islands. Each cycle it became slightly more difficult to feed our hatchlings. Newer flights scraped out a meager existence on islets of rock their grandsires would have scorned, and some turned their eyes enviously on the green expanses of the central islands. We feared a final war was nearly upon us."
 
-It was delayed when a long pig calling himself 'The Crown Prince' arrived at Northern Morogor, defeated our forces and established a foothold.
+"Then the long pig ships came to our northern island. Their forces established a base, and sailed further east. After watching many more ships pass, our people became convinced that there must be more land to be claimed. But none of the existing flights wished to chance leaving the islands of Morogor."
 
-We saw him make several journeys back and forth across the ocean. Some began to wonder if this long pig had found new land. And they wondered where he had come from.
-
-Then the voyages stopped. Northern Morogor was reclaimed. We sent flights to the west in the direction the long pig had come, but no land was in range.
-
-Then more long-pig ships came. These with enough long-pigs to settle new land. They fought us into retreat from the northern island
-
-Then the dirty long-pigs and their ships arrived. This time, the drakes stayed hidden from them, observing, waiting for the right moment.
-
-"Then the long pig ships came to our northern island. Their forces established a base, and sailed further east. After watching many ships pass, our people became convinced that there must be more land to be claimed. But none of the existing flights wished to chance leaving the islands of Morogor."
-
-
-"There arose in the Flight of Verkon a young drake of subtle and dangerous mind who dreamed of vast unclaimed lands far over the waters of the Great Ocean, and spoke of his dream. And some listened..."
+"There arose in the Flight of Verkon a young drake of subtle and dangerous mind who dreamed of those lands far over the waters of the Great Ocean, and spoke of his dream.
 
 Vank: "Galun, I think I spy runners. Away north, past the slave farms."
         [/message]
@@ -46,15 +35,15 @@ Vank: "Galun, I think I spy runners. Away north, past the slave farms."
         [/message]
         [message]
             speaker=Vank
-            message= _ "And just how would we get across the vast Ocean without knowing where to go?, Drakes have looked, and found nothing but water everywhere."
+            message= _ "And just how would we find that land in the Great Ocean without knowing where to go?, Drakes have looked, and found nothing but water everywhere."
         [/message]
         [message]
             speaker=Galun
-            message= _ "But the ships must be going somewhere."
+            message= _ "All the ships passing by must be going somewhere."
         [/message]
         [message]
             speaker=Vank
-            message= _ "That may be, but if you truly aim to lead a flight across the great ocean, you'll have to become a Dominant first, otherwise no drake will follow you. (Laughs) And you an <i>Aspirant</i>? Not so long as you dream when the hunt is called..."
+            message= _ "That may be, but if you truly aim to lead a flight across the Great Ocean, you'll have to become a Dominant first, otherwise no drake will follow you. (Laughs) And you an <i>Aspirant</i>? Not so long as you dream when the hunt is called..."
         [/message]
         [message]
             speaker=Galun
@@ -80,13 +69,12 @@ On Victory:
             message= _ "The air is too thick this low; it clogs my lungs. Let's fly back to the eyrie."
         [/message]
 
-Alt 01 The Hunt
         
 02 North Morogor - (Use Peoples in Decline map from TRoW with sides remapped)
 Having shown promise in the hunt, Verkon speaks with Galun
-informs Galun that his sky drakes spying on Norther Morogor have discovered that the leaders of the dirty long-pigs will know
-where the ships are going to and from. and that they have been lulled into being careless.
-lead a force of drakes to capture the leaders. The honor from such an accomplishment will give Galun a shot at being chosen for the coming contention
+informs Galun that his sky drakes spying on Norther Morogor have discovered that the leaders of the dirty long-pigs know
+where the ships are going to and from. and that they have become careless.
+Lead a force of drakes to capture the leaders. The honor from such an accomplishment will give Galun a shot at being chosen for the coming contention
 with the raid on the dirty long-pig foothold on northern Morogor
 
 Vank: There they are. Filthy creatures. But meat none the less.
@@ -94,6 +82,7 @@ Galun: Indeed. Let's make sure we hold off on eating the leaders until we get th
 
 On victory: 
 Galun's defeat of the foul long-pigs and obtaining of the information of how to find other land earns him much renown.
+
 
 03 The Contention - (map of a fighting arena)
     [story]
@@ -109,7 +98,9 @@ Galun's defeat of the foul long-pigs and obtaining of the information of how to 
             story=_ "Every turn of the heavens brings us closer to that doom. We of the Spiral Path seek a way for Drake-kind to step off that wheel, before it is too late." 
         [/part]
     [/story]  
-        
+
+    
+    
         [message]
             speaker=narrator
             message= _ "And so the day of the Contention came. Each caste elected an Aspirant from their ranks to become the new Dominant, and each Aspirant brought with him Intendants to extend his rule over the other castes. Thus, in the ancient Way of the drakes, six times six combatants: thirty-six in all."
@@ -175,6 +166,7 @@ The drakes don't try flying west, as that path has no stopping points, and that 
             scale_background=no
             story={CAPTION ( _ "Galun")} + _ "Yes. I have dreamed of lands beyond the Great Ocean; I intend to take my new flight to them."
         [/part]
+        Yes. We have learned of a Great Continent to the east beyond the Great Ocean; I intend to take my new flight to it.
         [part]
             background=story/characters/reshanlo.png
             scale_background=no
@@ -183,7 +175,7 @@ The drakes don't try flying west, as that path has no stopping points, and that 
         [part]
             background=story/characters/galun.png
             scale_background=no
-            story={CAPTION ( _ "Galun")} + _ "Even with what we have learned from the long-pigs it is still dangerous. But I think there is no future for us here."
+            story={CAPTION ( _ "Galun")} + _ "Even with what we have learned, it is still dangerous. But I think there is no future for us here."
         [/part]
         [part]
             background=story/characters/reshanlo.png
@@ -283,7 +275,7 @@ The drakes don't try flying west, as that path has no stopping points, and that 
         story= _ "Galun prepared for true long-distance travel by abandoning the massive armor of the Clashers. The flight would take only the lighter tools with it, counting on re-creating the heavier ones at its new home. Instead, they loaded up with sling bags of dried meat. That, and the prey they could take from the Great Ocean on their journey, might see them through."
         [/part]
         [part]
-            story= _ "All the drakes knew that if Galun was successful in finding new land, their people would have new hope. The flights of Verkon and Kerath set Sky Drakes to assist Galun in finding the Great Continent, and to report back when it was located."
+            story= _ "All the drakes knew that if Galun was successful in finding new land, their people would have new hope. The flights of Verkon and (Kerath? or other) sent Sky Drakes to assist Galun in finding the Great Continent, and to report back when it was located."
         [/part]
         [part]
             story= _ "For many days they flew over unknown waters, growing weary and hungry and wing-sore. Then Galun, scouting ahead with a few followers, sighted land..."
@@ -293,7 +285,7 @@ The drakes don't try flying west, as that path has no stopping points, and that 
 On victory
         [message]
             speaker=Galun
-            message= _ "We have triumphed. But these islands are not enough to hold us. We must continue to the greater land."
+            message= _ "We have triumphed. But these islands are only a place to rest. We must continue to the greater land."
         [/message]
         [message]
             speaker=Vank
@@ -310,7 +302,7 @@ On victory
 06 The Three Sisters (use Cursed Isle map from TRoW)
         From Scuttlers, reword as needed
         [part]
-            story= _ "After taking a few days to hunt and recover its strength, some sky drake representatives from the other flights left back to Morogor to report the location of the islands. Then the flight again flew east into unknown ocean."
+            story= _ "After taking a few days to hunt and recover its strength, some sky drakes from the other flights left back to Morogor to report the location of the islands. Then the flight again flew east into unknown ocean."
         [/part]
         [part]
             story= _ "Vank's eyes had not deceived him. There was indeed land to the east, farther than he guessed but reachable. A great warm current angled up from the south to intersect the flight's path, and then led them towards a group of three islands."  
@@ -328,13 +320,13 @@ On victory
 
 
 On victory
-Vank: This could make a decent home for our flight.
+Vank: This could make a decent home for the flight.
 Galun: Maybe, but we can see the vast mainland from here. Let us scout above and see if there is somewhere better that we might go.
 
 
 
 07 Elensefar - (Use map from Liberty, but make it look like a village)
-Galun sent the remaining representatives of the other flights back to report on the success of finding the great continent.
+Galun sent the remaining representatives of the other flights back to report on the success of finding the Great Continent.
 
 From above the three sisters, the keenest eyes in the flight
 could see a hint of a great range of mountains to the east and north
