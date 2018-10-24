@@ -326,14 +326,14 @@ Galun: Maybe, but we can see the vast mainland from here. Let us scout above and
 
 
 07 Elensefar - (Use map from Liberty, but make it look like a village)
-Galun sent the remaining representatives of the other flights back to report on the success of finding the Great Continent.
+Galun sent the remaining sky drakes from the other flights back to report on the success of finding a way to the Great Continent.
 
 From above the three sisters, the keenest eyes in the flight
 could see a hint of a great range of mountains to the east and north
 over the water, such country as we Drakes love to build our eyries in.
 
 With the mainland near, shorter jumps could be made.
-With the fire from the volcanoes the drakes reforged their heavier tools and armor for the clashers to prepare for the journey
+With the fire from the volcanoes on the islands the drakes reforged their heavier tools and armor for the clashers to prepare for the journey
 
 When everyone was ready, Galun ordered the flight toward the mountains.
 On their way, a settlement was spotted.
@@ -386,6 +386,8 @@ Vank: As you command!
 
 09 The Storm
 Make a foothills type feel of a map with some caves for a lich & spiders to come out of
+Lift as much dialog from 04 Green Isle as possible
+
 
 As the flight was nearing the range that men would someday call the
 Heart Mountains, a fierce storm forced the flight to ground in the foothills
@@ -500,12 +502,15 @@ The flight of Kerath arrives, intending to kill the flight of Galun, and take th
 so their descendants will populate this new land.
 
 dialog between Galun & Kerath
-Galun declares what Kerath is doing is treachery, dishonor, against the drake way
+Galun declares what Kerath is doing is treachery, dishonor, against the drake way, etc.
 Kerath makes some properly villainous reply
 Battle ensues
 
 
 13 Epilogue
-Galun proclaims the edicts
+"Galun discusses the aftermath of the battle."
+"Galun proclaims the Edicts: (1) an end to slaveholding, (2) avoidance of confrontation with other speaking peoples, (3) use the long sleeps to cut food requirements."
+"Ultimately, the Drake Way will require expansion off Irdya itself."
+
 
 
