@@ -24,8 +24,8 @@ Wikidrakia
 * Drakish -- script, the scripted language of the drakes. Stored on ceramic 
   tablets by members of the @Recorder vocation
 
-* Morogor -- Archipelago, located somewhere in the @"Great ocean" west of the 
-  Green Isle and east of the Old Continent.
+* Morogor -- Archipelago, located somewhere in the @"Great Ocean" east of the
+  Green Isle and west of the Great Continent.
 
 * Mount Morogor -- Volcanic mountain on the central island of the archipelago
 
@@ -44,9 +44,9 @@ Wikidrakia
   craftsmanship of making ceramics. Only the burners can generate 
   the amount of heat to cure the pieces to full strength.
 
-* Aerie -- A drake home building, fortified. It contains the @breeding pens
+* Eyrie -- A drake home building, fortified. It contains the @breeding chambers
 
-* Breeding Pen -- Where the nonsentient Breeders live under the Dominant's eye.
+* Breeding Chambers -- Where the Breeders live under the Dominant's eye.
 
 * Laying -- a period in the @"breeding cycle".  
 
