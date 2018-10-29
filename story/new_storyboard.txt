@@ -397,8 +397,11 @@ Vank: And us grounded until the storm lifts...
 
 Galun: Maybe you need to start thinking more like a Clasher, Vank.
 
-Battle ensues against one or more troll sides. The Drakes are
-grounded, so their terrain costs are a Clasher's.
+lich has caused the storm to ground the drakes, so it can experiment on then
+and get more servants. Also food for the pet spiders.
+
+The Drakes are grounded, so their terrain costs are a Clasher's.
+Battle ensues against undead and giant spiders
 
 On victory
 Galun: The creatures on the continent are well armed, but we have succeded. Onward
@@ -412,8 +415,9 @@ The flight reaches the spot Galun wants to explore
 Vank: What are those shambling things over there?  They look like
 Runners, but much bigger and uglier.
 
-Galun: They're waving clubs and they don't look friendly. 
+Galun: They're waving clubs and they don't look friendly.
 
+Battle ensues against one or more troll sides.
 
 On victory:
 
@@ -497,7 +501,7 @@ Vank: As you command!
 
 
 12 Confrontation
-The flight of Kerath arrives, intending to kill the flight of Galun, and take the location and the breeders for themselves,
+The flight of Kerath arrives, intending to kill the flight of Galun, and take the location and breeders for themselves,
 so their descendants will populate this new land.
 
 dialog between Galun & Kerath

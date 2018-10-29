@@ -76,12 +76,15 @@ Part 3: The Nest
   * Dwarves living in the region investigate the intruders. 
   * Drake arrogance and dwarven stubbornness do not mix well.  Battle ensues.
   * Dwarves have gryphon riders in this scenario.
+  * Map has same area as Heart Mountains, except with the eirie, nearby villages
+  * are converted to drake villages, and there is snow around as it is winter
 
 * Scenario 12: Confrontation
   * The Flight of Kerath attacks. Now Galun must fight his own kind in true war.
   * On victory, the Recorder of Kerath is captured; he and Galun meet
     for the second time.  The Recorder reminds Galun that the lesser
     races reproduce more quickly than do Drakes.
+  * Map is same area as Fire Meets Steel, but it is now spring
 
 * Scenario 13:  Epilogue
   * Story only
