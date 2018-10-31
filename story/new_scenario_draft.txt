@@ -27,7 +27,7 @@ Part 2: The Flight
 * Scenario 5: Midway
   * Secure a safe landing point. Clashers unavailable
   * Defeat the nagas and sea serpents.
-  * Use TRoW A Rough Landing map
+  * Use TRoW Rough Landing map
 
 * Scenario 6: The Three Sisters
   * Subdue multiple somebodies on the Cursed Isle
@@ -38,7 +38,7 @@ Part 2: The Flight
   * Clashers are available after this scenario
   * Use TRoW Cursed Isle Map
 
-* Scenario 7: Village of Elensefar
+* Scenario 7: Elensefar
   * While passing north over the plains, the flight stops to hunt.
   * They must defeat loyalists (merfolk as well??)
   * This was a small human settlement, larger ones may be more than we can handle
@@ -54,7 +54,7 @@ Part 2: The Flight
   * The flight is forced to earth by storm weather in the foothills of the Heart Mountains.
   * They must defeat undead and giant spiders.
   * On victory, the storm breaks and they continue to their destination
-  * Foothils map of the Heart Mountains area
+  * Foothills map of the Heart Mountains area
 
 * Scenario 10: Heart Mountains
   * The flight lands on a high peak in Heart Mountains.
