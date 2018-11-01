@@ -7,11 +7,10 @@ Part 1: The Aspirant
 
 * Scenario 2: Northern Morogor
   * Interrogate the leaders of the occupational forces to find out how to reach the new land
+  * have standard orcs as enemys, led by l2's
   * By succeeding in the raid on the orcs, Galun becomes a hero for the
     members of his caste, and they select him for the contention.
-  * Use TRoW Peoples in Decline Map, remap sides
-  * have standard orcs as enemys, led by l2's
-    
+
 * Scenario 3: The Contention 
   * 1v1 between top two drake hopefuls
   * Win the Contention to become a Dominant
@@ -26,26 +25,22 @@ Part 2: The Flight
 
 * Scenario 5: Midway
   * Secure a safe landing point. Clashers unavailable
-  * Defeat the nagas and sea serpents.
-  * Use TRoW Rough Landing map
+  * Defeat the nagas and sea serpent.
 
 * Scenario 6: The Three Sisters
-  * Subdue multiple somebodies on the Cursed Isle
-  * Ogres, scorpions, and merfolk?????
+  * Fight Ogres, scorpions, and merfolk?????
   * Have ghost of Midnight Queen cameo?
   * Establish a temporary base to make heavier tools and armor
   * The mainland is visible and with it a mountain range
   * Clashers are available after this scenario
-  * Use TRoW Cursed Isle Map
 
 * Scenario 7: Elensefar
-  * While passing north over the plains, the flight stops to hunt.
+  * While passing northeast over the plains, the flight stops to hunt in the recently
+    founded village of Elensefar.
   * They must defeat loyalists (merfolk as well??)
-  * This was a small human settlement, larger ones may be more than we can handle
-  * Use version of Liberty - Elensefar map
 
 * Scenario 8: Kindling
-  * While passing north over the Forest of Wesmere, the flight stops to hunt.
+  * While passing northeast over the Forest of Wesmere, the flight stops to hunt.
   * They must defeat elves and Woses.
   * Receive saurian allies that used to be minions for a dragon?
   * After scenario, may recruit saurians?
@@ -54,14 +49,13 @@ Part 2: The Flight
   * The flight is forced to earth by storm weather in the foothills of the Heart Mountains.
   * They must defeat undead and giant spiders.
   * On victory, the storm breaks and they continue to their destination
-  * Foothills map of the Heart Mountains area
 
 * Scenario 10: Heart Mountains
   * The flight lands on a high peak in Heart Mountains.
   * They must defeat trolls.
   * On victory, they discover they are in wild country well suited to
     their needs and decide to settle there.
-  * Our sky drakes can reach the ocean or the large lake in the middle of these mountains.
+  * Drakes can reach the ocean or the large lake from this location.
   * Establish here that the colder weather of the North tends to make Drakes go
     into metabolic suspension for long periods.
   * Use part of a larger heart mountains map that encompasses this and the next two scenarios
