@@ -12,7 +12,7 @@ Part 1: The Aspirant
     members of his caste, and they select him for the contention.
 
 * Scenario 3: The Contention 
-  * 1v1 between top two drake hopefuls
+  * 1v1 between top two drake teams out of six
   * Win the Contention to become a Dominant
 
 * Scenario 4: The Spiral Path
@@ -58,7 +58,7 @@ Part 2: The Flight
   * Drakes can reach the ocean or the large lake from this location.
   * Establish here that the colder weather of the North tends to make Drakes go
     into metabolic suspension for long periods.
-  * Use part of a larger heart mountains map that encompasses this and the next two scenarios
+  * Use Heart Mountains map that encompasses this and the next two scenarios
   
 Part 3: The Nest
 
