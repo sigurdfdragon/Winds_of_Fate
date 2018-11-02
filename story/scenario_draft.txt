@@ -5,7 +5,7 @@ Part 1: The Aspirant
   * Easy introduction scenario
   * just needs dialog changes
 
-* Scenario 2: Northern Morogor
+* Scenario 2: The Raid
   * Interrogate the leaders of the occupational forces to find out how to reach the new land
   * have standard orcs as enemys, led by l2's
   * By succeeding in the raid on the orcs, Galun becomes a hero for the
