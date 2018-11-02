@@ -8,6 +8,8 @@ Part 1: The Aspirant
 * Scenario 2: The Raid
   * Interrogate the leaders of the occupational forces to find out how to reach the new land
   * have standard orcs as enemys, led by l2's
+  * Verkon (Drake Warden) charges Galun with leading the raid
+  * Can recruit Burners, Fighters, & Gliders or is given an allotment
   * By succeeding in the raid on the orcs, Galun becomes a hero for the
     members of his caste, and they select him for the contention.
 
