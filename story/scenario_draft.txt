@@ -45,7 +45,7 @@ Part 2: The Flight
   * Receive saurian allies that used to be minions for a dragon?
   * After scenario, may recruit saurians?
 
-* Scenario 9: The Storm
+* Scenario 9: Foothills
   * The flight is forced to earth by storm weather in the foothills of the Heart Mountains.
   * They must defeat undead and giant spiders.
   * On victory, the storm breaks and they continue to their destination

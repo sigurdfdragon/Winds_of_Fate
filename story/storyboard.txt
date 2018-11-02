@@ -383,7 +383,7 @@ north.
 Vank: As you command!
 
 
-09 The Storm
+09 Foothills
 Make a foothills type feel of a map with some caves for a lich & spiders to come out of
 Lift as much dialog from 04 Green Isle as possible
 
