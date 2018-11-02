@@ -23,7 +23,7 @@ Part 1: The Aspirant
 
 Part 2: The Flight
 
-* Scenario 5: Midway
+* Scenario 5: Islands
   * Secure a safe landing point. Clashers unavailable
   * Defeat the nagas and sea serpent.
 

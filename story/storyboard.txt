@@ -265,7 +265,7 @@ The drakes don't try flying west, as that path has no stopping points, and that 
     [/story]
     This is a dangerous mission over unknown territory. If it is successful, it will give our people new hope. As such, the flights of Kerath, Verkon, & (insert name here) will send sky drakes to assist you on your journey & and will report back with the way to new land if you are successful
     
-05 Midway - (Use A Rough Landing map from TRoW)
+05 Islands - (Use A Rough Landing map from TRoW)
     Lifted from Sunrise Isle, reword and rearrange to make sense with story changes
     [story]
         [part]
