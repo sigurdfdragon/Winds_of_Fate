@@ -1,14 +1,16 @@
+The drakes are stirred to look for lands beyond Morogor after Haldric comes through in TRoW
+
 Part 1: The Aspirant
+Each scenario is named after a level of challenge/intiation for Galun on his path to Dominant.
 
 * Scenario 1: The Hunt
   * Goal: Galun must reach level 2 to become an Aspirant.
   * Easy introduction scenario
-  * just needs dialog changes
 
 * Scenario 2: The Raid
-  * Interrogate the leaders of the occupational forces to find out how to reach the new land
-  * have standard orcs as enemys, led by l2's
-  * Verkon (Drake Warden) charges Galun with leading the raid
+  * Orcs land on island
+  * Verkon (Flight Leader, Drake Warden) charges Galun with leading the raid
+  * Drakes obtain location of islands to make the jump east across the great ocean to the great continent
   * Can recruit Burners, Fighters, & Gliders or is given an allotment
   * By succeeding in the raid on the orcs, Galun becomes a hero for the
     members of his caste, and they select him for the contention.
@@ -24,6 +26,13 @@ Part 1: The Aspirant
     Great Ocean
 
 Part 2: The Flight
+Each scenario is named after where they are, to help convey a sense of journeying and be relateable for players
+
+This the dangerous journey the Flight of Galun undertakes. Things occur to shape Galun's perspective for
+how drakes would best survive in this new land (previously, their culture is a group of flights in the Morogor Acheipelago)
+Galun's run-ins with the various races of wesnoth, and how they are more dangerous to deal with than the runners of Morogor,
+inspires him to avoid confrontation with them, as they reproduce faster than the drakes do.
+Find other things Galun can learn from the various battles along the way.
 
 * Scenario 5: Islands
   * Secure a safe landing point. Clashers unavailable
@@ -31,10 +40,11 @@ Part 2: The Flight
 
 * Scenario 6: The Three Sisters
   * Fight Ogres, scorpions, and merfolk?????
-  * Have ghost of Midnight Queen cameo?
   * Establish a temporary base to make heavier tools and armor
   * The mainland is visible and with it a mountain range
   * Clashers are available after this scenario
+  * This had dialog of Galun reflecting on the practice of slaveholding, but was moved.
+    Some sort of dialog needs to be added somewhere to support edict 1 in Epilogue.
 
 * Scenario 7: Elensefar
   * While passing northeast over the plains, the flight stops to hunt in the recently
@@ -57,12 +67,14 @@ Part 2: The Flight
   * They must defeat trolls.
   * On victory, they discover they are in wild country well suited to
     their needs and decide to settle there.
-  * Drakes can reach the ocean or the large lake from this location.
+  * Sky Drakes can reach the ocean or the large lake from this location.
   * Establish here that the colder weather of the North tends to make Drakes go
     into metabolic suspension for long periods.
   * Use Heart Mountains map that encompasses this and the next two scenarios
   
 Part 3: The Nest
+Exciting battle names for the defense of the new drake nest
+Here, Galun's challenge is to protect the nest he has founded.
 
 * Scenario 11: Fire Meets Steel
   * The Recorder tells us that, unknown to Galun, one of his Sky Drake 
