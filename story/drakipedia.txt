@@ -81,6 +81,8 @@ Wikidrakia
   leader, the only drake in the tribe that is allowed to reproduce with
   the breeders. Rarely, he may confer breeding privileges on others.
 
+  TODO: I don't think a society in which only one male is allowed to reproduce is plausible
+
 * Intendant -- one of the Aspirant lieutenants of a Dominant. Traditionally he
   has one of each caste other than his own.  Additional "Intendants" 
   are sometimes designated for special duties.  Intendants are likeliest
