@@ -43,8 +43,6 @@ Find other things Galun can learn from the various battles along the way.
   * Establish a temporary base to make heavier tools and armor
   * The mainland is visible and with it a mountain range
   * Clashers are available after this scenario
-  * This had dialog of Galun reflecting on the practice of slaveholding, but was moved.
-    Some sort of dialog needs to be added somewhere to support edict 1 in Epilogue.
 
 * Scenario 7: Elensefar
   * While passing northeast over the plains, the flight stops to hunt in the recently
