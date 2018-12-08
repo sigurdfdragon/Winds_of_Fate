@@ -78,15 +78,13 @@ Wikidrakia
   the drake is involved.
 
 * Dominant -- The @Aspirant that established as the drake
-  leader, the only drake in the tribe that is allowed to reproduce with
-  the breeders. Rarely, he may confer breeding privileges on others.
-
-  TODO: I don't think a society in which only one male is allowed to reproduce is plausible
+  leader, who has the final say on leading the tribe and has the most mating
+  privileges with the breeders. Rarely, he may confer breeding privileges upon
+  non-intendants for exceptional serivce.
 
 * Intendant -- one of the Aspirant lieutenants of a Dominant. Traditionally he
   has one of each caste other than his own.  Additional "Intendants" 
-  are sometimes designated for special duties.  Intendants are likeliest
-  to be granted mating privileges, especially after a notable service.
+  are sometimes designated for special duties.  Intendants have some mating privileges.
 
 * Runners - Drakish term for escaped slaves hunted as game.
 
