@@ -1,7 +1,5 @@
 -- from multiplayer/eras.lua, slightly modified
 
-local T = wml.tag
-
 local res = {}
 
 res.turns_over_advantage = function()
@@ -26,14 +24,7 @@ res.turns_over_advantage = function()
 		if not team.__cfg.hidden then
 			local r, g, b = 255, 255, 255
 			if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
-			elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255
-			elseif team.__cfg.color == 3 then r, g, b =   0, 255,   0
-			elseif team.__cfg.color == 4 then r, g, b = 155,  48, 255
-			elseif team.__cfg.color == 5 then r, g, b =   0,   0,   0
-			elseif team.__cfg.color == 6 then r, g, b = 165,  42,  42
-			elseif team.__cfg.color == 7 then r, g, b = 255, 165,   0
-			elseif team.__cfg.color == 8 then r, g, b = 255, 255, 255
-			elseif team.__cfg.color == 9 then r, g, b =   0, 128, 128 end
+			elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255 end
 			if # wesnoth.get_units( { side = side } ) == 0 then
 				side_comparison = side_comparison .. string.format( tostring( _ "<span strikethrough='true' foreground='#%02x%02x%02x'>Side %d</span>") .. "\n",
 				r, g, b, side)
