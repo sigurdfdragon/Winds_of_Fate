@@ -86,8 +86,6 @@ Wikidrakia
   has one of each caste other than his own.  Additional Intendants
   are sometimes designated for special duties.  Intendants have some mating privileges.
 
-* Runners - Drakish term for escaped slaves hunted as game.
-
 * Swarm -- The @Swarmlings that have left the @eyrie to found a new one.
 
 * Swarming -- The flight for a new drake @eyrie that recurs every
@@ -106,4 +104,4 @@ Wikidrakia
 
 * Verkon, Drake -- Dominant of his @Flight. In this flight @Galun was bred.
 
-* Long Pig --  South Seas pidgin for human meat.
+* Long Prey --  South Seas pidgin for human meat.
