@@ -44,9 +44,9 @@ Wikidrakia
   craftsmanship of making ceramics. Only the burners can generate
   the amount of heat to cure the pieces to full strength.
 
-* Eyrie -- A drake home building, fortified. It contains the @breeding chambers
+* Eyrie -- A drake home building, fortified.
 
-* Breeding Chambers -- Where the Breeders live under the Dominant's eye.
+* Hatching Chambers -- Where drake eggs are cared for.
 
 * Laying -- a period in the @"breeding cycle".
 
@@ -60,31 +60,23 @@ Wikidrakia
   the @flight can afford the loss of a generation they start the
   @Swarming.
 
-* Breeder -- The female drake. They are rare since eggs that become
-  breeders have to be handled with extra care. The number of breeders is
-  also limited by the amounts of non-breeders around, since breeders
-  can't take care of their food for themselves when laying. Drake
-  breeders become fertile after the next hatching.
-
 * Egg, Drake -- The caste the hatchling will belongs to is determined by
   the time it is laid.
 
 * Flight -- Group of Drakes, lives in an @Eyrie, controlling a hunting
-  range. Each tribe has one @Dominant, who confers mating privileges.
+  range. Each tribe has one @Dominant.
 
-* Aspirant -- Male @Drake that has passed through a hormonal
-  metamorphosis that makes him able to mate with the breeders. The
+* Aspirant -- @Drake that has passed through a hormonal
+  metamorphosis that makes him fully mature. The
   secretion of the hormone is caused by hunt and combat actions in which
   the drake is involved.
 
 * Dominant -- The @Aspirant that established as the drake
-  leader, who has the final say on leading the tribe and has the most mating
-  privileges with the breeders. Rarely, he may confer breeding privileges upon
-  non-intendants for exceptional service.
+  leader, who has the final say on leading the tribe.
 
 * Intendant -- one of the Aspirant lieutenants of a Dominant. Traditionally he
   has one of each caste other than his own.  Additional Intendants
-  are sometimes designated for special duties.  Intendants have some mating privileges.
+  are sometimes designated for special duties.
 
 * Swarm -- The @Swarmlings that have left the @eyrie to found a new one.
 
@@ -102,6 +94,6 @@ Wikidrakia
 * Reshan'lo, Drake -- Recorder in the Flight of Kerath. He is a member
   and also the Recorder of the @spiral path.
 
-* Verkon, Drake -- Dominant of his @Flight. In this flight @Galun was bred.
+* Verkon, Drake -- Dominant of his @Flight. In this flight @Galun was hatched.
 
 * Long Prey -- Drake term for bipedal game (e.g., humans). Derived from "long pig", which is South Seas pidgin for human meat.

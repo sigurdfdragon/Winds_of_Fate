@@ -21,7 +21,7 @@ Each scenario is named after a level of challenge/intiation for Galun on his pat
 
 * Scenario 4: The Spiral Path
   * Story only: A dialog between Galun and the Recorder of Kerath
-  * Galun receives his swarmlings and breeders.
+  * Galun receives his swarmlings.
   * Informs the Recorder of his determination to fly east over the
     Great Ocean
 
@@ -77,7 +77,7 @@ Here, Galun's challenge is to protect the nest he has founded.
 * Scenario 11: Fire Meets Steel
   * The Recorder tells us that, unknown to Galun, one of his Sky Drake
     volunteers was a spy for the Flight of Kerath. It disappears with
-    several bags of provisions. No attempt was made on the breeding pens, so it
+    several bags of provisions. Nothing else was out of place, so it
     becomes apparent to Galun that he must have gone back to Morogor.
   * Dwarves living in the region investigate the intruders.
   * Drake arrogance and dwarven stubbornness do not mix well. Battle ensues.
