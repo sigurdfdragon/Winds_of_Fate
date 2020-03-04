@@ -9,7 +9,7 @@ Each scenario is named after a level of challenge/intiation for Galun on his pat
 
 * Scenario 2: The Raid
   * Orcs land on island
-  * Verkon (Flight Leader, Drake Warden) charges Galun with leading the raid
+  * Verkon (Flight Leader, Drake Enforcer) charges Galun with leading the raid
   * Drakes obtain location of islands to make the jump east across the great ocean to the great continent
   * Can recruit Burners, Fighters, & Gliders or is given an allotment
   * By succeeding in the raid on the orcs, Galun becomes a hero for the
