@@ -1,0 +1,1318 @@
+WINGS OF VICTORY
+
+
+S01 THE HUNT
+
+
+STORY:
+
+From the silent skies above, we of the glider caste watched. We remembered.
+
+We witnessed the vast isles of Morogor slipping into the sea. The diminishment of our nourishing lands. The cries of starving hatchlings before the Wasting’s forever hush. Newer flights scraped out a meager existence on islets of rock their grandsires would have scorned. With envious eyes they gazed upon the green expanses of the central islands. Then it began…
+
+One by one, the most desperate flights turned rogue. They broke the long peace among drakes by invading the domains of their brothers. One by one the rogues were erased by the honorable flights in accord with the Ways. Still more turned; two by two, then four by four. Soon enough there would be more flights to betray the Ways of Morogor than uphold them.
+
+Fortunate it was, that the landbound intruders appeared when they did. Faring across the ocean upon their wooden sea gliders. They journeyed from beyond one side of the horizon to the other. Even our strongest flyers could not safely follow them so far as they went, lest they pass the point of no return. Just the same, we had more than a notion of their destination.
+
+For gliders remember what others forgot. There is land beyond Morogor, across the Great Ocean. From there long ago we drakes came. To there we needed return. If only one might come to catch the windpath home…
+
+
+START:
+
+(Galun [a burner], Vank [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
+
+Vank: The Isle of Gaall. That of which remains.
+
+Galun: It is as I imagined. The Challenge of Gaall awaits us below. The trial for my Aspirancy.
+
+Vank: May we few prove worthy of it… if only Kerath was still of us.
+
+Galun: Kerath never was of us, verily. Seeking an ally in him we could find only a rival. I chose not to see his wayward heart. The heart of a Dominant.
+
+Galun: The challenge before us is as I envisioned. Nothing less readies us for the Contention. Neither the Salient Journey that is to follow.
+
+Call the Hunt.
+
+Vank: By your will-- Hunters! Descend!
+
+
+SCENARIO OBJECTIVES:
+
+Galun and Vank must attain level 2.
+
+Overcome the Challenge of Gaall so Galun rises to the rank of Aspirant by:
+Harvesting 100 sacks of meat by day five.
+Minor prey is worth 4 sacks.
+First level prey is worth 8 sacks.
+Second level prey is worth 16 sacks.
+Third level prey is worth 24 sacks.
+
+Galun and Vank must survive.
+
+
+VICTORY:
+
+Vank: Victory is yours, *Aspirant* Galun!
+
+Galun: Learn from this trial, Vank. Your fear voiced at the onset of this hunt; see now its futility.
+
+Vank: If I only had your fearless heart…
+
+Vank: … Galun. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
+
+Galun: Nay! Nothing is there to be said. A brief moment now long passed.
+
+Vank: Galun…
+
+Galun: You know what lies ahead. Henceforth, we must look only to the future.
+
+
+
+
+S02 THE RAID
+
+
+STORY:
+
+Narrator:
+
+Now of rank Aspirant, Galun only needed a chance for honor in battle to secure his entry into the Contention. It arose swiftly with a summons from Dominant Verkon…
+
+Verkon: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now landbound fiends keep a holdfast on an isle of my domain.
+
+I want all trespassers harvested for meat with consistency. Aspirant Kerath, offer me your ploy.
+
+Kerath: Full encirclement from offshore. No escape shall be permitted. From the circle I will spy the thinnest line. Then strike through to the nighest watchtower. From there I marshal a force to purge the isle. Those hostile defenses that thin to feed a counter, the circle will fall upon.
+
+Verkon: Your war sense sharpens, Aspirant Kerath.
+
+Now offer me yours, Aspirant Galun.
+
+Galun: Cornered prey defends its back. Encircling is folly. Let the prey think they can thwart us.
+
+Two equal Wings of drakes. First Wing strikes southeast watchtower on first dawn. The creatures will rally to fall upon it, a mere half force as it is. On second dawn, Second Wing strikes opposite from northwest. Where they find the prey’s back turned to them.
+
+Kerath: Your first wing would not last the day, Galun. It is you which speaks folly!
+
+Galun: The wing will hold. I will lead it.
+
+Verkon: So be it. Aspirant Kerath, take lead of the second wing. Now, with our ploy set…
+
+Galun: There is one matter further. I will have the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
+
+Kerath: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
+
+Galun: Wingless. Finless. Landbound are these intruders. They can only be from distant land.
+
+Verkon: You may take your captive so a counter incursion can be directed whence it came.
+
+Call the Hunt.
+
+
+START:
+
+(Galun, Vank, two Burners, two Fighters and two Gliders appear from SW over the ocean)
+
+Vank: Our swift approach escaped our quarry’s notice. Their defense is yet to be mustered.
+
+Galun: We will retake the nearest watchtower before they ready fully. From there we rally a defense of our own.
+
+Vank: It would be wise of us to burn their sea glider, lest they escape by it.
+
+
+SCENARIO OBJECTIVES:
+
+Defeat Viragar or his ship before he escapes (ship begins retreat on turn 15).
+
+Slaughter every last intruder.
+
+Galun and Vank must survive.
+
+
+TURN 7:
+
+Vank: Lo! Kerath reinforces us.
+
+Kerath: I see Galun still lasts. Wing, descend upon the interlopers. Leave no survivors!
+
+Galun: Kerath, their leader is to remain uneaten. I want no repeat of last time.
+
+Kerath: You do not command me, Galun.
+
+Galun: I remind you it is by Verkon's order this creature remain whole.
+
+Kerath: So be it. My wing will hold your prize inviolate.
+
+Mostly.
+
+
+TURN 15 AND VIRAGAR UNDEFEATED AND HIS SHIP INTACT:
+
+Viragar: Run! Back to the boat you scum! We are LEAVING!
+
+(Viragar returns to keep then disappears to the ship which attempts to move NNW)
+
+
+SHIP REACHES EDGE OF MAP:
+
+Vank: Galun, the lead intruder is fled!
+
+
+IF KERATH DEFEATED (by enemies):
+
+Kerath: I must withdraw. Another triumph falls to Galun alone.
+
+(Kerath disappears or flies away without death animation.)
+
+
+VIRAGAR DEFEATED:
+
+Galun: Speak, prey. Your kind fares beyond these islands. You will tell us of your destinations.
+
+Viragar: Release me now and maybe I let some of you live... for future sport of my archers! Hahahaha!
+
+Galun: Put him to the Spit of Telling.
+
+
+ALL ORCS SLAIN:
+
+Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank.
+
+
+
+
+S03 THE CONTENTION
+
+
+STORY:
+
+Narrator:
+
+Fresh prey carcasses were justly divided among combatants in accord with the Ways of Morogor. An ample victory feast was had…
+
+Kerath: Savory… *chewing* Sapid… *crunch* … a delicacy without match these creatures are.
+
+Vank: Galun! Rich tidings I bear. All that it carried, the captive’s mind spilled!
+
+Galun: Speak of it!
+
+Vank: ‘Orc’ the creatures call themselves.
+
+Kerath: *examining his meal...* “Orkchops.”
+
+*crunch*
+
+Vank: From a distant westerly isle do they flow forth. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
+
+Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight. Now we know the way home.
+
+Galun: Our salient journey grows nigh. With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation.
+
+Kerath: Galun, that will not please Verkon. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Verkon hold against the rogues becoming!
+
+Galun: … Vank, of the east you have yet to speak.
+
+Vank: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
+
+Galun: Go on.
+
+Vank: … Further east, another stretch of sea, nearly as wide. At last the ‘Great Continent’. A realm of land vast nearly as the ocean. Likewise mysterious.
+
+Vank: Verily the Winds blow us west. There, the Spoken Memory of the gliders offers us aid. Ancient knowledge needed to thrive upon such lands.
+
+
+START:
+
+Narrator:
+
+(Description of Contention purpose and rules. TBD as game play in development as of this writing.)
+
+By the end only the two Aspirants of Verkon lasted to face one another. In the Arena of Dominance, in the very heart of Morogor...
+
+Vank: The Contention! I feel strangely light.
+
+Galun: Pray do not fall faint before this grand audience, Vank.
+
+Kerath: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
+
+Galun: If just sharp as your tongue were your teeth.
+
+(Vank gives game plan advice. TBD.)
+
+
+SCENARIO OBJECTIVES:
+
+To be decided.
+
+
+IF KERATH VICTORIOUS:
+
+Kerath: A dream this must be. No longer do I dwell in the shadow of Galun.
+
+
+IF GALUN VICTORIOUS:
+
+Kerath: ……
+
+Galun: Drakes! Fellows of all castes, hear me! This is a dark time in which we endure. Our lands provide not as once they did. Unfed hatchlings succumb to the wasting. A war among us hastens. Worse than these all-- your hearts bleed doubt!
+
+Galun: This hope I offer you. There are lands beyond Morogor. Beyond its troubles.
+
+This oath I swear you. To the way beyond I will lead you. With my new flight, to the far lands I proceed to plant my eyrie!
+
+Verkon: By all the devils in the sea… this is folly, Galun!
+
+Galun: Upon the greatest of all lands my eyrie shall stand. The greatland of the East!
+
+Vank: Galun… nay... our fate lies in the West…
+
+Galun: Await my summons. Your salvation will it mean!
+
+
+
+
+S04 ISLANDS
+
+
+STORY:
+
+Verkon: Vank, I would speak with you.
+
+Vank: Of Galun’s mind to go east, nothing can I do.
+
+Verkon: That I know. I must counsel you of a wider matter.
+
+Verkon: You are now Galun’s First Intendant. Your duty is to provide his mind what it lacks… Fear.
+
+He shuns it. Fear is what you must provide him.
+
+Vank: To his fearless heart do I owe my life. No other would have ventured into that cave. One, of his high caste, for sake of a fledgling glider.
+
+Verkon: Then repay him. Speak answers to concerns he will not contemplate. Spy those perils to which he turns his back. Verily, to your doubt he might soon owe his life in turn.
+
+Vank: …your words bear wisdom. I shall try to heed them.
+
+Narrator:
+
+For farthest travel, every burden was loosed. Belongings abandoned. The hulking apparati of the clasher caste forsaken. Essentials nigh curtailed.
+
+Even then, unready to last such a journey were half among the flight. Those yet too young. Those with wounds still mending. To his bewilderment, Kerath was gifted these-- his own Flight to lead.
+
+At earliest dawn the Flight of Galun lifted skyward. Over land darkly striped by long cast shadows of craggy peeks, dull red light of a warm new sun between them...
+
+Soaring over a sea airy as the sky above, the world far about as a single bright raindrop suspending them under a midday sun...
+
+Skimming just above the glassy moonlit ocean, their wingwake mildly rippling behind...
+
+Soaring by day. Skimming by night. So forth the journey persisted.
+
+To spy the Petty Atoll, Vank scattered gliders to a broadest array. Past their north wing it nigh slipped even so. At long last, they set themselves upon it.
+
+
+START:
+
+(In northwest and southeast aquatic camps sits Mermish Spearman Poseira and Merman Warrior Nemas, respectively. In the northeast camp sits Naga Warrior Shussek.)
+
+Shussek: Ssssss! Leave our reef, fish imps.
+
+Poseira: Naga interlopers, these isles are now annexed to the realm of Lord Typhon, and by his decree you are specifically banished from them.
+
+Nemas: My liege! Drakes have made landfall to your south!
+
+Poseira: Drakes?! By the gods, how can they be out this far from their rocks?
+
+Shussek: Ssssss! What is this? You bring bizarre winged hirelings to our parley... Treachery!
+
+Poseira: Naga interlopers, this shall be my final warning to you, depart at once!
+
+Shussek: We will ‘de-part’ your fins from you and gulp your fry by the thousands. Ssssss!
+
+Galun: So an army of mermish would choke our salient passage across their ocean realm. A great battle between us will now ensue.
+
+Vank: The mermish have deranged us for centuries. Yet the Flight is direly weary from the journey. If we could find some way round conflict…
+
+Galun: We will prevail through them.
+
+Vank: Then we should at least forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
+
+Otherwise, having not summoned us here, prudently will he assume us of the mermish camp.
+
+Galun: I will consider this.
+
+
+SCENARIO OBJECTIVES:
+
+Slaughter every last creature standing against us.
+
+Vank may turn the Naga to our side if he reaches their leader directly (if he is one tile away).
+
+Galun and Vank must survive.
+
+
+ON TURN 2:
+
+Vank: Lo, just below the horizon! There are mighty wakes pointing to us. Only a monster leaves so tall a wake.
+
+
+IF VANK REACHES NAGA LEADER WHILE MERMISH ALIVE:
+
+Vank: We seek an ally against these fiend mermish.
+
+Shussek: Ssssss? You will betray mermish?
+
+Vank: … As you say.
+
+Shussek: Then you take this reef from us? Ssssss!
+
+Vank: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
+
+Shussek: You have a deal, sky monster. They will float dead on the waves!
+
+
+IF VANK REACHES NAGA LEADER WHEN MERMISH DEAD:
+
+Shussek: Ssssss? You have betrayed mermish?
+
+Vank: … As you say.
+
+Shussek: Then you take this reef from us? Ssssss!
+
+Vank: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
+
+Shussek: So be it, sky monster.
+
+
+ON TURN 6:
+
+Shussek: Behold your doom!
+
+
+EVERY 6 TURNS WHILE SHUSSEK LIVES:
+
+(A Sea Serpent appears on the side of SHUSSEK near his location.)
+
+Sea Serpent: “Hissssss!”
+
+
+ON TURN 7:
+
+Poseira: Release the Kraken!
+
+
+EVERY 8 TURNS WHILE POSEIRA LIVES:
+
+(A Kraken appears on the side of Poseira near his location).
+
+Kraken: “Glarbelblarg!”
+
+
+VICTORY:
+
+Vank: Now… we can rest.
+
+Galun: I will allow a sojourn of three days. No longer.
+
+
+
+
+S05 THE THREE SISTERS
+
+
+STORY:
+
+Narrator:
+
+Gliders were dispatched back to Morogor with exacting details of the petty atoll’s location. The flight resumed its journey east.
+
+The familiar rhythm of the salient journey began anew. Slowly returned the aching wings.
+
+Then Galun, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
+
+With effort, Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the greatland.
+
+
+START:
+
+(Galun appears at 3,19 with Vank and some gliders appearing nearby.
+The northern keep is occupied by The Midnight Queen [Spectre].
+The southern keep is occupied by a Giant Scorpion, with saurians hostile to it distantly surrounding it.
+The eastern keep is occupied by Rhynnin, a Master at Arms.)
+
+Galun: It is here I will plant my eyrie. Clear this isle of every hindrance.
+
+Vank: By the northern stronghold the land bleeds its fiery ichor. From there, we can reforge the apparati of the clashers.
+
+Vank: To the southern stro… Hatchlings! There are hatchlings to our south. They look to be in dire need of aid.
+
+Rhynnin: Spread forth, men! I care not for what stories you have heard of this place. For striking at Elensefar herself, we shall hunt those scaly wee devils to the far reaches of this “cursed isle”!
+
+Galun: Those creatures are jessene.
+
+Vank: Nay, their arms appear not crude enough to be. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
+
+
+SCENARIO OBJECTIVES:
+
+Slaughter every last creature imperiling this triumphant setting place of our eyrie.
+
+Clashers can be recruited from the northern keep.
+
+Saurians can be recruited from the southern keep.
+
+Galun and Vank must survive.
+
+
+IF GIANT SCORPION LEADER KILLED:
+
+(Saurian Skirmisher Arinexis and Saurian Augur Krenix [plus other saurians as balance requires] appear in the swamps nearby the southern keep.)
+
+Krenix: He returnsss! Noble Shek’kahan returnss from ssspirit realm to ssave usss! *chirping sob*
+
+Galun: Vank.
+
+These… are not hatchlings.
+
+Vank: By the winds, they are not. Indeed, their resemblance is so strikingly of hatchlings.
+
+Arinexis: Ssso thesse are Fire Dragonsss, eh Krenix?
+
+Hail, dragonss! *rapid clicking* Down here!
+
+Vank: They are receiving us.
+
+Arinexis: Hail-loooo! Dragonss, can you ssspeak? Krenix, you ssaid dragons can ssspeak!
+
+Galun: Little ones! You will do as I command!
+
+Krenix: By every sssign upon firmament, we hear you Shek’kahan! You are our moonlight!
+
+(Saurians are now under player control. Arinexis and Krenix must survive.)
+
+
+EVERY ENEMY UNIT DEAD:
+
+Galun: Upon this isle, I hereby Proclaim my Eyrie. From here my Domain extends.
+
+Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, shall be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
+
+Vank: By your command, my Dominant.
+
+I should also dispatch a sky patrol. To begin unbroken watch of the greatland just off our western shore.
+
+Galun: As you wish.
+
+
+
+
+S06 ELENSEFAR
+
+
+STORY:
+
+Narrator:
+
+A proud eyrie was carved into the highest peak of the three islands. The small flight easily filled their bellies with the game of only the main isle. The stocks of the wider domain were reserved for the visitor flights to come. Vank’s patrols spied vague details of the mysterious greatland.
+
+Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The Flight of Kerath.
+
+Galun: Kerath, you did not wait for my summons!
+
+Kerath: You left no prospect of waiting. After your loud manifesto, the rogues-becoming began probing the Domain of Verkon. Without your flight there would be not enough to hold against them. Verkon counseled me here. So the youths you bestowed me I traded to other flights for prime drakes willing to make the journey.
+
+Galun: Verkon can not hold with *no* ally by his side.
+
+Kerath: Verkon designed to follow me here. By now he is already faring.
+
+Vank: We have not yet the provisions for three flights within this domain. There could be hunger before the next moon!
+
+Kerath: Galun we must… Galun, hatchlings do not belong at a counsel gathering.
+
+Arinexis: We are *not* hatchlingss…
+
+Not hatchlings!
+
+Krenix: Indeed, I am our pack’ss Elder. Ssuch longevity wandering starss bestow me. For over 11 yearsss have I lived.
+
+Vank: They are “Saurians”.
+
+Kerath: Their likeness to hatchlings is disarming. Disturbingly so. I will not have them near my fli…
+
+Galun: Enough.
+
+I will have a closer survey of the greatland focused on game abundance. See to it at once, Vank.
+
+Vank: By your will. *departs*
+
+Kerath: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
+
+Krenix: You ssaw Demon King?! You ssssaw *The Haldric*?
+
+Kerath: Galun, your hatchling-things cry nonsense. You must gain control over them.
+
+Arinexis: Not nonsensse! Creaturess you sssaw call themsselvesss “humanss”. Lumbering, brutish, odiouss monstersss covered in moisst sskin of toad. Hirelingsss sssummoned from underssside of world by pixiesss of deep, dark foresst-- Wesssmere foressst.
+
+Thesse humanss ssslaughtered all but my entire clan! Upon the ruinsss of my hatchplace they raissed their invulnerable fortress of Elensssfar. Pray dragonsss, rain jussst fire down upon thesse abominationsss!
+
+Krenix: Alasss! I am verily shaking at presssent.
+
+Kerath: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
+
+Galun: Vank has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
+
+Kerath: Yes, Vank’s fears. I remember, long ago…
+
+You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Vank. Before your mind echoed with his glider myths.
+
+Galun: Not myths, Kerath. Look around us. It is not the ocean we stand upon.
+
+Kerath: Your dreams of glorious feats, spoken in such detail. Such certainty. In them I found my inspiration. I would become your First Intendant. So that I might become a part of them-- your adventures to come. Harder than your other allies I trained. In the Challenges, fiercer than any of them I fought.
+
+Already advanced to Warrior rank was I, when still of basic rank were all of you. When you promised First Intendancy to Vank. The insult of Second… to me.
+
+Galun: You dwell so much in the past. The past weakens you.
+
+Kerath: It is for this present moment that I recall our past!
+
+I conjure you, remember your *Fire* for those dreams! The gift of your caste that once burned brightest in your heart!
+
+Kerath: Galun… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Galun, pray tell what dream you see.
+
+
+START:
+
+(Galun is camped with Arinexis and Krenix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Galun’s camp.)
+
+(Vank flies in from east, stopping north of Galun’s camp.)
+
+Vank: Galun, you have made landfall! In sight of these creatures!
+
+Galun: You have returned from patrol with fortunate timing, Vank. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
+
+Vank: Galun, this is terribly unwise!
+
+Galun: Fall in, Vank.
+
+When I give you the signal, light the brazier. It will call in our reinforcements.
+
+(A horn sounds from Elenesfar’s guard.)
+
+Vorlyan: Dragons! A horde of them… they do move in hordes.
+
+Captain Iryn, send word to King Haldric and alert all local guards along your path!
+
+(Iryn rides away east off the map.)
+
+
+SCENARIO OBJECTIVES:
+
+Harvest all prey.
+
+Kerath’s Flight will aid you whenever the beacon is lit. (Place a unit on the beacon at X,Y)
+
+Meat bonus for every kill. (“gold”)
+
+Clashers and saurians are now recruitable and recallable.
+
+Galun, Vank, Kerath, Arinexis and Krenix must survive.
+
+
+IF KERATH BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
+
+(Kerath appears with a host of assorted flying drakes in NW corner of map.)
+
+Kerath: I see we will eat well this day!
+
+
+ALL PREY HARVESTED:
+
+Arinexis: The humansss are destroyed and their “Elensefar” burnsss!
+
+My people are avenged and my hatchplace isss free!
+
+
+
+
+
+S07 WESMERE
+
+
+STORY:
+
+Narrator:
+
+The hunt continued across grassy stretches of the greatland. Beasts on four legs, beasts on two. All harvested in countless numbers. Finally, with meat sacks overburdened, Flight Galun returned to the eyrie. The recently arrived Flight of Verkon awaited them.
+
+Verkon: I erred in judging you, Galun. This land is indeed limitless. Half of Morogor makes ready for the journey!
+
+Vank: That must not be! Even now we have not the provisions for additional visitors. Further, our saurians tell us there is a terrible season which afflicts the greatland. Much of it will grow as lifelessly cold as the highest mountain peak. This cold lasts several moons.
+
+Verkon: Then we must expand the hunt. Presently.
+
+Vank: There is something else… the Prey. We may have underestimated it. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
+
+Galun: I will hear no more of your fear, Vank!
+
+Vank: ……
+
+Galun: Grim observations from your lofty vantage among the clouds. Your nipping doubts. Dwelling within the past… The Cave.
+
+So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how I shift the winds of fate.
+
+Vank: The spoken memory tells us steady wings may Catch the winds of…
+
+Galun: Nay. Not merely tugged by the winds. I *Shift* the winds of fate. I feel the world as it should be with all the Fire of my Heart. With no room left for doubt. Then the world I feel becomes.
+
+Verkon: Galun, I understood nothing of what you just said.
+
+Yet I never argue with results. Every rogue to be, which looked to their neighbor with the fiery eyes of envy… Now they journey here to claim abundant lands in peace. You spared Morogor a terrible war between us. Whatever be your next act, my Flight will uplift it.
+
+Galun: I Call the Hunt. A hunt greater than any in the glider remembrance. Three Flights of Hunters.
+
+I already signaled Kerath to continue east across the grassy plains. Verkon, you will depart southeast for the warmlands. I will go northeast to the sunreach peaks. Together we will pluck meat enough for all of Morogor.
+
+
+START:
+
+(Galun’s camp is in a woodlands west of a river running vaguely NNW-SSE. There is a river or ford west across the river guarded be an elvish castle commanded by [Elvish Hero] Nomeon with [Elvish Rider] Vonel nearby. From there a path leads further west to two C-shaped intertangled yet separate castles. On one sits [Elvish Sorceress] Irimoon. Far WNW is [Ancient Wose] Gulladrumm.)
+
+Nomeon: You monsters there, Halt! This is the sovereign realm of Wesmere. No further may you go.
+
+(Irimoon moves from her keep all the way to the river crossing.)
+
+Nomeon: Princess, I beg of you, walk not again into jeopardy!
+
+Irimoon: Be silent, Nomeon. For I am no mere “princess” awaiting your salvation. With all your beastly sinews and steel tools of death, you possess not a dewdrop of my esoteric powers. My unelucidated talents and conscience are more than protection enough.
+
+Arinexis: Shek’kahan, thisss iss their underbelly I ssspoke of…
+
+Wise Irimoon! We wish entry to your land, ssseeking your counsssel. Grant uss thisss, Irimoon the Jusst!
+
+Irimoon: “Irimoon the Just”. I shall weave this to the long twine of my titles. “Wise Sorceress Irimoon, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
+
+Arinexis: We grow weary of… travel. And we go hungry! … *So Hungry*…
+
+Irimoon, pray allow usss entry.
+
+Nomeon: Nay! This is a March of Wesmere.
+
+Irimoon: Marches only part us, Nomeon...
+
+Let all be welcomed to Wesmere!
+
+(Irimoon begins travel back to her keep, a turn at a time. No AI sides will recruit or attack until the player attacks.)
+
+
+SCENARIO OBJECTIVES:
+
+Harvest all pixie meat. (Woses are not counted.)
+
+Meat bonus for every pixie. (“gold”) (Woses are not counted.)
+
+Galun, Vank, Arinexis and Krenix must survive.
+
+
+IF IRIMOON REACHES HER KEEP UNHARMED:
+
+Irimoon: This is my castle Saethrania-- the Castle of Sharing. You may make an abode of castle Gliinoler-- the Castle of Caring.
+
+(the player is pointed to the keep tile of Gliinoler)
+
+
+IF GALUN REACHES THE KEEP OF GLIINOLER:
+
+Krenix: By blue glow of moon! Shek’kahan, you have these pixiesss in your teeth.
+
+Arinexis: Let usss attack!
+
+
+IF ELF OR WOSE ATTACKED:
+
+Irimoon: Nay! This is a thing too terrible to foresee. Nomeon, save me from these dragons!
+
+Nomeon: I am coming, Princess!
+
+Dispatch doves to the Ka’lian with word of our peril here!
+
+Vonel: Princess Irimoon loosed them to the wilds this morning for sake of their well being…
+
+I shall send word myself!
+
+(Vonel rides off map to the WNW.)
+
+
+IF IRIMOON DEFEATED:
+
+Irimoon: You have slain me, Nomeon. Your bias and slander against these gentle creatures imbued them with a terrible yet justifiable wrath!
+
+
+ALL PIXIES EATEN:
+
+Galun: Flight, spread forth. Seize all this forest offers us. We will regather to the sunreach peaks.
+
+
+
+
+S08 FOOTHILLS
+
+
+START:
+
+(Galun, Arinexis and Krexis are in a dwarven outpost perched on a rocky mountainside overlooking the NE edge of Wesmere. Just NE of the camp is an expansive cave. The Lich-Lord Siravan and its minions dwell within, concealed by the scenario shroud.)
+
+Arinexis: To command respect, our alliance with dragonsss mussst have *ssome* name!
+
+Krenix: ‘Sibblings of Setting Sun’
+
+Arinexis: ‘Union of Saurgrath and Morogor’
+
+Krenix: ‘Alignment of Moon and Sun’
+
+Arinexis: ‘Sandwalkers’
+
+Krenix: ‘Alliance of Seven Ssilver Starsss and Five Fish of Firmament’
+
+Arinexis: ‘Sandfolks’!
+
+Krenix: Ah, that is mosst favored name - ‘Sandfolks’ - bland yet no negative connotationss that sssummon…
+
+Galun: You *will* be silent.
+
+(Vank flies in from the SW.)
+
+Galun: Report, Vank. There are still three wings yet to regather.
+
+Vank: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
+
+We must retreat to the eyrie with haste.
+
+Galun: Our haul is too weighty to be flown with a dozen trips. I will not forsake it.
+
+Arinexis: Through thiss cave! Essscape through here…
+
+(Arinexis moves through the cave entrace, peeling back the scenario shroud to reveal many barrels and piles of dark powder strewn about.)
+
+Krenix: With care, Arinexisss, with care! Fire dussst isss ssstrewn about.
+
+Arinexis: Dragonsss, do not breath on the dussst!
+
+Vank: Fire Dust… enough to bring down this cave behind us…
+
+Galun: … a Cave.
+
+Vank: Galun, you know we must brave it…
+
+… we will do this. Together. You got me out of *That* cave alive. I swear to you, Galun, I will repay you this.
+
+Galun: Vank… about That cave… there is something…
+
+(The Sound of War Horns. An Elvish Outrider and several Elvish Riders appear from SW. [They are in reach of striking on their first move.])
+
+Vank: Land gliders! I never expected they possessed such swiftness. To delay us must be their aim.
+
+Galun: I need a few to hold a line across the mouth. The rest of you, into the cave!
+
+
+SCENARIO OBJECTIVES:
+
+Seek the passage through the mountain.
+
+Flee members of our Flight through the passage. (Move units on to the exit tile to flee them.) (Those left behind will perish.)
+
+Flee Galun and Vank through the passage last. (Move units to the exit tile to flee them.)
+
+The main mass of frenzied prey arrives in two days. (Turn 13)
+
+Galun, Vank, Arinexis and Krenix must survive.
+
+
+ON SIGHTING LICH-LORD SIRAVAN
+
+Lich-Lord Siravan: Come to test me yet again, Krahkrahs?
+
+Krenix: It isss to hisss sstronger brother Shek’kahan you ssspeak!
+
+Lich-Lord Siravan: As you say.
+
+Galun: I will have passage through this mountain. You are advised to move aside.
+
+Lich-Lord Siravan: Yes, indeed you will have passage through… to whence you came. I trust you can find yourselves out, otherwise my servants will show you the way.
+
+
+ON TURN 13 AND EVERY FOLLOWING 6 TURNS:
+
+(The Sound of War Horns. Along the SW map corner edges, elvish units spawn of levels 2 and 3.)
+
+
+ON TURN 13
+
+Lich-Lord Siravan: What is this clamor?
+
+(Fog of War is lifted.)
+
+(Trigger “ON SIGHTING LICH-LORD SIRAVAN” if it has not already triggered.)
+
+Lich-Lord Siravan: Elves? Did you dragons tow elves to this place of fruitful solitude?
+
+An age past, I trekked the depths beneath the Maelstrom Ocean to find a place so tranquil as this. Yet with all you creatures of every flavor pestering me here now, it seems no peace may I find for this needed work from which you all gain in ways you care not to fathom. Even if I alone completed the transmutation of our entire sub-realm, would it be heeded?
+
+Lich-Lord Siravan: Nevermind. Dragon, I have much toil of the mind to uplift to the aether before these dim pucks undo its present corporeal manifestation. I offer you passage for a truce.
+
+(Player chooses between affirmative and negative responses, respectively:
+Galun: You have your truce.
+OR
+Galun: Your chance for clemency has expired.
+The affirmative will switch the Lich’s side and its allied sides to Galun’s team.)
+
+
+IF LICH-LORD SIRAVAN DEFEATED:
+
+Lich-Lord Siravan: A pity. I rather fancied this body.
+
+
+IF UNIT MOVED TO EXIT PASSAGE TILE:
+
+(Unit removed from map and saved.)
+
+
+IF VANK MOVED TO EXIT PASSAGE TILE:
+
+Vank: Nay. Galun, I will not depart this cave before you!
+
+
+IF GALUN MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND KRENIX EXIT:
+
+Galun: Those saurians do not keep pace… yet I will not forsake them to such a place as this.
+
+
+IF GALUN MOVED TO EXIT PASSAGE AFTER ARINEXIS AND KRENIX EXIT:
+
+(Mundane units still on map are not saved.)
+
+Vank: Go on, my friend. I will make sure none follow. Leave this cave behind.
+
+Galun: Nay, there is no time, we leave now.
+
+Vank: Tell Kerath I will always regret taking his place.
+
+Galun: Vank, we leave this cave together. Just like we did the first one.
+
+Vank: farewell my friend
+
+Galun: vank
+
+(Vank flies SW to a large collection of ‘fire dust’ kegs that pervade the SW of the cave.)
+
+Vank: My wings catch the Wind…
+
+(Vank ignites the fire dust. With a deep rumble the map goes black.)
+
+
+
+
+S09 HEART MOUNTAINS
+
+
+STORY:
+
+(no portrait) Galun: my friend
+
+(no portrait) Galun: i have killed you
+
+
+START:
+
+(Music “sad.ogg” plays. Galun is at camp with his Second Intendant [fighter caste], Arinexis and Krenix. Klanir [Drake Glider] flies in from S and lands near Galun’s camp.)
+
+Klanir: Dominant Galun, I bring ill tidings of the Hunt.
+
+The Flight of Kerath was decimated by a considerable pack of humans upon the grassy plains. The last word from Dominant Kerath spoke of their striving for a retreat back to your eyrie. My Dominant Verkon, in a noble attempt to aid the imperiled Flight of Kerath, fell to our prey. His flight was scattered east, deep into the greatland.
+
+Galun: ……
+
+Klanir: I must relay what I know to Dominant Kerath.
+
+Galun: glider, take care
+
+(Klanir flies SW off map.)
+
+Second Intendant: My Dominant, this land is ripe with prey.
+
+Galun: renew the hunt
+
+
+SCENARIO OBJECTIVES:
+
+Harvest all prey.
+
+Meat bonus for every kill. (“gold”)
+
+Galun, Arinexis and Krenix must survive.
+
+
+IF ALL PREY HARVESTED:
+
+(Krahkrahs [Fire Dragon] flies in from SE.)
+
+Krahkrahs: I know you are here, weakling Shek’kahan! You know better by now than to intrude upon my domain, brother!
+
+Galun: it is i that intrudes on yours
+
+Krahkrahs: You are not Shek’kahan. Depart!
+
+Krenix: Not Shek’kahan…?
+
+Galun: you will have to destroy me
+
+Krahkrahs: So be it, pretender.
+
+Galun: no one is to intervene on my behalf
+
+(NEW SCENARIO OBJECTIVE: Galun must fight Krahkrahs one on one.)
+(12 turns added to turn limit.)
+(Krahkrahs AI mode: Attack only Galun.)
+
+
+IF UNIT OTHER THAN GALUN ATTACKS KRAHKRAHS FOR THE FIRST TIME:
+
+Galun: do not intervene
+
+
+KRAHKRAHS OR GALUN DEFEATS THE OTHER:
+
+Krahkrahs: Speak of Shek’kahan. Tell me my brother’s fate.
+
+Galun: he is perished
+
+Krahkrahs: So then it is true…
+
+It was nigh every season he would intrude upon my domain or me his. Each time, there was such a glorious battle between we, the Sons of Drugis, as to impart even the clouds with fright. I must not have challenged him enough that he grew weak, vulnerable. Now another great battle between us there will never be. Now there is only me.
+
+
+IF KRAHKRAHS DEFEATED GALUN:
+
+Galun: finish this
+
+Krahkrahs: I can not destroy you. You have already been. I saw before our battle began; your heart no longer dances with flames for the struggle of life. There is no glory for me in victory here.
+
+Krahkrahs: Perhaps in time there will be glory in challenging you again. Yes, perhaps there will…
+
+(Krahkrahs flies back SE and disappears off the map.)
+(Scenario successfully completed.)
+
+
+IF GALUN DEFEATED KRAHKRAHS:
+
+Krahkrahs: Long has it been since I enjoyed battle so. Even if it is only by rearing, you stand as tall as Shek’kahan once did.
+
+Krahkrahs: Thank you.
+
+(Krahkrahs flies back SE and disappears off the map.)
+(Scenario successfully completed.)
+
+
+
+
+S10 FIRE MEETS STEEL
+
+
+STORY:
+
+Narrator:
+
+A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. The camp was fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
+
+Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Krenix trekked up the peak to bring his dragon sustenance.
+
+Krenix: I sssee now you are not Shek’kahan. I ssaw as I wanted to ssee.
+
+Galun: As have I…
+
+Krenix: What do you mean?
+
+Galun: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Vank had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
+
+Galun: I thought myself invulnerable, the hero in my own tale. I charged at the beast, striking with bare claws. Spiting feeble sparks. With one swipe I was sent to the ground, bleeding.
+
+Galun: My body froze me as it readied to flee. The desire to flee was overcoming. Flee… abandon Vank to die…
+
+Galun: The agonizing guilt of that last thought. Leave my friend to die. It reignited my heart with an unfamiliar passion. I would do anything to save my friend. I felt the whole world around me burning for the means to save him. That is when I felt it beneath my right wing. A clasher’s spear, broken a reach beneath the head. It had not been there when I entered the cave. It was there now.
+
+Galun: The rogue turned to finish Vank. I threw myself upon it with all my hate. The spear I ran deep through to its cold heart.
+
+Ever since have I trusted absolutely in the fire that saved my friend…
+Ever since have I fled the fear that drove me toward such terrifying cowardice.
+
+Krenix: You shunned Vank’s fearss too.
+
+Galun: Breathing in his fears could chill my heart to cowardice.
+
+Krenix: Yet hisss heart was brave. Hisss fear for you made it sso.
+
+Galun: …… It did.
+
+Krenix: Your fear for him made you brave.
+
+Galun: A discarded spear made me brave.
+
+Krenix: The meanss to ssave your friend. It appeared *as* you feared for him. Becaussse you did.
+
+Galun: …………
+
+(The Sound of War Horns.)
+
+Arinexis: Come ssswiftly! Deep dwellersss emerge!
+
+
+START:
+
+(Galun starts a turn or two from his keep given the hindrance of heavy snow. The camp is already surrounded by higher level dwarvish units three turns away that emerged from holes surrounding at the same distance. Thurdakor [Dwarvish Berserker] has a small camp to the south where he recruits primarily Gryphon Riders to contest villages and support his already deployed forces.)
+
+(Sound of War Horns #3.)
+
+Thurdakor: Sae whit hae we 'ere? Dragons... Sae mony dragons mah een cannae hawp whit they're seeing.
+
+*takes swig from flask*
+
+Arinexis: It ssspeakss but I hear no wordsss… deep dwellersss mussst be drunken.
+
+Krenix: It sssaid “dragonss” and… sssomething about dragonsss.
+
+Thurdakor: A' richt, noo ye listen tae me, dragons. Ah cannae hae ye juist standing aroond th' hail winter dumping yer ye-ken-whit oan th' frozen slopes, whilk come spring, wull mak' fur a stowed oot knalgan gusher, if ye ken whit ah mean.
+
+(Sound of War Horns #4.)
+
+Galun: I do not grasp the words you speak. Use fewer of them with less haste.
+
+Thurdakor: Noo juist whit in th' fiendish skies ‘boon is that suppose tae mean?! Ah wull hae ye ken…
+
+(Sound of War Horns #5.)
+
+Arinexis: Your hornblower ssspewss notesss over your wordsss!
+
+Thurdakor: Juist dingy him, he hud awfy much tae dram.
+
+Galun: If you depart now no harm will come to you.
+
+Thurdakor: Weel that is it then, wee jimmies. Ye a' saw howfur ah tried tae be reasonable. Bit thare is na reasoning wi' dragons. Thay ainlie ken th' bite o' oor axes.
+
+(Sound of War Horns #7.)
+
+
+SCENARIO OBJECTIVES:
+
+Survive for five days. (30 Turns)
+OR
+Defeat Thurdakor.
+
+Meat bonus for every kill. (“gold”)
+
+Deep dwellers emerge from each hole until it is filled in. (Move a unit onto the hole tile to fill it in.)
+
+Galun, Arinexis and Krenix must survive.
+
+
+EVERY TURN:
+
+(A random level one dwarven unit emerges from one of the holes if it is not covered by another unit.)
+
+
+IF A PLAYER UNITS REACHES A HOLE TILE:
+
+(Hole removed. Sound “mud-fist.ogg” plays. No more dwarves may spawn from this point.)
+
+
+TURN 30 OR THURDAKOR DEFEATED:
+
+Galun: Behold what ends you have wrought. You can no easier cast us off these peaks than we could pluck you from the deep.
+
+I offer you this pact. All the peaks are our domain. For our metal works, the soils within. The vast under world beneath these we will not violate. Both of us may hunt the lowlands so long as one takes not the other as game.
+
+Thurdakor: Nae sure ah like the sound o' this deal.
+
+Galun: It is the best you will have. We covet the soil as little as you do the clouds. We will find no better neighbors than each other.
+
+Thurdakor: Yer nae easy tae haggle with, dragon.
+
+Sae be it, a deal we hae. Ah wull even release mah prize wee dragon captive fur ye.
+
+
+
+
+S11 CONFRONTATION
+
+
+STORY:
+
+Narrator:
+
+Soon enough the season of ice was weathered. New green shoots of fodder rose from the thawing greatland. Eggs laid during the long sojourn were hatching. What began as a hunting camp had matured into an eyrie.
+
+A flight was spotted inbound. Once more, it was the Flight of Kerath.
+
+Kerath: Galun, it is good to see you alive. When you did not return, I assumed you too had been taken by the wild game of this land.
+
+I have grand tidings to share, you should summon Vank.
+
+Galun: ………
+
+Kerath: Galun… I am sorry.
+
+Verkon… My own first intendant… This land has snuffed the flames from many warm hearts. It must be subdued.
+
+Kerath: It will be subdued. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
+
+Galun: Kerath, not even the whole of Morogor could subdue this land. Not in the way we strived to.
+
+Kerath: … never before have you spoken as this… Galun, by your own measure, you speak cowardice!
+
+Galun: My measure was wrong. I was possessed of the drive needed to reach this land. Vank was possessed of the wisdom to *thrive* here. You must seek that wisdom. As I now have.
+
+Kerath: I will tell you what I seek! Your return to the eyrie to complete what you began.
+
+Galun: *This* is my eyrie now. Here I must stay to ready my flight for the long task ahead. The task of our slow ascension to dominance over the greatland.
+
+You may return with the provisions we gathered. Once returned, you may claim the eyrie I forsook.
+
+Kerath: You swore to aid those who journeyed to your greatland. You called the Hunt… Galun, the hunt is not ended!
+
+Galun: My summons was never issued, the arrivals premature. The hunt was indeed ended, by failure.
+
+Kerath, we must alter our ploys for rule over this land, lest it is to rule over us…
+
+Kerath: You may embrace your cowardice, Galun. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
+
+Through the Ways of Morogor, I Proclaim you Deprived.
+
+Galun: We are far beyond Morogor. The Ways do not apply. You will not have my flight to expend upon folly.
+
+Kerath: Then only one fix remains. A trial to the death.
+
+
+START:
+
+(Galun, Arinexis, Krenix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Kerath, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+
+Kerath: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
+
+(Player chooses from three responses [Full Combat, Limited Combat, Singular Combat]:
+Galun: This battle decides the fate of my entire flight. I will stay none from their due part in it.
+Kerath: So be it.
+OR
+Galun: I accept.
+OR
+Galun: Then let us leave aside our counselors as well. I challenge you to singular combat.
+Kerath: Your challenge is unexpectedly valiant. I accept.)
+
+
+SCENARIO OBJECTIVES:
+
+Defeat Kerath.
+
+(If player chose the Limited OR Singular Combat):
+If Galun does not recruit or recall then neither will Kerath.
+
+(If player chose Singular Combat):
+Galun should defeat Kerath one on one.
+
+Galun, Arinexis and Krenix must survive. (or maybe only Galun needs to survive)
+
+
+IF PLAYER CHOSE LIMITED COMBAT:
+
+(Kerath will not recruit. He and his intendants will go to the area between the camps [~16,19] and wait. When one or more of Galun’s units is in that vicinity as well, the AI will switch to general attack mode [sans recruiting].)
+
+
+IF PLAYER CHOSE SINGULAR COMBAT:
+
+(Kerath will not recruit. His intendants will not move. He will go to the area between the camps [~16,19] and wait. When Galun is in that vicinity as well, Kerath will attack only Galun.)
+
+
+IF PLAYER CHOSE LIMITED OR SINGULAR COMBAT THEN RECRUITED:
+
+Kerath: You have broken our agreement not to involve our wider forces. You dishonor yourself, Galun.
+
+(Kerath’s side AI resets to defaults. Kerath will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
+
+
+IF PLAYER CHOSE SINGULAR COMBAT THEN STRIKES WITH ANY UNIT BESIDES GALUN:
+
+Kerath: You have betrayed your pledge of singular combat! How far you have fallen.
+
+(Kerath’s side AI resets to defaults. Kerath will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
+
+
+IF KERATH DEFEATED:
+
+Kerath: You have one last victory over me… Finish it.
+
+Galun: Nay.
+
+Kerath: ……
+
+Galun: Kerath, I banish you from this greatland, from these far lands of the east. Not as the victor vanquishing a rival as it was in the contention… as a friend seeking to stay you from the turmoil that becomes.
+
+I strove to prevent a war between the flights. Yet we traded it for a war of an unknown kind. The hungry flights arriving in numbers will call a Hunt far greater than even ours. Yet it will not be a hunt. It will be a war with prey.
+
+Kerath: Beasts can no more make war on us than could the clouds.
+
+Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be scattered deep into the greatland to meet fates unknown. As it was with the Flight of Verkon.
+
+Only through this defeat will they learn as I did. The wisdom Vank whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
+
+Kerath: I do not… fully grasp…
+
+Galun: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out the gliders’ dream of our old homeland’s rediscovery. Let your gliders’ spoken remembrance guide the way.
+
+Kerath: Galun, let both our flights head west. We may together rediscover the homeland as it always should have been.
+
+Galun: I am sorry, Kerath. Our windpaths will never meet as you so long desired. You spoke rightly before, I must finish what I began.
+
+Kerath: So it must be…
+
+May your fire light the way in darkness.
+
+Galun: May the wind catch your wings to soar.
+
+(Kerath, followed by his flight, depart SW off map. Out from a previously invisible hole surfaces Thurdakor.)
+
+Thurdakor: A'm a dwarf o' mah word!
+
+Galun: By your word you would not be upon this peak again.
+
+Thurdakor: *takes swig from flask* I hae come tae release this wee dragon tae you.
+
+(Thurdakor moves aside from the hole. From it Vank surfaces and moves toward Galun.)
+
+Vank: Galun, it seems no cave can keep us!
+
+Galun: vank…
+
+Vank!
+
+Thurdakor: Well, that is it fur me, back doon th' shute.
+
+(Thurdakor disappears back down the hole.)
+
+Vank: My friend… You have saved me.
+
+The deep dwellers hewed through my tomb of broken stone to discover me. I was to be their captive in the underworld forever. A curio to frighten their hatchlings from straying to the above. By your pact with them, I was freed.
+
+Galun: Vank, it was your counsel that saved us. Saved me.
+
+Together, we begin the next thousand years of spoken memory.
+
+
+
+
+S12 EPILOGUE
+
+
+STORY:
+
+Narrator:
+
+Kerath heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing. The Flight of Kerath went on west, fading into the far lands of our origin.
+
+Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the greatland as more poured in from Morogor to supplant them.
+
+Many drakes that grew weary of the hunt came to settle Galun’s high sanctuary. Its many peaks became dotted with eyries of those seeking to catch the winds of fate. By century’s end, followers of Galun’s windpath spanned the greatland as a whole.
