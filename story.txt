@@ -40,12 +40,8 @@ SCENARIO OBJECTIVES:
 
 Galun and Vank must attain level 2.
 
-Overcome the Challenge of Gaall so Galun rises to the rank of Aspirant by:
-Harvesting 100 sacks of meat by day five.
-Minor prey is worth 4 sacks.
-First level prey is worth 8 sacks.
-Second level prey is worth 16 sacks.
-Third level prey is worth 24 sacks.
+Kill x units by the end of the hunt
+[Had tested points per level, decided it came across as too complex]
 
 Galun and Vank must survive.
 
@@ -76,7 +72,7 @@ STORY:
 
 Narrator:
 
-Now of rank Aspirant, Galun only needed a chance for honor in battle to secure his entry into the Contention. It arose swiftly with a summons from Dominant Verkon…
+Now an a Aspirant, Galun only needed to earn honor in battle to secure his entry into the Contention. It arose swiftly with a summons from Dominant Verkon…
 
 Verkon: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now landbound fiends keep a holdfast on an isle of my domain.
 
@@ -171,12 +167,12 @@ Galun: Speak, prey. Your kind fares beyond these islands. You will tell us of yo
 
 Viragar: Release me now and maybe I let some of you live... for future sport of my archers! Hahahaha!
 
-Galun: Put him to the Spit of Telling.
+Galun: Put him on the Spit of Telling. [Is this spit as in roasting?]
 
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank.
+Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank. [is the guest the orc leader?]
 
 
 
@@ -428,7 +424,7 @@ The familiar rhythm of the salient journey began anew. Slowly returned the achin
 
 Then Galun, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
 
-With effort, Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the greatland.
+With effort, Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the greatland. [don't like the 'with effort' part]
 
 
 START:
@@ -497,7 +493,7 @@ Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that 
 
 Vank: By your command, my Dominant.
 
-I should also dispatch a sky patrol. To begin unbroken watch of the greatland just off our western shore.
+I should also dispatch a sky patrol. To begin unbroken watch of the greatland just off our eastern shore.
 
 Galun: As you wish.
 
@@ -779,7 +775,7 @@ Galun: You *will* be silent.
 
 (Vank flies in from the SW.)
 
-Galun: Report, Vank. There are still three wings yet to regather.
+Galun: Report, Vank. There are still three wings yet to regather. [are these wings of Galun's flight?]
 
 Vank: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
 
@@ -1157,7 +1153,7 @@ Galun: ………
 
 Kerath: Galun… I am sorry.
 
-Verkon… My own first intendant… This land has snuffed the flames from many warm hearts. It must be subdued.
+Galun: Verkon… My own first intendant… This land has snuffed the flames from many warm hearts. It must be subdued.
 
 Kerath: It will be subdued. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
 
