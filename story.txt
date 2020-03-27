@@ -14,22 +14,22 @@ One by one, the most desperate flights turned rogue. They broke the long peace a
 
 Fortunate it was, that the landbound intruders appeared when they did. Faring across the ocean upon their wooden sea gliders. They journeyed from beyond one side of the horizon to the other. Even our strongest flyers could not safely follow them so far as they went, lest they pass the point of no return. Just the same, we had more than a notion of their destination.
 
-For gliders remember what others forgot. There is land beyond Morogor, across the Great Ocean. From there long ago we drakes came. To there we needed return. If only one might come to catch the windpath home…
+For gliders remember what others forgot. There is land beyond Morogor, across the Great Ocean. From there long ago we drakes came. To this wider world we needed return.
 
 
 START:
 
 (Galun [a burner], Vank [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
 
-Vank: The Isle of Gaall. That of which remains.
+Vank: The Isle of Gaall. The most harrowing hunting ground in the Domain of Verkon.
 
-Galun: It is as I imagined. The Challenge of Gaall awaits us below. The trial for my Aspirancy.
+Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial for Aspirancy.
 
 Vank: May we few prove worthy of it… if only Kerath was still of us.
 
-Galun: Kerath never was of us, verily. Seeking an ally in him we could find only a rival. I chose not to see his wayward heart. The heart of a Dominant.
+Galun: Kerath never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant.
 
-Galun: The challenge before us is as I envisioned. Nothing less readies us for the Contention. Neither the Salient Journey that is to follow.
+Galun: We need no further hunters to prevail here. No less of a challenge readies us for the Contention. Neither what is to follow.
 
 Call the Hunt.
 
@@ -40,8 +40,7 @@ SCENARIO OBJECTIVES:
 
 Galun and Vank must attain level 2.
 
-Kill x units by the end of the hunt
-[Had tested points per level, decided it came across as too complex]
+Overcome the Challenge of Gaall by harvesting 100 sacks of meat by the fifth day of the Hunt.
 
 Galun and Vank must survive.
 
@@ -72,7 +71,7 @@ STORY:
 
 Narrator:
 
-Now an a Aspirant, Galun only needed to earn honor in battle to secure his entry into the Contention. It arose swiftly with a summons from Dominant Verkon…
+Having demonstrated his talent for the Hunt, Galun only needed to earn honor in battle to secure his entry into the Contention. An opportunity for it arose swiftly with a summons from Dominant Verkon…
 
 Verkon: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now landbound fiends keep a holdfast on an isle of my domain.
 
@@ -90,17 +89,17 @@ Two equal Wings of drakes. First Wing strikes southeast watchtower on first dawn
 
 Kerath: Your first wing would not last the day, Galun. It is you which speaks folly!
 
-Galun: The wing will hold. I will lead it.
+Galun: The wing will hold. I will lead it myself to see that it does.
 
 Verkon: So be it. Aspirant Kerath, take lead of the second wing. Now, with our ploy set…
 
-Galun: There is one matter further. I will have the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
+Galun: There is one matter further. I request the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
 
 Kerath: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
 
 Galun: Wingless. Finless. Landbound are these intruders. They can only be from distant land.
 
-Verkon: You may take your captive so a counter incursion can be directed whence it came.
+Verkon: Galun, you may take your captive so a counter incursion can be directed whence it came.
 
 Call the Hunt.
 
@@ -167,12 +166,12 @@ Galun: Speak, prey. Your kind fares beyond these islands. You will tell us of yo
 
 Viragar: Release me now and maybe I let some of you live... for future sport of my archers! Hahahaha!
 
-Galun: Put him on the Spit of Telling. [Is this spit as in roasting?]
+Galun: Put him on the Spit of Telling.
 
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank. [is the guest the orc leader?]
+Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank.
 
 
 
@@ -186,11 +185,11 @@ Narrator:
 
 Fresh prey carcasses were justly divided among combatants in accord with the Ways of Morogor. An ample victory feast was had…
 
-Kerath: Savory… *chewing* Sapid… *crunch* … a delicacy without match these creatures are.
+Kerath: Savory… *chewing* Sapid… *crunch* … these creatures are a delicacy without match.
 
-Vank: Galun! Rich tidings I bear. All that it carried, the captive’s mind spilled!
+Vank: Galun! I bear rich tidings. The captive’s mind spilled all that it carried!
 
-Galun: Speak of it!
+Galun: Excellent, Vank! Speak of it.
 
 Vank: ‘Orc’ the creatures call themselves.
 
@@ -198,23 +197,21 @@ Kerath: *examining his meal...* “Orkchops.”
 
 *crunch*
 
-Vank: From a distant westerly isle do they flow forth. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
+Vank: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
 
-Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight. Now we know the way home.
+Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
 
-Galun: Our salient journey grows nigh. With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation.
+Galun: With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation.
 
 Kerath: Galun, that will not please Verkon. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Verkon hold against the rogues becoming!
 
-Galun: … Vank, of the east you have yet to speak.
+Galun: … Vank, you have yet to speak of what lies east.
 
 Vank: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
 
 Galun: Go on.
 
-Vank: … Further east, another stretch of sea, nearly as wide. At last the ‘Great Continent’. A realm of land vast nearly as the ocean. Likewise mysterious.
-
-Vank: Verily the Winds blow us west. There, the Spoken Memory of the gliders offers us aid. Ancient knowledge needed to thrive upon such lands.
+Vank: … Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
 
 
 START:
@@ -243,7 +240,7 @@ To be decided.
 
 IF KERATH VICTORIOUS:
 
-Kerath: A dream this must be. No longer do I dwell in the shadow of Galun.
+Kerath: This must be a dream. I no longer dwell in the shadow of Galun.
 
 
 IF GALUN VICTORIOUS:
@@ -254,15 +251,13 @@ Galun: Drakes! Fellows of all castes, hear me! This is a dark time in which we e
 
 Galun: This hope I offer you. There are lands beyond Morogor. Beyond its troubles.
 
-This oath I swear you. To the way beyond I will lead you. With my new flight, to the far lands I proceed to plant my eyrie!
+This oath I swear you. I will lead you to the way beyond. With my new flight, I proceed to the far lands to plant my eyrie!
 
 Verkon: By all the devils in the sea… this is folly, Galun!
 
-Galun: Upon the greatest of all lands my eyrie shall stand. The greatland of the East!
+Galun: Upon the greatest of all lands my eyrie shall stand. The Greatland of the East!
 
-Vank: Galun… nay... our fate lies in the West…
-
-Galun: Await my summons. Your salvation will it mean!
+Galun: Await my summons. For it will be your salvation!
 
 
 
@@ -272,27 +267,33 @@ S04 ISLANDS
 
 STORY:
 
-Verkon: Vank, I would speak with you.
+Verkon: I would speak with you, Galun.
 
-Vank: Of Galun’s mind to go east, nothing can I do.
+Galun: I shall not be dissuaded from taking flight to the far lands. Our folk deserve a future. I must show them where it can be found.
 
-Verkon: That I know. I must counsel you of a wider matter.
+Verkon: I know.
 
-Verkon: You are now Galun’s First Intendant. Your duty is to provide his mind what it lacks… Fear.
+Verkon: You have proven to be a Dominant by every measure. Still, one last trial remains for you.
 
-He shuns it. Fear is what you must provide him.
+Galun: The ocean crossing will be my final challenge, regardless of the outcome.
 
-Vank: To his fearless heart do I owe my life. No other would have ventured into that cave. One, of his high caste, for sake of a fledgling glider.
+Verkon: Indeed such a journey will be most perilous. Yet I speak of a trial of another kind.
 
-Verkon: Then repay him. Speak answers to concerns he will not contemplate. Spy those perils to which he turns his back. Verily, to your doubt he might soon owe his life in turn.
+Verkon: All of us that rose to Dominance, did so on the wings of a youthful conviction. A flawed passion unique to each of us. An absolute belief in the Ways of Morogor was mine; every law was sacred down to its last word. If I held to my conviction for any longer than I had… my flight, my domain, all would have perished.
 
-Vank: …your words bear wisdom. I shall try to heed them.
+Galun: … Dominant Verkon, tell me what flaw you see in my heart.
+
+Verkon: I can not see what is within your heart, Galun. I see only that it burns with a brighter passion than others. Ever since you saved Vank from his fate within that cave. Slew that vile rogue. That ordeal recast you; it set the fire of Dominance to your heart.
+
+Whatever has driven you this far, master it. Lest it master you.
+
+Galun: I hear your words. I will carry them with me.
 
 Narrator:
 
-For farthest travel, every burden was loosed. Belongings abandoned. The hulking apparati of the clasher caste forsaken. Essentials nigh curtailed.
+To make ready for farthest travel, Galun cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
 
-Even then, unready to last such a journey were half among the flight. Those yet too young. Those with wounds still mending. To his bewilderment, Kerath was gifted these-- his own Flight to lead.
+Even then, half among the flight were unready to last such a journey. Those yet too young. Those with wounds still mending. To his bewilderment, Kerath was gifted these-- his own Flight to lead.
 
 At earliest dawn the Flight of Galun lifted skyward. Over land darkly striped by long cast shadows of craggy peeks, dull red light of a warm new sun between them...
 
@@ -323,13 +324,13 @@ Poseira: Naga interlopers, this shall be my final warning to you, depart at once
 
 Shussek: We will ‘de-part’ your fins from you and gulp your fry by the thousands. Ssssss!
 
-Galun: So an army of mermish would choke our salient passage across their ocean realm. A great battle between us will now ensue.
+Galun: So an army of mermish chokes our passage across their ocean realm. A great battle between us will now ensue.
 
 Vank: The mermish have deranged us for centuries. Yet the Flight is direly weary from the journey. If we could find some way round conflict…
 
 Galun: We will prevail through them.
 
-Vank: Then we should at least forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
+Vank: Then we should forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
 
 Otherwise, having not summoned us here, prudently will he assume us of the mermish camp.
 
@@ -347,7 +348,7 @@ Galun and Vank must survive.
 
 ON TURN 2:
 
-Vank: Lo, just below the horizon! There are mighty wakes pointing to us. Only a monster leaves so tall a wake.
+Vank: Lo, just before the horizon! There are mighty wakes pointing to us. Only a monster leaves so tall a wake.
 
 
 IF VANK REACHES NAGA LEADER WHILE MERMISH ALIVE:
@@ -406,7 +407,7 @@ VICTORY:
 
 Vank: Now… we can rest.
 
-Galun: I will allow a sojourn of three days. No longer.
+Galun: I will allow a sojourn of three days.
 
 
 
@@ -420,11 +421,11 @@ Narrator:
 
 Gliders were dispatched back to Morogor with exacting details of the petty atoll’s location. The flight resumed its journey east.
 
-The familiar rhythm of the salient journey began anew. Slowly returned the aching wings.
+The familiar rhythm of the long journey began anew. Slowly returned the aching wings.
 
 Then Galun, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
 
-With effort, Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the greatland. [don't like the 'with effort' part]
+Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the Greatland.
 
 
 START:
@@ -440,11 +441,11 @@ Vank: By the northern stronghold the land bleeds its fiery ichor. From there, we
 
 Vank: To the southern stro… Hatchlings! There are hatchlings to our south. They look to be in dire need of aid.
 
-Rhynnin: Spread forth, men! I care not for what stories you have heard of this place. For striking at Elensefar herself, we shall hunt those scaly wee devils to the far reaches of this “cursed isle”!
+Rhynnin: Spread forth, men! I care not for what tales you have heard of this place. For striking at Elensefar herself, we shall hunt those scaly wee devils to the far reaches of this “cursed isle”!
 
 Galun: Those creatures are jessene.
 
-Vank: Nay, their arms appear not crude enough to be. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
+Vank: Nay, their weaponry is not crude enough. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
 
 
 SCENARIO OBJECTIVES:
@@ -489,7 +490,7 @@ EVERY ENEMY UNIT DEAD:
 
 Galun: Upon this isle, I hereby Proclaim my Eyrie. From here my Domain extends.
 
-Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, shall be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
+Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, will be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
 
 Vank: By your command, my Dominant.
 
@@ -535,7 +536,7 @@ Kerath: Their likeness to hatchlings is disarming. Disturbingly so. I will not h
 
 Galun: Enough.
 
-I will have a closer survey of the greatland focused on game abundance. See to it at once, Vank.
+I will have a closer survey of the greatland focused on game abundance. Vank, see to it at once.
 
 Vank: By your will. *departs*
 
@@ -555,7 +556,7 @@ Kerath: Galun, we should harvest them. There is enough meat there to feed our th
 
 Galun: Vank has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
 
-Kerath: Yes, Vank’s fears. I remember, long ago…
+Kerath: You speak with Vank’s fearful tongue. I remember, long ago…
 
 You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Vank. Before your mind echoed with his glider myths.
 
@@ -584,9 +585,9 @@ Vank: Galun, you have made landfall! In sight of these creatures!
 
 Galun: You have returned from patrol with fortunate timing, Vank. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
 
-Vank: Galun, this is terribly unwise!
+Vank: Galun, this is unwise! The abilities of this game is still unknown to us.
 
-Galun: Fall in, Vank.
+Galun: We have no choice, we need the meat.
 
 When I give you the signal, light the brazier. It will call in our reinforcements.
 
@@ -638,29 +639,27 @@ Narrator:
 
 The hunt continued across grassy stretches of the greatland. Beasts on four legs, beasts on two. All harvested in countless numbers. Finally, with meat sacks overburdened, Flight Galun returned to the eyrie. The recently arrived Flight of Verkon awaited them.
 
-Verkon: I erred in judging you, Galun. This land is indeed limitless. Half of Morogor makes ready for the journey!
+Verkon: This land of yours is indeed limitless, Galun. Half of Morogor makes ready for the journey!
 
 Vank: That must not be! Even now we have not the provisions for additional visitors. Further, our saurians tell us there is a terrible season which afflicts the greatland. Much of it will grow as lifelessly cold as the highest mountain peak. This cold lasts several moons.
 
 Verkon: Then we must expand the hunt. Presently.
 
-Vank: There is something else… the Prey. We may have underestimated it. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
+Vank: There is something else… the Prey. We may have underestimated it, severly. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
 
-Galun: I will hear no more of your fear, Vank!
+Galun: Speak no more of fear.
 
 Vank: ……
 
-Galun: Grim observations from your lofty vantage among the clouds. Your nipping doubts. Dwelling within the past… The Cave.
+Galun: So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how we shift the winds of fate by our willful action.
 
-So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how I shift the winds of fate.
+Vank: The spoken memory tells us steady wings may catch the winds of fate…
 
-Vank: The spoken memory tells us steady wings may Catch the winds of…
-
-Galun: Nay. Not merely tugged by the winds. I *Shift* the winds of fate. I feel the world as it should be with all the Fire of my Heart. With no room left for doubt. Then the world I feel becomes.
+Galun: Nay. Not merely tossed about by the winds. We *shift* the winds of fate. Feel the world as it should be with all the Fire of your Heart. With no concern for how things have always been. Then act directly to remake the world as it should become.
 
 Verkon: Galun, I understood nothing of what you just said.
 
-Yet I never argue with results. Every rogue to be, which looked to their neighbor with the fiery eyes of envy… Now they journey here to claim abundant lands in peace. You spared Morogor a terrible war between us. Whatever be your next act, my Flight will uplift it.
+Yet the results speak for you. Every rogue to be, which looked to their neighbor with the fiery eyes of envy… Now they journey here to claim abundant lands in peace. You spared Morogor a terrible war between our folk. Whatever be your next act, my Flight will uplift it.
 
 Galun: I Call the Hunt. A hunt greater than any in the glider remembrance. Three Flights of Hunters.
 
@@ -683,7 +682,7 @@ Arinexis: Shek’kahan, thisss iss their underbelly I ssspoke of…
 
 Wise Irimoon! We wish entry to your land, ssseeking your counsssel. Grant uss thisss, Irimoon the Jusst!
 
-Irimoon: “Irimoon the Just”. I shall weave this to the long twine of my titles. “Wise Sorceress Irimoon, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
+Irimoon: “Irimoon the Just”. I shall weave this into the long twine of my titles. “Wise Sorceress Irimoon, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
 
 Arinexis: We grow weary of… travel. And we go hungry! … *So Hungry*…
 
@@ -775,13 +774,13 @@ Galun: You *will* be silent.
 
 (Vank flies in from the SW.)
 
-Galun: Report, Vank. There are still three wings yet to regather. [are these wings of Galun's flight?]
+Galun: Report, Vank. There are still three wings yet to regather.
 
 Vank: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
 
 We must retreat to the eyrie with haste.
 
-Galun: Our haul is too weighty to be flown with a dozen trips. I will not forsake it.
+Galun: Our haul is too weighty to be flown with a dozen trips. We can not forsake it. Too much depends on it.
 
 Arinexis: Through thiss cave! Essscape through here…
 
@@ -851,7 +850,7 @@ Lich-Lord Siravan: Elves? Did you dragons tow elves to this place of fruitful so
 
 An age past, I trekked the depths beneath the Maelstrom Ocean to find a place so tranquil as this. Yet with all you creatures of every flavor pestering me here now, it seems no peace may I find for this needed work from which you all gain in ways you care not to fathom. Even if I alone completed the transmutation of our entire sub-realm, would it be heeded?
 
-Lich-Lord Siravan: Nevermind. Dragon, I have much toil of the mind to uplift to the aether before these dim pucks undo its present corporeal manifestation. I offer you passage for a truce.
+Lich-Lord Siravan: Nevermind. dragon, I have much toil of the mind to uplift to the aether before these dim pucks undo its present corporeal manifestation. I offer you passage for a truce.
 
 (Player chooses between affirmative and negative responses, respectively:
 Galun: You have your truce.
@@ -1033,10 +1032,10 @@ Galun: My body froze me as it readied to flee. The desire to flee was overcoming
 
 Galun: The agonizing guilt of that last thought. Leave my friend to die. It reignited my heart with an unfamiliar passion. I would do anything to save my friend. I felt the whole world around me burning for the means to save him. That is when I felt it beneath my right wing. A clasher’s spear, broken a reach beneath the head. It had not been there when I entered the cave. It was there now.
 
-Galun: The rogue turned to finish Vank. I threw myself upon it with all my hate. The spear I ran deep through to its cold heart.
+Galun: The rogue turned to finish Vank. I threw myself upon it with all my hate. The spear I ran deep into its cold heart.
 
 Ever since have I trusted absolutely in the fire that saved my friend…
-Ever since have I fled the fear that drove me toward such terrifying cowardice.
+Ever since have I fled the fear that drove me toward such vile cowardice.
 
 Krenix: You shunned Vank’s fearss too.
 
@@ -1153,9 +1152,9 @@ Galun: ………
 
 Kerath: Galun… I am sorry.
 
-Galun: Verkon… My own first intendant… This land has snuffed the flames from many warm hearts. It must be subdued.
+Vank… Verkon… Many others among our flights… This land has snuffed the flames from countless warm hearts. It must be subdued.
 
-Kerath: It will be subdued. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
+Kerath: It will be. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
 
 Galun: Kerath, not even the whole of Morogor could subdue this land. Not in the way we strived to.
 
@@ -1167,7 +1166,7 @@ Kerath: I will tell you what I seek! Your return to the eyrie to complete what y
 
 Galun: *This* is my eyrie now. Here I must stay to ready my flight for the long task ahead. The task of our slow ascension to dominance over the greatland.
 
-You may return with the provisions we gathered. Once returned, you may claim the eyrie I forsook.
+You may return with the remaining provisions we gathered. Once returned, you may claim the eyrie I forsook.
 
 Kerath: You swore to aid those who journeyed to your greatland. You called the Hunt… Galun, the hunt is not ended!
 
@@ -1251,17 +1250,17 @@ I strove to prevent a war between the flights. Yet we traded it for a war of an 
 
 Kerath: Beasts can no more make war on us than could the clouds.
 
-Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be scattered deep into the greatland to meet fates unknown. As it was with the Flight of Verkon.
+Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be forced to scatter deep into the greatland to meet fates unknown. As it was with the Flight of Verkon.
 
-Only through this defeat will they learn as I did. The wisdom Vank whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
+Only through defeat will some learn as I did. The wisdom Vank whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
 
 Kerath: I do not… fully grasp…
 
-Galun: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out the gliders’ dream of our old homeland’s rediscovery. Let your gliders’ spoken remembrance guide the way.
+Galun: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out new lands with the wisdom from mistakes made here. Let your gliders’ spoken remembrance guide the way.
 
-Kerath: Galun, let both our flights head west. We may together rediscover the homeland as it always should have been.
+Kerath: Galun, let both our flights head west. We may together take on this adventure as it always should have been.
 
-Galun: I am sorry, Kerath. Our windpaths will never meet as you so long desired. You spoke rightly before, I must finish what I began.
+Galun: I am sorry, Kerath. Our windpaths will never cross as you hoped. You spoke rightly before, I must finish what I began here.
 
 Kerath: So it must be…
 
@@ -1307,8 +1306,8 @@ STORY:
 
 Narrator:
 
-Kerath heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing. The Flight of Kerath went on west, fading into the far lands of our origin.
+Kerath heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing.
 
 Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the greatland as more poured in from Morogor to supplant them.
 
-Many drakes that grew weary of the hunt came to settle Galun’s high sanctuary. Its many peaks became dotted with eyries of those seeking to catch the winds of fate. By century’s end, followers of Galun’s windpath spanned the greatland as a whole.
+Many drakes that grew weary of the hunt came to settle Galun’s high sanctuary. Its many peaks became dotted with eyries of those seeking his guidance. By century’s end, drakes following the windpath of Galun spanned the vast whole of the greatland.
