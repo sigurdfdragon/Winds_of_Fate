@@ -27,9 +27,9 @@ Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial f
 
 Vank: May we few prove worthy of it… if only Kerath was still of us.
 
-Galun: Kerath never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant.
+Galun: Kerath never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant. [3rd sentence doesn't make sense to me, rewrite]
 
-Galun: We need no further hunters to prevail here. No less of a challenge readies us for the Contention. Neither what is to follow.
+Galun: We need no further hunters to prevail here. No less of a challenge readies us for Aspirancy. Neither what is to follow.
 
 Call the Hunt.
 
@@ -99,7 +99,7 @@ Kerath: Again you contemplate your glider myths, Galun. If the far lands of glid
 
 Galun: Wingless. Finless. Landbound are these intruders. They can only be from distant land.
 
-Verkon: Galun, you may take your captive so a counter incursion can be directed whence it came.
+Verkon: Galun, you may take your captive so a counter incursion can be directed whence it came. [some edit, focus on learning location of other lands]
 
 Call the Hunt.
 
@@ -117,7 +117,7 @@ Vank: It would be wise of us to burn their sea glider, lest they escape by it.
 
 SCENARIO OBJECTIVES:
 
-Defeat Viragar or his ship before he escapes (ship begins retreat on turn 15).
+Defeat Viragar or his ship before he escapes (ship begins retreat on turn 13).
 
 Slaughter every last intruder.
 
@@ -141,7 +141,7 @@ Kerath: So be it. My wing will hold your prize inviolate.
 Mostly.
 
 
-TURN 15 AND VIRAGAR UNDEFEATED AND HIS SHIP INTACT:
+TURN 13 AND VIRAGAR UNDEFEATED AND HIS SHIP INTACT:
 
 Viragar: Run! Back to the boat you scum! We are LEAVING!
 
@@ -171,7 +171,7 @@ Galun: Put him on the Spit of Telling.
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank.
+Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank. [rewrite, it's not clear to me who the guest of honor is]
 
 
 
@@ -179,9 +179,9 @@ Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank.
 S03 THE CONTENTION
 
 
-STORY:
+STORY: [I might make the feast story a cutscene with numbering of 02x]
 
-Narrator:
+Narrator: [Write in my own changes here. What I have in mind is mostly reordering lines to change emphasis]
 
 Fresh prey carcasses were justly divided among combatants in accord with the Ways of Morogor. An ample victory feast was had…
 
@@ -199,13 +199,13 @@ Kerath: *examining his meal...* “Orkchops.”
 
 Vank: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
 
-Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
+Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight. [revise, make suggestions]
 
 Galun: With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation.
 
 Kerath: Galun, that will not please Verkon. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Verkon hold against the rogues becoming!
 
-Galun: … Vank, you have yet to speak of what lies east.
+Galun: … Vank, you have yet to speak of what lies east. [What of their destination?]
 
 Vank: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
 
@@ -220,11 +220,13 @@ Narrator:
 
 (Description of Contention purpose and rules. TBD as game play in development as of this writing.)
 
+[I'll add something from my version of the contention here.]
+
 By the end only the two Aspirants of Verkon lasted to face one another. In the Arena of Dominance, in the very heart of Morogor...
 
 Vank: The Contention! I feel strangely light.
 
-Galun: Pray do not fall faint before this grand audience, Vank.
+Galun: Pray do not fall faint before this grand audience, Vank. [change, no audience visible]
 
 Kerath: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
@@ -265,7 +267,7 @@ Galun: Await my summons. For it will be your salvation!
 S04 ISLANDS
 
 
-STORY:
+STORY: [split into small story only scenario for effect, as it is seperate from the journey in the narrarator part. 3x or 3y]
 
 Verkon: I would speak with you, Galun.
 
@@ -289,7 +291,7 @@ Whatever has driven you this far, master it. Lest it master you.
 
 Galun: I hear your words. I will carry them with me.
 
-Narrator:
+Narrator: [
 
 To make ready for farthest travel, Galun cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
 
@@ -437,7 +439,7 @@ The eastern keep is occupied by Rhynnin, a Master at Arms.)
 
 Galun: It is here I will plant my eyrie. Clear this isle of every hindrance.
 
-Vank: By the northern stronghold the land bleeds its fiery ichor. From there, we can reforge the apparati of the clashers.
+Vank: By the northern stronghold the land bleeds its fiery ichor. Once this isle is captured, we can reforge the apparati of the clashers.
 
 Vank: To the southern stro… Hatchlings! There are hatchlings to our south. They look to be in dire need of aid.
 
@@ -451,10 +453,6 @@ Vank: Nay, their weaponry is not crude enough. They are the haldric, creatures o
 SCENARIO OBJECTIVES:
 
 Slaughter every last creature imperiling this triumphant setting place of our eyrie.
-
-Clashers can be recruited from the northern keep.
-
-Saurians can be recruited from the southern keep.
 
 Galun and Vank must survive.
 
@@ -483,7 +481,7 @@ Galun: Little ones! You will do as I command!
 
 Krenix: By every sssign upon firmament, we hear you Shek’kahan! You are our moonlight!
 
-(Saurians are now under player control. Arinexis and Krenix must survive.)
+(Saurians are now under player control. Arinexis and Krenix must survive. Saurian Skirmishers & Augurs are now recruitable.)
 
 
 EVERY ENEMY UNIT DEAD:
@@ -494,9 +492,9 @@ Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that 
 
 Vank: By your command, my Dominant.
 
-I should also dispatch a sky patrol. To begin unbroken watch of the greatland just off our eastern shore.
+I wish to dispatch a sky patrol as well. To begin unbroken watch of the greatland just off our eastern shore.
 
-Galun: As you wish.
+Galun: Make it so.
 
 
 
@@ -608,7 +606,7 @@ Kerath’s Flight will aid you whenever the beacon is lit. (Place a unit on the 
 
 Meat bonus for every kill. (“gold”)
 
-Clashers and saurians are now recruitable and recallable.
+Clashers are now recruitable and recallable.
 
 Galun, Vank, Kerath, Arinexis and Krenix must survive.
 
@@ -1099,8 +1097,6 @@ Survive for five days. (30 Turns)
 OR
 Defeat Thurdakor.
 
-Meat bonus for every kill. (“gold”)
-
 Deep dwellers emerge from each hole until it is filled in. (Move a unit onto the hole tile to fill it in.)
 
 Galun, Arinexis and Krenix must survive.
@@ -1108,7 +1104,7 @@ Galun, Arinexis and Krenix must survive.
 
 EVERY TURN:
 
-(A random level one dwarven unit emerges from one of the holes if it is not covered by another unit.)
+(A random level one or two dwarven unit emerges from one of the holes if it is not covered by another unit.)
 
 
 IF A PLAYER UNITS REACHES A HOLE TILE:
