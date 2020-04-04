@@ -25,9 +25,9 @@ Vank: The Isle of Gaall. The most harrowing hunting ground in the Domain of Vlad
 
 Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial for Aspirancy.
 
-Vank: May we few prove worthy of it… if only Kerath was still of us.
+Vank: May we few prove worthy of it… if only Karron was still of us.
 
-Galun: Kerath never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant. [3rd sentence doesn't make sense to me, rewrite]
+Galun: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant. [3rd sentence doesn't make sense to me, rewrite]
 
 Galun: We need no further hunters to prevail here. No less of a challenge readies us for Aspirancy. Neither what is to follow.
 
@@ -75,11 +75,11 @@ Having demonstrated his talent for the Hunt, Galun only needed to earn honor in 
 
 Vladnir: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now landbound fiends keep a holdfast on an isle of my domain.
 
-I want all trespassers harvested for meat with consistency. Aspirant Kerath, offer me your ploy.
+I want all trespassers harvested for meat with consistency. Aspirant Karron, offer me your ploy.
 
-Kerath: Full encirclement from offshore. No escape shall be permitted. From the circle I will spy the thinnest line. Then strike through to the nighest watchtower. From there I marshal a force to purge the isle. Those hostile defenses that thin to feed a counter, the circle will fall upon.
+Karron: Full encirclement from offshore. No escape shall be permitted. From the circle I will spy the thinnest line. Then strike through to the nighest watchtower. From there I marshal a force to purge the isle. Those hostile defenses that thin to feed a counter, the circle will fall upon.
 
-Vladnir: Your war sense sharpens, Aspirant Kerath.
+Vladnir: Your war sense sharpens, Aspirant Karron.
 
 Now offer me yours, Aspirant Galun.
 
@@ -87,15 +87,15 @@ Galun: Cornered prey defends its back. Encircling is folly. Let the prey think t
 
 Two equal Wings of drakes. First Wing strikes southeast watchtower on first dawn. The creatures will rally to fall upon it, a mere half force as it is. On second dawn, Second Wing strikes opposite from northwest. Where they find the prey’s back turned to them.
 
-Kerath: Your first wing would not last the day, Galun. It is you which speaks folly!
+Karron: Your first wing would not last the day, Galun. It is you which speaks folly!
 
 Galun: The wing will hold. I will lead it myself to see that it does.
 
-Vladnir: So be it. Aspirant Kerath, take lead of the second wing. Now, with our ploy set…
+Vladnir: So be it. Aspirant Karron, take lead of the second wing. Now, with our ploy set…
 
 Galun: There is one matter further. I request the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
 
-Kerath: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
+Karron: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
 
 Galun: Wingless. Finless. Landbound are these intruders. They can only be from distant land.
 
@@ -126,17 +126,17 @@ Galun and Vank must survive.
 
 TURN 7:
 
-Vank: Lo! Kerath reinforces us.
+Vank: Lo! Karron reinforces us.
 
-Kerath: I see Galun still lasts. Wing, descend upon the interlopers. Leave no survivors!
+Karron: I see Galun still lasts. Wing, descend upon the interlopers. Leave no survivors!
 
-Galun: Kerath, their leader is to remain uneaten. I want no repeat of last time.
+Galun: Karron, their leader is to remain uneaten. I want no repeat of last time.
 
-Kerath: You do not command me, Galun.
+Karron: You do not command me, Galun.
 
 Galun: I remind you it is by Vladnir's order this creature remain whole.
 
-Kerath: So be it. My wing will hold your prize inviolate.
+Karron: So be it. My wing will hold your prize inviolate.
 
 Mostly.
 
@@ -153,11 +153,11 @@ SHIP REACHES EDGE OF MAP:
 Vank: Galun, the lead intruder is fled!
 
 
-IF KERATH DEFEATED (by enemies):
+IF KARRON DEFEATED (by enemies):
 
-Kerath: I must withdraw. Another triumph falls to Galun alone.
+Karron: I must withdraw. Another triumph falls to Galun alone.
 
-(Kerath disappears or flies away without death animation.)
+(Karron disappears or flies away without death animation.)
 
 
 VIRAGAR DEFEATED:
@@ -185,7 +185,7 @@ Narrator: [Write in my own changes here. What I have in mind is mostly reorderin
 
 Fresh prey carcasses were justly divided among combatants in accord with the Ways of Morogor. An ample victory feast was had…
 
-Kerath: Savory… *chewing* Sapid… *crunch* … these creatures are a delicacy without match.
+Karron: Savory… *chewing* Sapid… *crunch* … these creatures are a delicacy without match.
 
 Vank: Galun! I bear rich tidings. The captive’s mind spilled all that it carried!
 
@@ -193,7 +193,7 @@ Galun: Excellent, Vank! Speak of it.
 
 Vank: ‘Orc’ the creatures call themselves.
 
-Kerath: *examining his meal...* “Orkchops.”
+Karron: *examining his meal...* “Orkchops.”
 
 *crunch*
 
@@ -203,7 +203,7 @@ Galun, surely these are the far lands of my caste’s spoken memory. The place b
 
 Galun: With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation. [move galun comments after vank speaks of the east]
 
-Kerath: Galun, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
+Karron: Galun, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
 
 Galun: … Vank, you have yet to speak of what lies east. [What of their destination?]
 
@@ -230,7 +230,7 @@ Vank: The Contention! I feel strangely light.
 
 Galun: Pray do not fall faint before this grand audience, Vank. [change, no audience visible]
 
-Kerath: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
+Karron: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
 Galun: If just sharp as your tongue were your teeth.
 
@@ -242,14 +242,14 @@ SCENARIO OBJECTIVES:
 To be decided.
 
 
-IF KERATH VICTORIOUS:
+IF KARRON VICTORIOUS:
 
-Kerath: This must be a dream. I no longer dwell in the shadow of Galun.
+Karron: This must be a dream. I no longer dwell in the shadow of Galun.
 
 
 IF GALUN VICTORIOUS:
 
-Kerath: ……
+Karron: ……
 
 Galun: Drakes! Fellows of all castes, hear me! This is a dark time in which we endure. Our lands provide not as once they did. Unfed hatchlings succumb to the wasting. A war among us hastens. Worse than these all-- your hearts bleed doubt!
 
@@ -297,7 +297,7 @@ Narrator: [
 
 To make ready for farthest travel, Galun cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
 
-Even then, half among the flight were unready to last such a journey. Those yet too young. Those with wounds still mending. To his bewilderment, Kerath was gifted these-- his own Flight to lead.
+Even then, half among the flight were unready to last such a journey. Those yet too young. Those with wounds still mending. To his bewilderment, Karron was gifted these-- his own Flight to lead.
 
 At earliest dawn the Flight of Galun lifted skyward. Over land darkly striped by long cast shadows of craggy peeks, dull red light of a warm new sun between them...
 
@@ -510,19 +510,19 @@ Narrator:
 
 A proud eyrie was carved into the highest peak of the three islands. The small flight easily filled their bellies with the game of only the main isle. The stocks of the wider domain were reserved for the visitor flights to come. Vank’s patrols spied vague details of the mysterious greatland.
 
-Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The Flight of Kerath.
+Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The Flight of Karron.
 
-Galun: Kerath, you did not wait for my summons!
+Galun: Karron, you did not wait for my summons!
 
-Kerath: You left no prospect of waiting. After your loud manifesto, the rogues-becoming began probing the Domain of Vladnir. Without your flight there would be not enough to hold against them. Vladnir counseled me here. So the youths you bestowed me I traded to other flights for prime drakes willing to make the journey.
+Karron: You left no prospect of waiting. After your loud manifesto, the rogues-becoming began probing the Domain of Vladnir. Without your flight there would be not enough to hold against them. Vladnir counseled me here. So the youths you bestowed me I traded to other flights for prime drakes willing to make the journey.
 
 Galun: Vladnir can not hold with *no* ally by his side.
 
-Kerath: Vladnir designed to follow me here. By now he is already faring.
+Karron: Vladnir designed to follow me here. By now he is already faring.
 
 Vank: We have not yet the provisions for three flights within this domain. There could be hunger before the next moon!
 
-Kerath: Galun we must… Galun, hatchlings do not belong at a counsel gathering.
+Karron: Galun we must… Galun, hatchlings do not belong at a counsel gathering.
 
 Arinexis: We are *not* hatchlingss…
 
@@ -532,7 +532,7 @@ Krenix: Indeed, I am our pack’ss Elder. Ssuch longevity wandering starss besto
 
 Vank: They are “Saurians”.
 
-Kerath: Their likeness to hatchlings is disarming. Disturbingly so. I will not have them near my fli…
+Karron: Their likeness to hatchlings is disarming. Disturbingly so. I will not have them near my fli…
 
 Galun: Enough.
 
@@ -540,11 +540,11 @@ I will have a closer survey of the greatland focused on game abundance. Vank, se
 
 Vank: By your will. *departs*
 
-Kerath: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
+Karron: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
 
 Krenix: You ssaw Demon King?! You ssssaw *The Haldric*?
 
-Kerath: Galun, your hatchling-things cry nonsense. You must gain control over them.
+Karron: Galun, your hatchling-things cry nonsense. You must gain control over them.
 
 Arinexis: Not nonsensse! Creaturess you sssaw call themsselvesss “humanss”. Lumbering, brutish, odiouss monstersss covered in moisst sskin of toad. Hirelingsss sssummoned from underssside of world by pixiesss of deep, dark foresst-- Wesssmere foressst.
 
@@ -552,27 +552,27 @@ Thesse humanss ssslaughtered all but my entire clan! Upon the ruinsss of my hatc
 
 Krenix: Alasss! I am verily shaking at presssent.
 
-Kerath: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
+Karron: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
 
 Galun: Vank has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
 
-Kerath: You speak with Vank’s fearful tongue. I remember, long ago…
+Karron: You speak with Vank’s fearful tongue. I remember, long ago…
 
 You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Vank. Before your mind echoed with his glider myths.
 
-Galun: Not myths, Kerath. Look around us. It is not the ocean we stand upon.
+Galun: Not myths, Karron. Look around us. It is not the ocean we stand upon.
 
-Kerath: Your dreams of glorious feats, spoken in such detail. Such certainty. In them I found my inspiration. I would become your First Intendant. So that I might become a part of them-- your adventures to come. Harder than your other allies I trained. In the Challenges, fiercer than any of them I fought.
+Karron: Your dreams of glorious feats, spoken in such detail. Such certainty. In them I found my inspiration. I would become your First Intendant. So that I might become a part of them-- your adventures to come. Harder than your other allies I trained. In the Challenges, fiercer than any of them I fought.
 
 Already advanced to Warrior rank was I, when still of basic rank were all of you. When you promised First Intendancy to Vank. The insult of Second… to me.
 
 Galun: You dwell so much in the past. The past weakens you.
 
-Kerath: It is for this present moment that I recall our past!
+Karron: It is for this present moment that I recall our past!
 
 I conjure you, remember your *Fire* for those dreams! The gift of your caste that once burned brightest in your heart!
 
-Kerath: Galun… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Galun, pray tell what dream you see.
+Karron: Galun… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Galun, pray tell what dream you see.
 
 
 START:
@@ -604,20 +604,20 @@ SCENARIO OBJECTIVES:
 
 Harvest all prey.
 
-Kerath’s Flight will aid you whenever the brazier is lit. (Place a unit on the brazier at X,Y)
+Karron’s Flight will aid you whenever the brazier is lit. (Place a unit on the brazier at X,Y)
 
 Meat bonus for every kill. (“gold”)
 
 Clashers are now recruitable and recallable.
 
-Galun, Vank, Kerath, Arinexis and Krenix must survive.
+Galun, Vank, Karron, Arinexis and Krenix must survive.
 
 
-IF KERATH BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
+IF KARRON BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
 
-(Kerath appears with a host of assorted flying drakes in NW corner of map.)
+(Karron appears with a host of assorted flying drakes in NW corner of map.)
 
-Kerath: I see we will eat well this day!
+Karron: I see we will eat well this day!
 
 
 ALL PREY HARVESTED:
@@ -663,7 +663,7 @@ Yet the results speak for you. Every rogue to be, which looked to their neighbor
 
 Galun: I Call the Hunt. A hunt greater than any in the glider remembrance. Three Flights of Hunters.
 
-I already signaled Kerath to continue east across the grassy plains. Vladnir, you will depart southeast for the warmlands. I will go northeast to the sunreach peaks. Together we will pluck meat enough for all of Morogor.
+I already signaled Karron to continue east across the grassy plains. Vladnir, you will depart southeast for the warmlands. I will go northeast to the sunreach peaks. Together we will pluck meat enough for all of Morogor.
 
 
 START:
@@ -887,7 +887,7 @@ Vank: Go on, my friend. I will make sure none follow. Leave this cave behind.
 
 Galun: Nay, there is no time, we leave now.
 
-Vank: Tell Kerath I will always regret taking his place.
+Vank: Tell Karron I will always regret taking his place.
 
 Galun: Vank, we leave this cave together. Just like we did the first one.
 
@@ -920,11 +920,11 @@ START:
 
 Klanir: Dominant Galun, I bring ill tidings of the Hunt.
 
-The Flight of Kerath was decimated by a considerable pack of humans upon the grassy plains. The last word from Dominant Kerath spoke of their striving for a retreat back to your eyrie. My Dominant Vladnir, in a noble attempt to aid the imperiled Flight of Kerath, fell to our prey. His flight was scattered east, deep into the greatland.
+The Flight of Karron was decimated by a considerable pack of humans upon the grassy plains. The last word from Dominant Karron spoke of their striving for a retreat back to your eyrie. My Dominant Vladnir, in a noble attempt to aid the imperiled Flight of Karron, fell to our prey. His flight was scattered east, deep into the greatland.
 
 Galun: ……
 
-Klanir: I must relay what I know to Dominant Kerath.
+Klanir: I must relay what I know to Dominant Karron.
 
 Galun: glider, take care
 
@@ -1137,7 +1137,7 @@ Sae be it, a deal we hae. Ah wull even release mah prize wee dragon captive fur 
 
 
 
-S11 CONFRONTATION [A little concerned how kerath has a flight enough to challenge galun, but that could be because the hunting parties are out, and resources expended during FMS. Also could have no gold carryover to this scenario.]
+S11 CONFRONTATION [A little concerned how Karron has a flight enough to challenge galun, but that could be because the hunting parties are out, and resources expended during FMS. Also could have no gold carryover to this scenario.]
 
 
 STORY:
@@ -1146,133 +1146,133 @@ Narrator:
 
 Soon enough the season of ice was weathered. New green shoots of fodder rose from the thawing greatland. Eggs laid during the long sojourn were hatching. What began as a hunting camp had matured into an eyrie.
 
-A flight was spotted inbound. Once more, it was the Flight of Kerath.
+A flight was spotted inbound. Once more, it was the Flight of Karron.
 
-Kerath: Galun, it is good to see you alive. When you did not return, I assumed you too had been taken by the wild game of this land.
+Karron: Galun, it is good to see you alive. When you did not return, I assumed you too had been taken by the wild game of this land.
 
 I have grand tidings to share, you should summon Vank.
 
 Galun: ………
 
-Kerath: Galun… I am sorry.
+Karron: Galun… I am sorry.
 
 Vank… Vladnir… Many others among our flights… This land has snuffed the flames from countless warm hearts. It must be subdued.
 
-Kerath: It will be. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
+Karron: It will be. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
 
-Galun: Kerath, not even the whole of Morogor could subdue this land. Not in the way we strived to.
+Galun: Karron, not even the whole of Morogor could subdue this land. Not in the way we strived to.
 
-Kerath: … never before have you spoken as this… Galun, by your own measure, you speak cowardice!
+Karron: … never before have you spoken as this… Galun, by your own measure, you speak cowardice!
 
 Galun: My measure was wrong. I was possessed of the drive needed to reach this land. Vank was possessed of the wisdom to *thrive* here. You must seek that wisdom. As I now have.
 
-Kerath: I will tell you what I seek! Your return to the eyrie to complete what you began.
+Karron: I will tell you what I seek! Your return to the eyrie to complete what you began.
 
 Galun: *This* is my eyrie now. Here I must stay to ready my flight for the long task ahead. The task of our slow ascension to dominance over the greatland.
 
 You may return with the remaining provisions we gathered. Once returned, you may claim the eyrie I forsook.
 
-Kerath: You swore to aid those who journeyed to your greatland. You called the Hunt… Galun, the hunt is not ended!
+Karron: You swore to aid those who journeyed to your greatland. You called the Hunt… Galun, the hunt is not ended!
 
 Galun: My summons was never issued, the arrivals premature. The hunt was indeed ended, by failure.
 
-Kerath, we must alter our ploys for rule over this land, lest it is to rule over us…
+Karron, we must alter our ploys for rule over this land, lest it is to rule over us…
 
-Kerath: You may embrace your cowardice, Galun. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
+Karron: You may embrace your cowardice, Galun. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
 
 Through the Ways of Morogor, I Proclaim you Deprived.
 
 Galun: We are far beyond Morogor. The Ways do not apply. You will not have my flight to expend upon folly.
 
-Kerath: Then only one fix remains. A trial to the death.
+Karron: Then only one fix remains. A trial to the death.
 
 
 START:
 
-(Galun, Arinexis, Krenix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Kerath, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+(Galun, Arinexis, Krenix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
 
-Kerath: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
+Karron: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
 
 (Player chooses from three responses [Full Combat, Limited Combat, Singular Combat]:
 Galun: This battle decides the fate of my entire flight. I will stay none from their due part in it.
-Kerath: So be it.
+Karron: So be it.
 OR
 Galun: I accept.
 OR
 Galun: Then let us leave aside our counselors as well. I challenge you to singular combat.
-Kerath: Your challenge is unexpectedly valiant. I accept.)
+Karron: Your challenge is unexpectedly valiant. I accept.)
 
 
 SCENARIO OBJECTIVES:
 
-Defeat Kerath.
+Defeat Karron.
 
 (If player chose the Limited OR Singular Combat):
-If Galun does not recruit or recall then neither will Kerath.
+If Galun does not recruit or recall then neither will Karron.
 
 (If player chose Singular Combat):
-Galun should defeat Kerath one on one.
+Galun should defeat Karron one on one.
 
 Galun, Arinexis and Krenix must survive. (or maybe only Galun needs to survive)
 
 
 IF PLAYER CHOSE LIMITED COMBAT:
 
-(Kerath will not recruit. He and his intendants will go to the area between the camps [~16,19] and wait. When one or more of Galun’s units is in that vicinity as well, the AI will switch to general attack mode [sans recruiting].)
+(Karron will not recruit. He and his intendants will go to the area between the camps [~16,19] and wait. When one or more of Galun’s units is in that vicinity as well, the AI will switch to general attack mode [sans recruiting].)
 
 
 IF PLAYER CHOSE SINGULAR COMBAT:
 
-(Kerath will not recruit. His intendants will not move. He will go to the area between the camps [~16,19] and wait. When Galun is in that vicinity as well, Kerath will attack only Galun.)
+(Karron will not recruit. His intendants will not move. He will go to the area between the camps [~16,19] and wait. When Galun is in that vicinity as well, Karron will attack only Galun.)
 
 
 IF PLAYER CHOSE LIMITED OR SINGULAR COMBAT THEN RECRUITED:
 
-Kerath: You have broken our agreement not to involve our wider forces. You dishonor yourself, Galun.
+Karron: You have broken our agreement not to involve our wider forces. You dishonor yourself, Galun.
 
-(Kerath’s side AI resets to defaults. Kerath will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
+(Karron’s side AI resets to defaults. Karron will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
 
 
 IF PLAYER CHOSE SINGULAR COMBAT THEN STRIKES WITH ANY UNIT BESIDES GALUN:
 
-Kerath: You have betrayed your pledge of singular combat! How far you have fallen.
+Karron: You have betrayed your pledge of singular combat! How far you have fallen.
 
-(Kerath’s side AI resets to defaults. Kerath will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
+(Karron’s side AI resets to defaults. Karron will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
 
 
-IF KERATH DEFEATED:
+IF KARRON DEFEATED:
 
-Kerath: You have one last victory over me… Finish it.
+Karron: You have one last victory over me… Finish it.
 
 Galun: Nay.
 
-Kerath: ……
+Karron: ……
 
-Galun: Kerath, I banish you from this greatland, from these far lands of the east. Not as the victor vanquishing a rival as it was in the contention… as a friend seeking to stay you from the turmoil that becomes.
+Galun: Karron, I banish you from this greatland, from these far lands of the east. Not as the victor vanquishing a rival as it was in the contention… as a friend seeking to stay you from the turmoil that becomes.
 
 I strove to prevent a war between the flights. Yet we traded it for a war of an unknown kind. The hungry flights arriving in numbers will call a Hunt far greater than even ours. Yet it will not be a hunt. It will be a war with prey.
 
-Kerath: Beasts can no more make war on us than could the clouds.
+Karron: Beasts can no more make war on us than could the clouds.
 
 Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be forced to scatter deep into the greatland to meet fates unknown. As it was with the Flight of Vladnir.
 
 Only through defeat will some learn as I did. The wisdom Vank whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
 
-Kerath: I do not… fully grasp…
+Karron: I do not… fully grasp…
 
 Galun: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out new lands with the wisdom from mistakes made here. Let your gliders’ spoken remembrance guide the way.
 
-Kerath: Galun, let both our flights head west. We may together take on this adventure as it always should have been.
+Karron: Galun, let both our flights head west. We may together take on this adventure as it always should have been.
 
-Galun: I am sorry, Kerath. Our windpaths will never cross as you hoped. You spoke rightly before, I must finish what I began here.
+Galun: I am sorry, Karron. Our windpaths will never cross as you hoped. You spoke rightly before, I must finish what I began here.
 
-Kerath: So it must be…
+Karron: So it must be…
 
 May your fire light the way in darkness.
 
 Galun: May the wind catch your wings to soar.
 
-(Kerath, followed by his flight, depart SW off map. Out from a previously invisible hole surfaces Thurdakor.)
+(Karron, followed by his flight, depart SW off map. Out from a previously invisible hole surfaces Thurdakor.)
 
 Thurdakor: A'm a dwarf o' mah word!
 
@@ -1300,7 +1300,7 @@ Galun: Vank, it was your counsel that saved us. Saved me.
 
 Together, we begin the next thousand years of spoken memory.
 
-[Perhaps Kerath chooses to help Galun and takes over the eyrie at TTS, or maybe refuses the offer and decides to fly to green isle?]
+[Perhaps Karron chooses to help Galun and takes over the eyrie at TTS, or maybe refuses the offer and decides to fly to green isle?]
 
 
 S12 EPILOGUE
@@ -1310,7 +1310,7 @@ STORY:
 
 Narrator:
 
-Kerath heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing.
+Karron heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing.
 
 Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the greatland as more poured in from Morogor to supplant them.
 [glider network from Galun's eyrie to the TTS and elsewhere, helps some drake flights transition to new ways and find territory. Still some flights that don't follow that.]
