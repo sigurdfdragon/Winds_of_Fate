@@ -461,9 +461,9 @@ Galun and Vank must survive.
 
 IF GIANT SCORPION LEADER KILLED:
 
-(Saurian Skirmisher Arinexis and Saurian Augur Krenix [plus other saurians as balance requires] appear in the swamps nearby the southern keep.)
+(Saurian Skirmisher Arinexis and Saurian Augur Zedrix [plus other saurians as balance requires] appear in the swamps nearby the southern keep.)
 
-Krenix: He returnsss! Noble Shek’kahan returnss from ssspirit realm to ssave usss! *chirping sob*
+Zedrix: He returnsss! Noble Shek’kahan returnss from ssspirit realm to ssave usss! *chirping sob*
 
 Galun: Vank.
 
@@ -471,19 +471,19 @@ These… are not hatchlings.
 
 Vank: By the winds, they are not. Indeed, their resemblance is so strikingly of hatchlings.
 
-Arinexis: Ssso thesse are Fire Dragonsss, eh Krenix?
+Arinexis: Ssso thesse are Fire Dragonsss, eh Zedrix?
 
 Hail, dragonss! *rapid clicking* Down here!
 
 Vank: They are receiving us.
 
-Arinexis: Hail-loooo! Dragonss, can you ssspeak? Krenix, you ssaid dragons can ssspeak!
+Arinexis: Hail-loooo! Dragonss, can you ssspeak? Zedrix, you ssaid dragons can ssspeak!
 
 Galun: Little ones! You will do as I command!
 
-Krenix: By every sssign upon firmament, we hear you Shek’kahan! You are our moonlight!
+Zedrix: By every sssign upon firmament, we hear you Shek’kahan! You are our moonlight!
 
-(Saurians are now under player control. Arinexis and Krenix must survive. Saurian Skirmishers & Augurs are now recruitable.)
+(Saurians are now under player control. Arinexis and Zedrix must survive. Saurian Skirmishers & Augurs are now recruitable.)
 
 
 EVERY ENEMY UNIT DEAD:
@@ -528,7 +528,7 @@ Arinexis: We are *not* hatchlingss…
 
 Not hatchlings!
 
-Krenix: Indeed, I am our pack’ss Elder. Ssuch longevity wandering starss bestow me. For over 11 yearsss have I lived.
+Zedrix: Indeed, I am our pack’ss Elder. Ssuch longevity wandering starss bestow me. For over 11 yearsss have I lived.
 
 Vank: They are “Saurians”.
 
@@ -542,7 +542,7 @@ Vank: By your will. *departs*
 
 Karron: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
 
-Krenix: You ssaw Demon King?! You ssssaw *The Haldric*?
+Zedrix: You ssaw Demon King?! You ssssaw *The Haldric*?
 
 Karron: Galun, your hatchling-things cry nonsense. You must gain control over them.
 
@@ -550,7 +550,7 @@ Arinexis: Not nonsensse! Creaturess you sssaw call themsselvesss “humanss”. 
 
 Thesse humanss ssslaughtered all but my entire clan! Upon the ruinsss of my hatchplace they raissed their invulnerable fortress of Elensssfar. Pray dragonsss, rain jussst fire down upon thesse abominationsss!
 
-Krenix: Alasss! I am verily shaking at presssent.
+Zedrix: Alasss! I am verily shaking at presssent.
 
 Karron: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
 
@@ -577,7 +577,7 @@ Karron: Galun… look across this narrow sea before us. Look to the haldric hord
 
 START:
 
-(Galun is camped with Arinexis and Krenix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Galun’s camp.)
+(Galun is camped with Arinexis and Zedrix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Galun’s camp.)
 
 (Vank flies in from east, stopping north of Galun’s camp.)
 
@@ -610,7 +610,7 @@ Meat bonus for every kill. (“gold”)
 
 Clashers are now recruitable and recallable.
 
-Galun, Vank, Karron, Arinexis and Krenix must survive.
+Galun, Vank, Karron, Arinexis and Zedrix must survive.
 
 
 IF KARRON BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
@@ -703,7 +703,7 @@ Harvest all pixie meat. (Woses are not counted.)
 
 Meat bonus for every pixie. (“gold”) (Woses are not counted.)
 
-Galun, Vank, Arinexis and Krenix must survive.
+Galun, Vank, Arinexis and Zedrix must survive.
 
 
 IF IRIMOON REACHES HER KEEP UNHARMED:
@@ -715,7 +715,7 @@ Irimoon: This is my castle Saethrania-- the Castle of Sharing. You may make an a
 
 IF GALUN REACHES THE KEEP OF GLIINOLER:
 
-Krenix: By blue glow of moon! Shek’kahan, you have these pixiesss in your teeth.
+Zedrix: By blue glow of moon! Shek’kahan, you have these pixiesss in your teeth.
 
 Arinexis: Let usss attack!
 
@@ -756,19 +756,19 @@ START:
 
 Arinexis: To command respect, our alliance with dragonsss mussst have *ssome* name!
 
-Krenix: ‘Sibblings of Setting Sun’
+Zedrix: ‘Sibblings of Setting Sun’
 
 Arinexis: ‘Union of Saurgrath and Morogor’
 
-Krenix: ‘Alignment of Moon and Sun’
+Zedrix: ‘Alignment of Moon and Sun’
 
 Arinexis: ‘Sandwalkers’
 
-Krenix: ‘Alliance of Seven Ssilver Starsss and Five Fish of Firmament’
+Zedrix: ‘Alliance of Seven Ssilver Starsss and Five Fish of Firmament’
 
 Arinexis: ‘Sandfolks’!
 
-Krenix: Ah, that is mosst favored name - ‘Sandfolks’ - bland yet no negative connotationss that sssummon…
+Zedrix: Ah, that is mosst favored name - ‘Sandfolks’ - bland yet no negative connotationss that sssummon…
 
 Galun: You *will* be silent.
 
@@ -786,7 +786,7 @@ Arinexis: Through thiss cave! Essscape through here…
 
 (Arinexis moves through the cave entrace, peeling back the scenario shroud to reveal many barrels and piles of dark powder strewn about.)
 
-Krenix: With care, Arinexisss, with care! Fire dussst isss ssstrewn about.
+Zedrix: With care, Arinexisss, with care! Fire dussst isss ssstrewn about.
 
 Arinexis: Dragonsss, do not breath on the dussst!
 
@@ -817,14 +817,14 @@ Flee Galun and Vank through the passage last. (Move units to the exit tile to fl
 
 The main mass of frenzied prey arrives in two days. (Turn 13)
 
-Galun, Vank, Arinexis and Krenix must survive.
+Galun, Vank, Arinexis and Zedrix must survive.
 
 
 ON SIGHTING LICH-LORD SIRAVAN
 
 Lich-Lord Siravan: Come to test me yet again, Krahkrahs?
 
-Krenix: It isss to hisss sstronger brother Shek’kahan you ssspeak!
+Zedrix: It isss to hisss sstronger brother Shek’kahan you ssspeak!
 
 Lich-Lord Siravan: As you say.
 
@@ -874,12 +874,12 @@ IF VANK MOVED TO EXIT PASSAGE TILE:
 Vank: Nay. Galun, I will not depart this cave before you!
 
 
-IF GALUN MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND KRENIX EXIT:
+IF GALUN MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND ZEDRIX EXIT:
 
 Galun: Those saurians do not keep pace… yet I will not forsake them to such a place as this.
 
 
-IF GALUN MOVED TO EXIT PASSAGE AFTER ARINEXIS AND KRENIX EXIT:
+IF GALUN MOVED TO EXIT PASSAGE AFTER ARINEXIS AND ZEDRIX EXIT:
 
 (Mundane units still on map are not saved.)
 
@@ -916,7 +916,7 @@ STORY:
 
 START:
 
-(Music “sad.ogg” plays. Galun is at camp with his Second Intendant [fighter caste], Arinexis and Krenix. Klanir [Drake Glider] flies in from S and lands near Galun’s camp.)
+(Music “sad.ogg” plays. Galun is at camp with his Second Intendant [fighter caste], Arinexis and Zedrix. Klanir [Drake Glider] flies in from S and lands near Galun’s camp.)
 
 Klanir: Dominant Galun, I bring ill tidings of the Hunt.
 
@@ -943,7 +943,7 @@ Harvest all prey.
 
 Meat bonus for every kill. (“gold”)
 
-Galun, Arinexis and Krenix must survive.
+Galun, Arinexis and Zedrix must survive.
 
 
 IF ALL PREY HARVESTED:
@@ -956,7 +956,7 @@ Galun: it is i that intrudes on yours
 
 Krahkrahs: You are not Shek’kahan. Depart!
 
-Krenix: Not Shek’kahan…?
+Zedrix: Not Shek’kahan…?
 
 Galun: you will have to destroy me
 
@@ -1018,13 +1018,13 @@ Narrator:
 
 A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. The camp was fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
 
-Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Krenix trekked up the peak to bring his dragon sustenance.
+Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Zedrix trekked up the peak to bring his dragon sustenance.
 
-Krenix: I sssee now you are not Shek’kahan. I ssaw as I wanted to ssee.
+Zedrix: I sssee now you are not Shek’kahan. I ssaw as I wanted to ssee.
 
 Galun: As have I…
 
-Krenix: What do you mean?
+Zedrix: What do you mean?
 
 Galun: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Vank had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
 
@@ -1039,19 +1039,19 @@ Galun: The rogue turned to finish Vank. I threw myself upon it with all my hate.
 Ever since have I trusted absolutely in the fire that saved my friend…
 Ever since have I fled the fear that drove me toward such vile cowardice.
 
-Krenix: You shunned Vank’s fearss too.
+Zedrix: You shunned Vank’s fearss too.
 
 Galun: Breathing in his fears could chill my heart to cowardice.
 
-Krenix: Yet hisss heart was brave. Hisss fear for you made it sso.
+Zedrix: Yet hisss heart was brave. Hisss fear for you made it sso.
 
 Galun: …… It did.
 
-Krenix: Your fear for him made you brave.
+Zedrix: Your fear for him made you brave.
 
 Galun: A discarded spear made me brave.
 
-Krenix: The meanss to ssave your friend. It appeared *as* you feared for him. Becaussse you did.
+Zedrix: The meanss to ssave your friend. It appeared *as* you feared for him. Becaussse you did.
 
 Galun: …………
 
@@ -1059,7 +1059,7 @@ Galun: …………
 
 Arinexis: Come ssswiftly! Deep dwellersss emerge!
 
-[Galun decides what to do after talking to Krenix, resolves to make this his new eirye to help the drakes arriving, realizes there will be enough flights inbound to not worry about TTS]
+[Galun decides what to do after talking to Zedrix, resolves to make this his new eirye to help the drakes arriving, realizes there will be enough flights inbound to not worry about TTS]
 [I may make this a cutscene for pacing? ie, Galun figures out what to do, then a month later dwarves attack. Not sure. This might be fine, maybe just a few lines demonstrating Galun's agency/decisions]
 
 
@@ -1075,7 +1075,7 @@ Thurdakor: Sae whit hae we 'ere? Dragons... Sae mony dragons mah een cannae hawp
 
 Arinexis: It ssspeakss but I hear no wordsss… deep dwellersss mussst be drunken.
 
-Krenix: It sssaid “dragonss” and… sssomething about dragonsss.
+Zedrix: It sssaid “dragonss” and… sssomething about dragonsss.
 
 Thurdakor: A' richt, noo ye listen tae me, dragons. Ah cannae hae ye juist standing aroond th' hail winter dumping yer ye-ken-whit oan th' frozen slopes, whilk come spring, wull mak' fur a stowed oot knalgan gusher, if ye ken whit ah mean.
 
@@ -1106,7 +1106,7 @@ Defeat Thurdakor.
 
 Deep dwellers emerge from each hole until it is filled in. (Move a unit onto the hole tile to fill it in.)
 
-Galun, Arinexis and Krenix must survive.
+Galun, Arinexis and Zedrix must survive.
 
 
 EVERY TURN:
@@ -1189,7 +1189,7 @@ Karron: Then only one fix remains. A trial to the death.
 
 START:
 
-(Galun, Arinexis, Krenix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+(Galun, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
 
 Karron: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
 
@@ -1213,7 +1213,7 @@ If Galun does not recruit or recall then neither will Karron.
 (If player chose Singular Combat):
 Galun should defeat Karron one on one.
 
-Galun, Arinexis and Krenix must survive. (or maybe only Galun needs to survive)
+Galun, Arinexis and Zedrix must survive. (or maybe only Galun needs to survive)
 
 
 IF PLAYER CHOSE LIMITED COMBAT:
