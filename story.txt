@@ -1,4 +1,4 @@
-WINGS OF VICTORY
+WINGS OF VICTORY (Revision 2020-04-04)
 
 
 S01 THE HUNT
@@ -40,7 +40,7 @@ SCENARIO OBJECTIVES:
 
 Galun and Vank must attain level 2.
 
-Overcome the Challenge of Gaall by harvesting 100 sacks of meat by the fifth day of the Hunt.
+Overcome the Challenge of Gaall by killing X number of units before end of the the Hunt. (X varies on diffiiculty)
 
 Galun and Vank must survive.
 
@@ -220,15 +220,18 @@ START:
 
 Narrator:
 
-(Description of Contention purpose and rules. TBD as game play in development as of this writing.)
+(Description of Contention purpose and rules. TBD as game play in development as of this writing.) [Do we need a desciption? Gameplay is set]
 
-[I'll add something from my version of the contention here.]
+[I added dialog here]
+And so the day of the Contention came. Each caste elected an Aspirant from their ranks to become the new Dominant, and each Aspirant brought with him Intendants to extend his rule over the other castes.
 
-By the end only the two Aspirants of Vladnir lasted to face one another. In the Arena of Dominance, in the very heart of Morogor...
+All the skills necessary to protect and provide for a flight were tested. Each team faced various challenges of martial ability, hunting, group coordination, strategy, & tactics. The top two teams, with only their gathered resources and raw recruits, advanced onward to the final battle.
+
+The teams, lead by the Aspirants of Vladnir, faced each other in the Arena of Dominance, in the very heart of Morogor...
 
 Vank: The Contention! I feel strangely light.
 
-Galun: Pray do not fall faint before this grand audience, Vank. [change, no audience visible]
+Galun: Pray do not fall faint before this grand audience, Vank. [change, no audience visible.]
 
 Karron: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
@@ -239,8 +242,8 @@ Galun: If just sharp as your tongue were your teeth.
 
 SCENARIO OBJECTIVES:
 
-To be decided.
-
+Have the advantage when turns run out
+Bonus Objective - Defeat Karron
 
 IF KARRON VICTORIOUS:
 
@@ -936,6 +939,7 @@ Galun: renew the hunt
 
 [something here about winter coming, flight needs a place, creatures here do not look as sophisticated as elves & humans. If drakes can dominate it, make it a camp for the winter]
 [Galun showing more agency to still be able to lead despite losing Vank and the changing situation is what I'm aiming for here]
+[though having galun do some of the above at the suggestion of the saurians or the second intentand might be good]
 
 SCENARIO OBJECTIVES:
 
