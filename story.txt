@@ -1,4 +1,6 @@
-WINGS OF VICTORY (Revision 2020-04-04)
+WINGS OF VICTORY (Revision 2020-04-09 - Draft 4)
+
+
 
 
 S01 THE HUNT
@@ -27,7 +29,7 @@ Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial f
 
 Vank: May we few prove worthy of it… if only Karron was still of us.
 
-Galun: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart. The heart of a Dominant. [3rd sentence doesn't make sense to me, rewrite]
+Galun: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart.
 
 Galun: We need no further hunters to prevail here. No less of a challenge readies us for Aspirancy. Neither what is to follow.
 
@@ -55,7 +57,7 @@ Vank: If I only had your fearless heart…
 
 Vank: … Galun. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
 
-Galun: Nay! Nothing is there to be said. A brief moment now long passed.
+Galun: Nay! There is nothing to be said. A brief moment now long passed.
 
 Vank: Galun…
 
@@ -73,7 +75,7 @@ Narrator:
 
 Having demonstrated his talent for the Hunt, Galun only needed to earn honor in battle to secure his entry into the Contention. An opportunity for it arose swiftly with a summons from Dominant Vladnir…
 
-Vladnir: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now landbound fiends keep a holdfast on an isle of my domain.
+Vladnir: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now land bound fiends keep a holdfast on an isle of my domain.
 
 I want all trespassers harvested for meat with consistency. Aspirant Karron, offer me your ploy.
 
@@ -87,7 +89,7 @@ Galun: Cornered prey defends its back. Encircling is folly. Let the prey think t
 
 Two equal Wings of drakes. First Wing strikes southeast watchtower on first dawn. The creatures will rally to fall upon it, a mere half force as it is. On second dawn, Second Wing strikes opposite from northwest. Where they find the prey’s back turned to them.
 
-Karron: Your first wing would not last the day, Galun. It is you which speaks folly!
+Karron: Your first wing would not last the day, Galun. It is you who speaks folly!
 
 Galun: The wing will hold. I will lead it myself to see that it does.
 
@@ -97,9 +99,9 @@ Galun: There is one matter further. I request the leader of our prey unspoilt. U
 
 Karron: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
 
-Galun: Wingless. Finless. Landbound are these intruders. They can only be from distant land.
+Galun: Wingless. Finless. These intruders are land bound. They can only be from distant land.
 
-Vladnir: Galun, you may take your captive so a counter incursion can be directed whence it came. [some edit, focus on learning location of other lands]
+Vladnir: So be it, Galun. You may take your captive for inquisition as to the remote lands of its travels.
 
 Call the Hunt.
 
@@ -171,7 +173,7 @@ Galun: Put him on the Spit of Telling.
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank. [rewrite, it's not clear to me who the guest of honor is]
+Galun: The hunt is ended. Ensure that our captive is attended to, Vank.
 
 
 
@@ -179,9 +181,9 @@ Galun: The hunt is ended. Ensure that our guest of honor is comfortable, Vank. [
 S03 THE CONTENTION
 
 
-STORY: [I might make the feast story a cutscene with numbering of 02x]
+STORY:
 
-Narrator: [Write in my own changes here. What I have in mind is mostly reordering lines to change emphasis]
+Narrator:
 
 Fresh prey carcasses were justly divided among combatants in accord with the Ways of Morogor. An ample victory feast was had…
 
@@ -199,39 +201,36 @@ Karron: *examining his meal...* “Orkchops.”
 
 Vank: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
 
-Galun, surely these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight. [revise, make suggestions]
+Galun, perhaps these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
 
-Galun: With the flight I earn at the Contention, I will go to the far lands beyond Morogor. There my eyrie will be set. A beacon leading other Flights to salvation. [move galun comments after vank speaks of the east]
-
-Karron: Galun, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
-
-Galun: … Vank, you have yet to speak of what lies east. [What of their destination?]
+Galun: They may very well be, Vank. Now speak of our prey’s destination in the east.
 
 Vank: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
 
 Galun: Go on.
 
-Vank: … Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
+Vank: Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
 
-[something about Galun going to where the prey is headed, since it will be better for the prey there, it will be better for the drakes]
+Galun: If there our prey migrates, then there our prey will be most plentiful…
+
+With the flight I earn at the Contention, I will go to this Greatland far beyond. There my Eyrie will be set. A beacon leading other Flights to salvation.
+
+Karron: Galun, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
+
+Galun: Mine is a higher task, Karron. I must do as all our folk need. Lest a day comes when none can hold against the rogues. Neither the burning hunger that drives them to treachery.
+
+Karron: Then you, who shirks an ally, must meet defeat at the Contention. I will win the new flight myself, so that with it the Domain of Vladnir will be held!
 
 
 START:
 
 Narrator:
 
-(Description of Contention purpose and rules. TBD as game play in development as of this writing.) [Do we need a desciption? Gameplay is set]
+So the day of the Contention came. Each caste elected an Aspirant from their ranks to become the new Dominant. Each Aspirant brought with him Intendants to extend his rule over the other castes.
 
-[I added dialog here]
-And so the day of the Contention came. Each caste elected an Aspirant from their ranks to become the new Dominant, and each Aspirant brought with him Intendants to extend his rule over the other castes.
-
-All the skills necessary to protect and provide for a flight were tested. Each team faced various challenges of martial ability, hunting, group coordination, strategy, & tactics. The top two teams, with only their gathered resources and raw recruits, advanced onward to the final battle.
-
-The teams, lead by the Aspirants of Vladnir, faced each other in the Arena of Dominance, in the very heart of Morogor...
+All the skills to lead a Flight were tested. With his party of Intendants, each Aspirant was put through trials of Endurance, trials of Warfare, trials of the Hunt. In the end, only the two Aspirants of Vladnir remained to face one another in the Arena of Dominance, in the very heart of Morogor...
 
 Vank: The Contention! I feel strangely light.
-
-Galun: Pray do not fall faint before this grand audience, Vank. [change, no audience visible.]
 
 Karron: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
@@ -242,7 +241,7 @@ Galun: If just sharp as your tongue were your teeth.
 
 SCENARIO OBJECTIVES:
 
-Have the advantage when turns run out
+Have the advantage when turns run out.
 Bonus Objective - Defeat Karron
 
 IF KARRON VICTORIOUS:
@@ -933,19 +932,16 @@ Galun: glider, take care
 
 (Klanir flies SW off map.)
 
-Second Intendant: My Dominant, this land is ripe with prey.
+Zedrix: Air hasss ssmell of cold seasson. Many moonsss of cold are nearly upon usss. Not enough time to return home.
 
-Galun: renew the hunt
+Galun: we will set camp here... where this wounded land bleeds its warming ichor…
 
-[something here about winter coming, flight needs a place, creatures here do not look as sophisticated as elves & humans. If drakes can dominate it, make it a camp for the winter]
-[Galun showing more agency to still be able to lead despite losing Vank and the changing situation is what I'm aiming for here]
-[though having galun do some of the above at the suggestion of the saurians or the second intentand might be good]
+drive off the wild creatures so this place is safe for our weary flight
+
 
 SCENARIO OBJECTIVES:
 
-Harvest all prey.
-
-Meat bonus for every kill. (“gold”)
+Defeat all enemies.
 
 Galun, Arinexis and Zedrix must survive.
 
@@ -1020,7 +1016,7 @@ STORY:
 
 Narrator:
 
-A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. The camp was fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
+A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. Galun had the camp fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
 
 Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Zedrix trekked up the peak to bring his dragon sustenance.
 
@@ -1062,9 +1058,6 @@ Galun: …………
 (The Sound of War Horns.)
 
 Arinexis: Come ssswiftly! Deep dwellersss emerge!
-
-[Galun decides what to do after talking to Zedrix, resolves to make this his new eirye to help the drakes arriving, realizes there will be enough flights inbound to not worry about TTS]
-[I may make this a cutscene for pacing? ie, Galun figures out what to do, then a month later dwarves attack. Not sure. This might be fine, maybe just a few lines demonstrating Galun's agency/decisions]
 
 
 START:
@@ -1137,7 +1130,26 @@ Thurdakor: Yer nae easy tae haggle with, dragon.
 
 Sae be it, a deal we hae. Ah wull even release mah prize wee dragon captive fur ye.
 
-[experiment with Vank returning here, Galun could be concened with the losses incured, almost losing Vank, etc. might make dialog flow easier in next scenario]
+(Thurdakor goes to uncover a nearby hole. From it Vank surfaces and moves toward Galun.)
+
+Vank: Galun, it seems no cave can keep us!
+
+Galun: vank…
+
+Vank!
+
+Thurdakor: Well, that is it fur me, back doon th' shute.
+
+(Thurdakor disappears back down the hole along with his remaining dwarves.)
+
+Vank: My friend… You have saved me.
+
+The deep dwellers hewed through my tomb of broken stone to discover me. I was to be their captive in the underworld forever. A curio to frighten their hatchlings from straying to the above. By your pact with them, I was freed.
+
+Galun: Vank, it was you that saved me.
+
+We have much to plan for the Future of our Folk in this Greatland.
+
 
 
 
@@ -1152,23 +1164,21 @@ Soon enough the season of ice was weathered. New green shoots of fodder rose fro
 
 A flight was spotted inbound. Once more, it was the Flight of Karron.
 
-Karron: Galun, it is good to see you alive. When you did not return, I assumed you too had been taken by the wild game of this land.
+Karron: Galun, it is good to see you alive. As well you, Vank. When the Flight of Galun did not return, I assumed you all had perished to the wild game of this land.
 
-I have grand tidings to share, you should summon Vank.
+Vank: Karron, likewise! If only Vladnir had shared our fortune.
 
-Galun: ………
+Karron: Indeed, Vladnir will be remembered. Vladnir will be avenged…
 
-Karron: Galun… I am sorry.
-
-Vank… Vladnir… Many others among our flights… This land has snuffed the flames from countless warm hearts. It must be subdued.
-
-Karron: It will be. Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic.
+Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic. At last we will subdue this land.
 
 Galun: Karron, not even the whole of Morogor could subdue this land. Not in the way we strived to.
 
 Karron: … never before have you spoken as this… Galun, by your own measure, you speak cowardice!
 
-Galun: My measure was wrong. I was possessed of the drive needed to reach this land. Vank was possessed of the wisdom to *thrive* here. You must seek that wisdom. As I now have.
+Galun: My measure was wrong. I possessed the drive needed to reach this distant land. Yet I now see it will take much more to *thrive* here.
+
+We must seek a deeper Wisdom of this place in order to…
 
 Karron: I will tell you what I seek! Your return to the eyrie to complete what you began.
 
@@ -1180,13 +1190,13 @@ Karron: You swore to aid those who journeyed to your greatland. You called the H
 
 Galun: My summons was never issued, the arrivals premature. The hunt was indeed ended, by failure.
 
-Karron, we must alter our ploys for rule over this land, lest it is to rule over us…
+Karron, hear me, we must alter our ploys for rule over this land, lest it is to rule over us…
 
 Karron: You may embrace your cowardice, Galun. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
 
 Through the Ways of Morogor, I Proclaim you Deprived.
 
-Galun: We are far beyond Morogor. The Ways do not apply. You will not have my flight to expend upon folly.
+Vank: We are far beyond Morogor. The Ways do not apply here.
 
 Karron: Then only one fix remains. A trial to the death.
 
@@ -1276,35 +1286,9 @@ May your fire light the way in darkness.
 
 Galun: May the wind catch your wings to soar.
 
-(Karron, followed by his flight, depart SW off map. Out from a previously invisible hole surfaces Thurdakor.)
+(Karron, followed by his flight, depart SW off map.)
 
-Thurdakor: A'm a dwarf o' mah word!
 
-Galun: By your word you would not be upon this peak again.
-
-Thurdakor: *takes swig from flask* I hae come tae release this wee dragon tae you.
-
-(Thurdakor moves aside from the hole. From it Vank surfaces and moves toward Galun.)
-
-Vank: Galun, it seems no cave can keep us!
-
-Galun: vank…
-
-Vank!
-
-Thurdakor: Well, that is it fur me, back doon th' shute.
-
-(Thurdakor disappears back down the hole.)
-
-Vank: My friend… You have saved me.
-
-The deep dwellers hewed through my tomb of broken stone to discover me. I was to be their captive in the underworld forever. A curio to frighten their hatchlings from straying to the above. By your pact with them, I was freed.
-
-Galun: Vank, it was your counsel that saved us. Saved me.
-
-Together, we begin the next thousand years of spoken memory.
-
-[Perhaps Karron chooses to help Galun and takes over the eyrie at TTS, or maybe refuses the offer and decides to fly to green isle?]
 
 
 S12 EPILOGUE
@@ -1316,8 +1300,6 @@ Narrator:
 
 Karron heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing.
 
-Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the greatland as more poured in from Morogor to supplant them.
-[glider network from Galun's eyrie to the TTS and elsewhere, helps some drake flights transition to new ways and find territory. Still some flights that don't follow that.]
-[another spot for Galun to be the hero and demostrate agency and wisdom for the times ahead]
+Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the Greatland as more poured in from Morogor to supplant them.
 
-Many drakes that grew weary of the hunt came to settle Galun’s high sanctuary. Its many peaks became dotted with eyries of those seeking his guidance. By century’s end, drakes following the windpath of Galun spanned the vast whole of the greatland.
+Many drakes that grew weary of the hunt heard the many wisdoms of Galun, retold far and wide by his gliders. By century’s end, drakes following the windpath of Galun spanned the vast whole of the greatland.
