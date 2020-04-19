@@ -1,4 +1,4 @@
-WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.1)
+WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.2)
 
 
 
@@ -178,7 +178,7 @@ Galun: The hunt is ended. Ensure that our captive is attended to, Vank.
 
 
 
-S03 THE CONTENTION
+S02x THE FEAST
 
 
 STORY:
@@ -222,13 +222,21 @@ Galun: Mine is a higher task, Karron. I must do as all our folk need. Lest a day
 Karron: Then you, who shirks an ally, must meet defeat at the Contention. I will win the new flight myself, so that with it the Domain of Vladnir will be held!
 
 
-START:
+
+
+S03 THE CONTENTION
+
+
+STORY:
 
 Narrator:
 
 So the day of the Contention came. Each caste elected an Aspirant from their ranks to become the new Dominant. Each Aspirant brought with him Intendants to extend his rule over the other castes.
 
 All the skills to lead a Flight were tested. With his party of Intendants, each Aspirant was put through trials of Endurance, trials of Warfare, trials of the Hunt. In the end, only the two Aspirants of Vladnir remained to face one another in the Arena of Dominance, in the very heart of Morogor...
+
+
+START:
 
 Vank: The Contention! I feel strangely light.
 
@@ -270,10 +278,10 @@ Galun: Await my summons. For it will be your salvation!
 
 
 
-S04 ISLANDS
+S03x ADVICE
 
 
-STORY: [split into small story only scenario for effect, as it is seperate from the journey in the narrarator part. 3x or 3y]
+STORY:
 
 Vladnir: I would speak with you, Galun.
 
@@ -297,7 +305,14 @@ Whatever has driven you this far, master it. Lest it master you.
 
 Galun: I hear your words. I will carry them with me.
 
-Narrator: [
+
+
+
+S04 ISLANDS
+
+STORY:
+
+Narrator:
 
 To make ready for farthest travel, Galun cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
 
@@ -505,7 +520,7 @@ Galun: Make it so.
 
 
 
-S06 ELENSEFAR
+S05X UNEXPECTED ARRIVAL
 
 
 STORY:
@@ -515,6 +530,9 @@ Narrator:
 A proud eyrie was carved into the highest peak of the three islands. The small flight easily filled their bellies with the game of only the main isle. The stocks of the wider domain were reserved for the visitor flights to come. Vank’s patrols spied vague details of the mysterious greatland.
 
 Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The Flight of Karron.
+
+
+START:
 
 Galun: Karron, you did not wait for my summons!
 
@@ -577,6 +595,18 @@ Karron: It is for this present moment that I recall our past!
 I conjure you, remember your *Fire* for those dreams! The gift of your caste that once burned brightest in your heart!
 
 Karron: Galun… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Galun, pray tell what dream you see.
+
+
+
+
+S06 ELENSEFAR
+
+
+STORY:
+
+Narrator:
+
+The Flights of Galun and Karron flew to the large gathering of game and took positions.
 
 
 START:
@@ -752,6 +782,12 @@ Galun: Flight, spread forth. Seize all this forest offers us. We will regather t
 
 
 S08 FOOTHILLS
+
+STORY:
+
+Narrator:
+
+The main body of Galun's Flight lands on a rocky mountainside overlooking the forest of Wesmere, waiting for the rest of the wings to rejoin them.
 
 
 START:
@@ -1023,6 +1059,9 @@ A storm of ice fell upon the sunreach peaks. The greatland’s season of cold ha
 
 Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Zedrix trekked up the peak to bring his dragon sustenance.
 
+
+START:
+
 Zedrix: I sssee now you are not Shek’kahan. I ssaw as I wanted to ssee.
 
 Galun: As have I…
@@ -1061,9 +1100,6 @@ Galun: …………
 (The Sound of War Horns.)
 
 Arinexis: Come ssswiftly! Deep dwellersss emerge!
-
-
-START:
 
 (Galun starts a turn or two from his keep given the hindrance of heavy snow. The camp is already surrounded by higher level dwarvish units three turns away that emerged from holes surrounding at the same distance. Thurdakor [Dwarvish Berserker] has a small camp to the south where he recruits primarily Gryphon Riders to contest villages and support his already deployed forces.)
 
@@ -1167,6 +1203,11 @@ Soon enough the season of ice was weathered. New green shoots of fodder rose fro
 
 A flight was spotted inbound. Once more, it was the Flight of Karron.
 
+
+START:
+
+(Galun, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+
 Karron: Galun, it is good to see you alive. As well you, Vank. When the Flight of Galun did not return, I assumed you all had perished to the wild game of this land.
 
 Vank: Karron, likewise! If only Vladnir had shared our fortune.
@@ -1204,9 +1245,7 @@ Vank: We are far beyond Morogor. The Ways do not apply here.
 Karron: Then only one fix remains. A trial to the death.
 
 
-START:
-
-(Galun, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+COMBAT OPTIONS:
 
 Karron: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
 
