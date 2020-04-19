@@ -1,4 +1,4 @@
-WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.3)
+WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.4)
 
 
 
@@ -21,17 +21,17 @@ For gliders remember what others forgot. There is land beyond Morogor, across th
 
 START:
 
-(Galun [a burner], Reshan [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
+(Gorlack [a burner], Reshan [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
 
 Reshan: The Isle of Gaall. The most harrowing hunting ground in the Domain of Vladnir.
 
-Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial for Aspirancy.
+Gorlack: The Hunt of Gaall awaits us below. The trial of the provider. The trial for Aspirancy.
 
 Reshan: May we few prove worthy of it… if only Karron was still of us.
 
-Galun: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart.
+Gorlack: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart.
 
-Galun: We need no further hunters to prevail here. No less of a challenge readies us for Aspirancy. Neither what is to follow.
+Gorlack: We need no further hunters to prevail here. No less of a challenge readies us for Aspirancy. Neither what is to follow.
 
 Call the Hunt.
 
@@ -40,28 +40,28 @@ Reshan: By your will-- Hunters! Descend!
 
 SCENARIO OBJECTIVES:
 
-Galun and Reshan must attain level 2.
+Gorlack and Reshan must attain level 2.
 
 Overcome the Challenge of Gaall by killing X number of units before end of the the Hunt. (X varies on diffiiculty)
 
-Galun and Reshan must survive.
+Gorlack and Reshan must survive.
 
 
 VICTORY:
 
-Reshan: Victory is yours, *Aspirant* Galun!
+Reshan: Victory is yours, *Aspirant* Gorlack!
 
-Galun: Learn from this trial, Reshan. Your fear voiced at the onset of this hunt; see now its futility.
+Gorlack: Learn from this trial, Reshan. Your fear voiced at the onset of this hunt; see now its futility.
 
 Reshan: If I only had your fearless heart…
 
-Reshan: … Galun. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
+Reshan: … Gorlack. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
 
-Galun: Nay! There is nothing to be said. A brief moment now long passed.
+Gorlack: Nay! There is nothing to be said. A brief moment now long passed.
 
-Reshan: Galun…
+Reshan: Gorlack…
 
-Galun: You know what lies ahead. Henceforth, we must look only to the future.
+Gorlack: You know what lies ahead. Henceforth, we must look only to the future.
 
 
 
@@ -73,7 +73,7 @@ STORY:
 
 Narrator:
 
-Having demonstrated his talent for the Hunt, Galun only needed to earn honor in battle to secure his entry into the Contention. An opportunity for it arose swiftly with a summons from Dominant Vladnir…
+Having demonstrated his talent for the Hunt, Gorlack only needed to earn honor in battle to secure his entry into the Contention. An opportunity for it arose swiftly with a summons from Dominant Vladnir…
 
 Vladnir: The treachery of Gorath Ohm was only a brush with the coming war between flights. Many eyes watch us that will soon be of rogues. They spy frailty. For even now land bound fiends keep a holdfast on an isle of my domain.
 
@@ -83,36 +83,36 @@ Karron: Full encirclement from offshore. No escape shall be permitted. From the 
 
 Vladnir: Your war sense sharpens, Aspirant Karron.
 
-Now offer me yours, Aspirant Galun.
+Now offer me yours, Aspirant Gorlack.
 
-Galun: Cornered prey defends its back. Encircling is folly. Let the prey think they can thwart us.
+Gorlack: Cornered prey defends its back. Encircling is folly. Let the prey think they can thwart us.
 
 Two equal Wings of drakes. First Wing strikes southeast watchtower on first dawn. The creatures will rally to fall upon it, a mere half force as it is. On second dawn, Second Wing strikes opposite from northwest. Where they find the prey’s back turned to them.
 
-Karron: Your first wing would not last the day, Galun. It is you who speaks folly!
+Karron: Your first wing would not last the day, Gorlack. It is you who speaks folly!
 
-Galun: The wing will hold. I will lead it myself to see that it does.
+Gorlack: The wing will hold. I will lead it myself to see that it does.
 
 Vladnir: So be it. Aspirant Karron, take lead of the second wing. Now, with our ploy set…
 
-Galun: There is one matter further. I request the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
+Gorlack: There is one matter further. I request the leader of our prey unspoilt. Urged by the touch of flame, this creature might breathe secrets for reaching far lands beyond the sea.
 
-Karron: Again you contemplate your glider myths, Galun. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
+Karron: Again you contemplate your glider myths, Gorlack. If the far lands of glider legend ever were, they now dwell below the waves. Each raindrop drowns more of the world till the sky itself is filled.
 
-Galun: Wingless. Finless. These intruders are land bound. They can only be from distant land.
+Gorlack: Wingless. Finless. These intruders are land bound. They can only be from distant land.
 
-Vladnir: So be it, Galun. You may take your captive for inquisition as to the remote lands of its travels.
+Vladnir: So be it, Gorlack. You may take your captive for inquisition as to the remote lands of its travels.
 
 Call the Hunt.
 
 
 START:
 
-(Galun, Reshan, two Burners, two Fighters and two Gliders appear from SW over the ocean)
+(Gorlack, Reshan, two Burners, two Fighters and two Gliders appear from SW over the ocean)
 
 Reshan: Our swift approach escaped our quarry’s notice. Their defense is yet to be mustered.
 
-Galun: We will retake the nearest watchtower before they ready fully. From there we rally a defense of our own.
+Gorlack: We will retake the nearest watchtower before they ready fully. From there we rally a defense of our own.
 
 Reshan: It would be wise of us to burn their sea glider, lest they escape by it.
 
@@ -123,20 +123,20 @@ Defeat Viragar or his ship before he escapes (ship begins retreat on turn 13).
 
 Slaughter every last intruder.
 
-Galun and Reshan must survive.
+Gorlack and Reshan must survive.
 
 
 TURN 7:
 
 Reshan: Lo! Karron reinforces us.
 
-Karron: I see Galun still lasts. Wing, descend upon the interlopers. Leave no survivors!
+Karron: I see Gorlack still lasts. Wing, descend upon the interlopers. Leave no survivors!
 
-Galun: Karron, their leader is to remain uneaten. I want no repeat of last time.
+Gorlack: Karron, their leader is to remain uneaten. I want no repeat of last time.
 
-Karron: You do not command me, Galun.
+Karron: You do not command me, Gorlack.
 
-Galun: I remind you it is by Vladnir's order this creature remain whole.
+Gorlack: I remind you it is by Vladnir's order this creature remain whole.
 
 Karron: So be it. My wing will hold your prize inviolate.
 
@@ -152,28 +152,28 @@ Viragar: Run! Back to the boat you scum! We are LEAVING!
 
 SHIP REACHES EDGE OF MAP:
 
-Reshan: Galun, the lead intruder is fled!
+Reshan: Gorlack, the lead intruder is fled!
 
 
 IF KARRON DEFEATED (by enemies):
 
-Karron: I must withdraw. Another triumph falls to Galun alone.
+Karron: I must withdraw. Another triumph falls to Gorlack alone.
 
 (Karron disappears or flies away without death animation.)
 
 
 VIRAGAR DEFEATED:
 
-Galun: Speak, prey. Your kind fares beyond these islands. You will tell us of your destinations.
+Gorlack: Speak, prey. Your kind fares beyond these islands. You will tell us of your destinations.
 
 Viragar: Release me now and maybe I let some of you live... for future sport of my archers! Hahahaha!
 
-Galun: Put him on the Spit of Telling.
+Gorlack: Put him on the Spit of Telling.
 
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our captive is attended to, Reshan.
+Gorlack: The hunt is ended. Ensure that our captive is attended to, Reshan.
 
 
 
@@ -189,9 +189,9 @@ Fresh prey carcasses were justly divided among combatants in accord with the Way
 
 Karron: Savory… *chewing* Sapid… *crunch* … these creatures are a delicacy without match.
 
-Reshan: Galun! I bear rich tidings. The captive’s mind spilled all that it carried!
+Reshan: Gorlack! I bear rich tidings. The captive’s mind spilled all that it carried!
 
-Galun: Excellent, Reshan! Speak of it.
+Gorlack: Excellent, Reshan! Speak of it.
 
 Reshan: ‘Orc’ the creatures call themselves.
 
@@ -201,23 +201,23 @@ Karron: *examining his meal...* “Orkchops.”
 
 Reshan: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
 
-Galun, perhaps these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
+Gorlack, perhaps these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
 
-Galun: They may very well be, Reshan. Now speak of our prey’s destination in the east.
+Gorlack: They may very well be, Reshan. Now speak of our prey’s destination in the east.
 
 Reshan: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
 
-Galun: Go on.
+Gorlack: Go on.
 
 Reshan: Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
 
-Galun: If there our prey migrates, then there our prey will be most plentiful…
+Gorlack: If there our prey migrates, then there our prey will be most plentiful…
 
 With the flight I earn at the Contention, I will go to this Greatland far beyond. There my Eyrie will be set. A beacon leading other Flights to salvation.
 
-Karron: Galun, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
+Karron: Gorlack, that will not please Vladnir. He counts on us, his Aspirants, to set eyries within his domain. Only with nigh allies can Flight Vladnir hold against the rogues becoming!
 
-Galun: Mine is a higher task, Karron. I must do as all our folk need. Lest a day comes when none can hold against the rogues. Neither the burning hunger that drives them to treachery.
+Gorlack: Mine is a higher task, Karron. I must do as all our folk need. Lest a day comes when none can hold against the rogues. Neither the burning hunger that drives them to treachery.
 
 Karron: Then you, who shirks an ally, must meet defeat at the Contention. I will win the new flight myself, so that with it the Domain of Vladnir will be held!
 
@@ -240,11 +240,11 @@ START:
 
 Reshan: The Contention! I feel strangely light.
 
-Galun: Pray do not fall faint before this grand audience, Reshan.
+Gorlack: Pray do not fall faint before this grand audience, Reshan.
 
-Karron: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
+Karron: Gorlack, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
-Galun: If just sharp as your tongue were your teeth.
+Gorlack: If just sharp as your tongue were your teeth.
 
 (Reshan gives game plan advice. TBD.)
 
@@ -256,24 +256,24 @@ Bonus Objective - Defeat Karron
 
 IF KARRON VICTORIOUS:
 
-Karron: This must be a dream. I no longer dwell in the shadow of Galun.
+Karron: This must be a dream. I no longer dwell in the shadow of Gorlack.
 
 
-IF GALUN VICTORIOUS:
+IF GORLACK VICTORIOUS:
 
 Karron: ……
 
-Galun: Drakes! Fellows of all castes, hear me! This is a dark time in which we endure. Our lands provide not as once they did. Unfed hatchlings succumb to the wasting. A war among us hastens. Worse than these all-- your hearts bleed doubt!
+Gorlack: Drakes! Fellows of all castes, hear me! This is a dark time in which we endure. Our lands provide not as once they did. Unfed hatchlings succumb to the wasting. A war among us hastens. Worse than these all-- your hearts bleed doubt!
 
-Galun: This hope I offer you. There are lands beyond Morogor. Beyond its troubles.
+Gorlack: This hope I offer you. There are lands beyond Morogor. Beyond its troubles.
 
 This oath I swear you. I will lead you to the way beyond. With my new flight, I proceed to the far lands to plant my eyrie!
 
-Vladnir: By all the devils in the sea… this is folly, Galun!
+Vladnir: By all the devils in the sea… this is folly, Gorlack!
 
-Galun: Upon the greatest of all lands my eyrie shall stand. The Greatland of the East!
+Gorlack: Upon the greatest of all lands my eyrie shall stand. The Greatland of the East!
 
-Galun: Await my summons. For it will be your salvation!
+Gorlack: Await my summons. For it will be your salvation!
 
 
 
@@ -283,27 +283,27 @@ S03x ADVICE
 
 STORY:
 
-Vladnir: I would speak with you, Galun.
+Vladnir: I would speak with you, Gorlack.
 
-Galun: I shall not be dissuaded from taking flight to the far lands. Our folk deserve a future. I must show them where it can be found.
+Gorlack: I shall not be dissuaded from taking flight to the far lands. Our folk deserve a future. I must show them where it can be found.
 
 Vladnir: I know.
 
 Vladnir: You have proven to be a Dominant by every measure. Still, one last trial remains for you.
 
-Galun: The ocean crossing will be my final challenge, regardless of the outcome.
+Gorlack: The ocean crossing will be my final challenge, regardless of the outcome.
 
 Vladnir: Indeed such a journey will be most perilous. Yet I speak of a trial of another kind.
 
 Vladnir: All of us that rose to Dominance, did so on the wings of a youthful conviction. A flawed passion unique to each of us. An absolute belief in the Ways of Morogor was mine; every law was sacred down to its last word. If I held to my conviction for any longer than I had… my flight, my domain, all would have perished.
 
-Galun: … Dominant Vladnir, tell me what flaw you see in my heart.
+Gorlack: … Dominant Vladnir, tell me what flaw you see in my heart.
 
-Vladnir: I can not see what is within your heart, Galun. I see only that it burns with a brighter passion than others. Ever since you saved Reshan from his fate within that cave. Slew that vile rogue. That ordeal recast you; it set the fire of Dominance to your heart.
+Vladnir: I can not see what is within your heart, Gorlack. I see only that it burns with a brighter passion than others. Ever since you saved Reshan from his fate within that cave. Slew that vile rogue. That ordeal recast you; it set the fire of Dominance to your heart.
 
 Whatever has driven you this far, master it. Lest it master you.
 
-Galun: I hear your words. I will carry them with me.
+Gorlack: I hear your words. I will carry them with me.
 
 
 
@@ -314,11 +314,11 @@ STORY:
 
 Narrator:
 
-To make ready for farthest travel, Galun cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
+To make ready for farthest travel, Gorlack cut loose every unneeded burden from his flight. The hulking apparati of the clasher caste was forsaken. Provisions were quartered.
 
 Even then, half among the flight were unready to last such a journey. Those yet too young. Those with wounds still mending. To his bewilderment, Karron was gifted these-- his own Flight to lead.
 
-At earliest dawn the Flight of Galun lifted skyward. Over land darkly striped by long cast shadows of craggy peeks, dull red light of a warm new sun between them...
+At earliest dawn the Flight of Gorlack lifted skyward. Over land darkly striped by long cast shadows of craggy peeks, dull red light of a warm new sun between them...
 
 Soaring over a sea airy as the sky above, the world far about as a single bright raindrop suspending them under a midday sun...
 
@@ -347,17 +347,17 @@ Poseira: Naga interlopers, this shall be my final warning to you, depart at once
 
 Shussek: We will ‘de-part’ your fins from you and gulp your fry by the thousands. Ssssss!
 
-Galun: So an army of mermish chokes our passage across their ocean realm. A great battle between us will now ensue.
+Gorlack: So an army of mermish chokes our passage across their ocean realm. A great battle between us will now ensue.
 
 Reshan: The mermish have deranged us for centuries. Yet the Flight is direly weary from the journey. If we could find some way round conflict…
 
-Galun: We will prevail through them.
+Gorlack: We will prevail through them.
 
 Reshan: Then we should forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
 
 Otherwise, having not summoned us here, prudently will he assume us of the mermish camp.
 
-Galun: I will consider this.
+Gorlack: I will consider this.
 
 
 SCENARIO OBJECTIVES:
@@ -366,7 +366,7 @@ Slaughter every last creature standing against us.
 
 Reshan may turn the Naga to our side if he reaches their leader directly (if he is one tile away).
 
-Galun and Reshan must survive.
+Gorlack and Reshan must survive.
 
 
 ON TURN 2:
@@ -430,7 +430,7 @@ VICTORY:
 
 Reshan: Now… we can rest.
 
-Galun: I will allow a sojourn of three days.
+Gorlack: I will allow a sojourn of three days.
 
 
 
@@ -446,19 +446,19 @@ Gliders were dispatched back to Morogor with exacting details of the petty atoll
 
 The familiar rhythm of the long journey began anew. Slowly returned the aching wings.
 
-Then Galun, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
+Then Gorlack, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
 
-Reshan persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the Greatland.
+Reshan persuaded Gorlack to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the Greatland.
 
 
 START:
 
-(Galun appears at 3,19 with Reshan and some gliders appearing nearby.
+(Gorlack appears at 3,19 with Reshan and some gliders appearing nearby.
 The northern keep is occupied by The Midnight Queen [Spectre].
 The southern keep is occupied by a Giant Scorpion, with saurians hostile to it distantly surrounding it.
 The eastern keep is occupied by Rhynnin, a Master at Arms.)
 
-Galun: It is here I will plant my eyrie. Clear this isle of every hindrance.
+Gorlack: It is here I will plant my eyrie. Clear this isle of every hindrance.
 
 Reshan: By the northern stronghold the land bleeds its fiery ichor. Once this isle is captured, we can reforge the apparati of the clashers.
 
@@ -466,7 +466,7 @@ Reshan: To the southern stro… Hatchlings! There are hatchlings to our south. T
 
 Rhynnin: Spread forth, men! I care not for what tales you have heard of this place. For striking at Elensefar herself, we shall hunt those scaly wee devils to the far reaches of this “cursed isle”!
 
-Galun: Those creatures are jessene.
+Gorlack: Those creatures are jessene.
 
 Reshan: Nay, their weaponry is not crude enough. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
 
@@ -475,7 +475,7 @@ SCENARIO OBJECTIVES:
 
 Slaughter every last creature imperiling this triumphant setting place of our eyrie.
 
-Galun and Reshan must survive.
+Gorlack and Reshan must survive.
 
 
 IF GIANT SCORPION LEADER KILLED:
@@ -484,7 +484,7 @@ IF GIANT SCORPION LEADER KILLED:
 
 Zedrix: He returnsss! Noble Shek’kahan returnss from ssspirit realm to ssave usss! *chirping sob*
 
-Galun: Reshan.
+Gorlack: Reshan.
 
 These… are not hatchlings.
 
@@ -498,7 +498,7 @@ Reshan: They are receiving us.
 
 Arinexis: Hail-loooo! Dragonss, can you ssspeak? Zedrix, you ssaid dragons can ssspeak!
 
-Galun: Little ones! You will do as I command!
+Gorlack: Little ones! You will do as I command!
 
 Zedrix: By every sssign upon firmament, we hear you Shek’kahan! You are our moonlight!
 
@@ -507,15 +507,15 @@ Zedrix: By every sssign upon firmament, we hear you Shek’kahan! You are our mo
 
 EVERY ENEMY UNIT DEAD:
 
-Galun: Upon this isle, I hereby Proclaim my Eyrie. From here my Domain extends.
+Gorlack: Upon this isle, I hereby Proclaim my Eyrie. From here my Domain extends.
 
-Galun: Reshan, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, will be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
+Gorlack: Reshan, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, will be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
 
 Reshan: By your command, my Dominant.
 
 I wish to dispatch a sky patrol as well. To begin unbroken watch of the greatland just off our eastern shore.
 
-Galun: Make it so.
+Gorlack: Make it so.
 
 
 
@@ -534,17 +534,17 @@ Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The
 
 START:
 
-Galun: Karron, you did not wait for my summons!
+Gorlack: Karron, you did not wait for my summons!
 
 Karron: You left no prospect of waiting. After your loud manifesto, the rogues-becoming began probing the Domain of Vladnir. Without your flight there would be not enough to hold against them. Vladnir counseled me here. So the youths you bestowed me I traded to other flights for prime drakes willing to make the journey.
 
-Galun: Vladnir can not hold with *no* ally by his side.
+Gorlack: Vladnir can not hold with *no* ally by his side.
 
 Karron: Vladnir designed to follow me here. By now he is already faring.
 
 Reshan: We have not yet the provisions for three flights within this domain. There could be hunger before the next moon!
 
-Karron: Galun we must… Galun, hatchlings do not belong at a counsel gathering.
+Karron: Gorlack we must… Gorlack, hatchlings do not belong at a counsel gathering.
 
 Arinexis: We are *not* hatchlingss…
 
@@ -556,17 +556,17 @@ Reshan: They are “Saurians”.
 
 Karron: Their likeness to hatchlings is disarming. Disturbingly so. I will not have them near my fli…
 
-Galun: Enough.
+Gorlack: Enough.
 
 I will have a closer survey of the greatland focused on game abundance. Reshan, see to it at once.
 
 Reshan: By your will. *departs*
 
-Karron: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
+Karron: Gorlack, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
 
 Zedrix: You ssaw Demon King?! You ssssaw *The Haldric*?
 
-Karron: Galun, your hatchling-things cry nonsense. You must gain control over them.
+Karron: Gorlack, your hatchling-things cry nonsense. You must gain control over them.
 
 Arinexis: Not nonsensse! Creaturess you sssaw call themsselvesss “humanss”. Lumbering, brutish, odiouss monstersss covered in moisst sskin of toad. Hirelingsss sssummoned from underssside of world by pixiesss of deep, dark foresst-- Wesssmere foressst.
 
@@ -574,27 +574,27 @@ Thesse humanss ssslaughtered all but my entire clan! Upon the ruinsss of my hatc
 
 Zedrix: Alasss! I am verily shaking at presssent.
 
-Karron: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
+Karron: Gorlack, we should harvest them. There is enough meat there to feed our three flights a full year.
 
-Galun: Reshan has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
+Gorlack: Reshan has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
 
 Karron: You speak with Reshan’s fearful tongue. I remember, long ago…
 
 You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Reshan. Before your mind echoed with his glider myths.
 
-Galun: Not myths, Karron. Look around us. It is not the ocean we stand upon.
+Gorlack: Not myths, Karron. Look around us. It is not the ocean we stand upon.
 
 Karron: Your dreams of glorious feats, spoken in such detail. Such certainty. In them I found my inspiration. I would become your First Intendant. So that I might become a part of them-- your adventures to come. Harder than your other allies I trained. In the Challenges, fiercer than any of them I fought.
 
 Already advanced to Warrior rank was I, when still of basic rank were all of you. When you promised First Intendancy to Reshan. The insult of Second… to me.
 
-Galun: You dwell so much in the past. The past weakens you.
+Gorlack: You dwell so much in the past. The past weakens you.
 
 Karron: It is for this present moment that I recall our past!
 
 I conjure you, remember your *Fire* for those dreams! The gift of your caste that once burned brightest in your heart!
 
-Karron: Galun… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Galun, pray tell what dream you see.
+Karron: Gorlack… look across this narrow sea before us. Look to the haldric horde which faces you. They that ward the threshold to the greatest land. Dominant Gorlack, pray tell what dream you see.
 
 
 
@@ -606,22 +606,22 @@ STORY:
 
 Narrator:
 
-The Flights of Galun and Karron flew to the large gathering of game and took positions.
+The Flights of Gorlack and Karron flew to the large gathering of game and took positions.
 
 
 START:
 
-(Galun is camped with Arinexis and Zedrix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Galun’s camp.)
+(Gorlack is camped with Arinexis and Zedrix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Gorlack’s camp.)
 
-(Reshan flies in from east, stopping north of Galun’s camp.)
+(Reshan flies in from east, stopping north of Gorlack’s camp.)
 
-Reshan: Galun, you have made landfall! In sight of these creatures!
+Reshan: Gorlack, you have made landfall! In sight of these creatures!
 
-Galun: You have returned from patrol with fortunate timing, Reshan. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
+Gorlack: You have returned from patrol with fortunate timing, Reshan. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
 
-Reshan: Galun, this is unwise! The abilities of this game is still unknown to us.
+Reshan: Gorlack, this is unwise! The abilities of this game is still unknown to us.
 
-Galun: We have no choice, we need the meat.
+Gorlack: We have no choice, we need the meat.
 
 When I give you the signal, light the brazier. It will call in our reinforcements.
 
@@ -644,7 +644,7 @@ Meat bonus for every kill. (“gold”)
 
 Clashers are now recruitable and recallable.
 
-Galun, Reshan, Karron, Arinexis and Zedrix must survive.
+Gorlack, Reshan, Karron, Arinexis and Zedrix must survive.
 
 
 IF KARRON BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
@@ -671,9 +671,9 @@ STORY:
 
 Narrator:
 
-The hunt continued across grassy stretches of the greatland. Beasts on four legs, beasts on two. All harvested in countless numbers. Finally, with meat sacks overburdened, Flight Galun returned to the eyrie. The recently arrived Flight of Vladnir awaited them.
+The hunt continued across grassy stretches of the greatland. Beasts on four legs, beasts on two. All harvested in countless numbers. Finally, with meat sacks overburdened, Flight Gorlack returned to the eyrie. The recently arrived Flight of Vladnir awaited them.
 
-Vladnir: This land of yours is indeed limitless, Galun. Half of Morogor makes ready for the journey!
+Vladnir: This land of yours is indeed limitless, Gorlack. Half of Morogor makes ready for the journey!
 
 Reshan: That must not be! Even now we have not the provisions for additional visitors. Further, our saurians tell us there is a terrible season which afflicts the greatland. Much of it will grow as lifelessly cold as the highest mountain peak. This cold lasts several moons.
 
@@ -681,28 +681,28 @@ Vladnir: Then we must expand the hunt. Presently.
 
 Reshan: There is something else… the Prey. We may have underestimated it, severly. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
 
-Galun: Speak no more of fear.
+Gorlack: Speak no more of fear.
 
 Reshan: ……
 
-Galun: So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how we shift the winds of fate by our willful action.
+Gorlack: So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how we shift the winds of fate by our willful action.
 
 Reshan: The spoken memory tells us steady wings may catch the winds of fate…
 
-Galun: Nay. Not merely tossed about by the winds. We *shift* the winds of fate. Feel the world as it should be with all the Fire of your Heart. With no concern for how things have always been. Then act directly to remake the world as it should become.
+Gorlack: Nay. Not merely tossed about by the winds. We *shift* the winds of fate. Feel the world as it should be with all the Fire of your Heart. With no concern for how things have always been. Then act directly to remake the world as it should become.
 
-Vladnir: Galun, I understood nothing of what you just said.
+Vladnir: Gorlack, I understood nothing of what you just said.
 
 Yet the results speak for you. Every rogue to be, which looked to their neighbor with the fiery eyes of envy… Now they journey here to claim abundant lands in peace. You spared Morogor a terrible war between our folk. Whatever be your next act, my Flight will uplift it.
 
-Galun: I Call the Hunt. A hunt greater than any in the glider remembrance. Three Flights of Hunters.
+Gorlack: I Call the Hunt. A hunt greater than any in the glider remembrance. Three Flights of Hunters.
 
 I already signaled Karron to continue east across the grassy plains. Vladnir, you will depart southeast for the warmlands. I will go northeast to the sunreach peaks. Together we will pluck meat enough for all of Morogor.
 
 
 START:
 
-(Galun’s camp is in a woodlands west of a river running vaguely NNW-SSE. There is a river or ford west across the river guarded be an elvish castle commanded by [Elvish Hero] Nomeon with [Elvish Rider] Vonel nearby. From there a path leads further west to two C-shaped intertangled yet separate castles. On one sits [Elvish Sorceress] Irimoon. Far WNW is [Ancient Wose] Gulladrumm.)
+(Gorlack’s camp is in a woodlands west of a river running vaguely NNW-SSE. There is a river or ford west across the river guarded be an elvish castle commanded by [Elvish Hero] Nomeon with [Elvish Rider] Vonel nearby. From there a path leads further west to two C-shaped intertangled yet separate castles. On one sits [Elvish Sorceress] Irimoon. Far WNW is [Ancient Wose] Gulladrumm.)
 
 Nomeon: You monsters there, Halt! This is the sovereign realm of Wesmere. No further may you go.
 
@@ -737,7 +737,7 @@ Harvest all pixie meat. (Woses are not counted.)
 
 Meat bonus for every pixie. (“gold”) (Woses are not counted.)
 
-Galun, Reshan, Arinexis and Zedrix must survive.
+Gorlack, Reshan, Arinexis and Zedrix must survive.
 
 
 IF IRIMOON REACHES HER KEEP UNHARMED:
@@ -747,7 +747,7 @@ Irimoon: This is my castle Saethrania-- the Castle of Sharing. You may make an a
 (the player is pointed to the keep tile of Gliinoler)
 
 
-IF GALUN REACHES THE KEEP OF GLIINOLER:
+IF GORLACK REACHES THE KEEP OF GLIINOLER:
 
 Zedrix: By blue glow of moon! Shek’kahan, you have these pixiesss in your teeth.
 
@@ -776,7 +776,7 @@ Irimoon: You have slain me, Nomeon. Your bias and slander against these gentle c
 
 ALL PIXIES EATEN:
 
-Galun: Flight, spread forth. Seize all this forest offers us. We will regather to the sunreach peaks.
+Gorlack: Flight, spread forth. Seize all this forest offers us. We will regather to the sunreach peaks.
 
 
 
@@ -787,12 +787,12 @@ STORY:
 
 Narrator:
 
-The main body of Galun's Flight lands on a rocky mountainside overlooking the forest of Wesmere, waiting for the rest of the wings to rejoin them.
+The main body of Gorlack's Flight lands on a rocky mountainside overlooking the forest of Wesmere, waiting for the rest of the wings to rejoin them.
 
 
 START:
 
-(Galun, Arinexis and Krexis are in a dwarven outpost perched on a rocky mountainside overlooking the NE edge of Wesmere. Just NE of the camp is an expansive cave. The Lich-Lord Siravan and its minions dwell within, concealed by the scenario shroud.)
+(Gorlack, Arinexis and Krexis are in a dwarven outpost perched on a rocky mountainside overlooking the NE edge of Wesmere. Just NE of the camp is an expansive cave. The Lich-Lord Siravan and its minions dwell within, concealed by the scenario shroud.)
 
 Arinexis: To command respect, our alliance with dragonsss mussst have *ssome* name!
 
@@ -810,17 +810,17 @@ Arinexis: ‘Sandfolks’!
 
 Zedrix: Ah, that is mosst favored name - ‘Sandfolks’ - bland yet no negative connotationss that sssummon…
 
-Galun: You *will* be silent.
+Gorlack: You *will* be silent.
 
 (Reshan flies in from the SW.)
 
-Galun: Report, Reshan. There are still three wings yet to regather.
+Gorlack: Report, Reshan. There are still three wings yet to regather.
 
-Reshan: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
+Reshan: Gorlack, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
 
 We must retreat to the eyrie with haste.
 
-Galun: Our haul is too weighty to be flown with a dozen trips. We can not forsake it. Too much depends on it.
+Gorlack: Our haul is too weighty to be flown with a dozen trips. We can not forsake it. Too much depends on it.
 
 Arinexis: Through thiss cave! Essscape through here…
 
@@ -832,19 +832,19 @@ Arinexis: Dragonsss, do not breath on the dussst!
 
 Reshan: Fire Dust… enough to bring down this cave behind us…
 
-Galun: … a Cave.
+Gorlack: … a Cave.
 
-Reshan: Galun, you know we must brave it…
+Reshan: Gorlack, you know we must brave it…
 
-… we will do this. Together. You got me out of *That* cave alive. I swear to you, Galun, I will repay you this.
+… we will do this. Together. You got me out of *That* cave alive. I swear to you, Gorlack, I will repay you this.
 
-Galun: Reshan… about That cave… there is something…
+Gorlack: Reshan… about That cave… there is something…
 
 (The Sound of War Horns. An Elvish Outrider and several Elvish Riders appear from SW. [They are in reach of striking on their first move.])
 
 Reshan: Land gliders! I never expected they possessed such swiftness. To delay us must be their aim.
 
-Galun: I need a few to hold a line across the mouth. The rest of you, into the cave!
+Gorlack: I need a few to hold a line across the mouth. The rest of you, into the cave!
 
 
 SCENARIO OBJECTIVES:
@@ -853,11 +853,11 @@ Seek the passage through the mountain.
 
 Flee members of our Flight through the passage. (Move units on to the exit tile to flee them.) (Those left behind will perish.)
 
-Flee Galun and Reshan through the passage last. (Move units to the exit tile to flee them.)
+Flee Gorlack and Reshan through the passage last. (Move units to the exit tile to flee them.)
 
 The main mass of frenzied prey arrives in two days. (Turn 13)
 
-Galun, Reshan, Arinexis and Zedrix must survive.
+Gorlack, Reshan, Arinexis and Zedrix must survive.
 
 
 ON SIGHTING LICH-LORD SIRAVAN
@@ -868,7 +868,7 @@ Zedrix: It isss to hisss sstronger brother Shek’kahan you ssspeak!
 
 Lich-Lord Siravan: As you say.
 
-Galun: I will have passage through this mountain. You are advised to move aside.
+Gorlack: I will have passage through this mountain. You are advised to move aside.
 
 Lich-Lord Siravan: Yes, indeed you will have passage through… to whence you came. I trust you can find yourselves out, otherwise my servants will show you the way.
 
@@ -893,11 +893,11 @@ An age past, I trekked the depths beneath the Maelstrom Ocean to find a place so
 Lich-Lord Siravan: Nevermind. dragon, I have much toil of the mind to uplift to the aether before these dim pucks undo its present corporeal manifestation. I offer you passage for a truce.
 
 (Player chooses between affirmative and negative responses, respectively:
-Galun: You shall…
+Gorlack: You shall…
 Option: have your truce.
 OR
 Option: meet your doom.
-The affirmative will switch the Lich’s side and its allied sides to Galun’s team.)
+The affirmative will switch the Lich’s side and its allied sides to Gorlack’s team.)
 
 
 IF LICH-LORD SIRAVAN DEFEATED:
@@ -912,29 +912,29 @@ IF UNIT MOVED TO EXIT PASSAGE TILE:
 
 IF RESHAN MOVED TO EXIT PASSAGE TILE:
 
-Reshan: Nay. Galun, I will not depart this cave before you!
+Reshan: Nay. Gorlack, I will not depart this cave before you!
 
 
-IF GALUN MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND ZEDRIX EXIT:
+IF GORLACK MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND ZEDRIX EXIT:
 
-Galun: Those saurians do not keep pace… yet I will not forsake them to such a place as this.
+Gorlack: Those saurians do not keep pace… yet I will not forsake them to such a place as this.
 
 
-IF GALUN MOVED TO EXIT PASSAGE AFTER ARINEXIS AND ZEDRIX EXIT:
+IF GORLACK MOVED TO EXIT PASSAGE AFTER ARINEXIS AND ZEDRIX EXIT:
 
 (Mundane units still on map are not saved.)
 
 Reshan: Go on, my friend. I will make sure none follow. Leave this cave behind.
 
-Galun: Nay, there is no time, we leave now.
+Gorlack: Nay, there is no time, we leave now.
 
 Reshan: Tell Karron I will always regret taking his place.
 
-Galun: Reshan, we leave this cave together. Just like we did the first one.
+Gorlack: Reshan, we leave this cave together. Just like we did the first one.
 
 Reshan: farewell my friend
 
-Galun: reshan
+Gorlack: reshan
 
 (Reshan flies SW to a large collection of ‘fire dust’ kegs that pervade the SW of the cave.)
 
@@ -950,30 +950,30 @@ S09 HEART MOUNTAINS
 
 STORY:
 
-(no portrait) Galun: my friend
+(no portrait) Gorlack: my friend
 
-(no portrait) Galun: i have killed you
+(no portrait) Gorlack: i have killed you
 
 
 START:
 
-(Music “sad.ogg” plays. Galun is at camp with his Second Intendant [fighter caste], Arinexis and Zedrix. Klanir [Drake Glider] flies in from S and lands near Galun’s camp.)
+(Music “sad.ogg” plays. Gorlack is at camp with his Second Intendant [fighter caste], Arinexis and Zedrix. Klanir [Drake Glider] flies in from S and lands near Gorlack’s camp.)
 
-Klanir: Dominant Galun, I bring ill tidings of the Hunt.
+Klanir: Dominant Gorlack, I bring ill tidings of the Hunt.
 
 The Flight of Karron was decimated by a considerable pack of humans upon the grassy plains. The last word from Dominant Karron spoke of their striving for a retreat back to your eyrie. My Dominant Vladnir, in a noble attempt to aid the imperiled Flight of Karron, fell to our prey. His flight was scattered east, deep into the greatland.
 
-Galun: ……
+Gorlack: ……
 
 Klanir: I must relay what I know to Dominant Karron.
 
-Galun: glider, take care
+Gorlack: glider, take care
 
 (Klanir flies SW off map.)
 
 Zedrix: Air hasss ssmell of cold seasson. Many moonsss of cold are nearly upon usss. Not enough time to return home.
 
-Galun: we will set camp here... where this wounded land bleeds its warming ichor…
+Gorlack: we will set camp here... where this wounded land bleeds its warming ichor…
 
 drive off the wild creatures so this place is safe for our weary flight
 
@@ -982,7 +982,7 @@ SCENARIO OBJECTIVES:
 
 Defeat all enemies.
 
-Galun, Arinexis and Zedrix must survive.
+Gorlack, Arinexis and Zedrix must survive.
 
 
 IF ALL PREY HARVESTED:
@@ -991,42 +991,42 @@ IF ALL PREY HARVESTED:
 
 Krahkrahs: I know you are here, weakling Shek’kahan! You know better by now than to intrude upon my domain, brother!
 
-Galun: it is i that intrudes on yours
+Gorlack: it is i that intrudes on yours
 
 Krahkrahs: You are not Shek’kahan. Depart!
 
 Zedrix: Not Shek’kahan…?
 
-Galun: you will have to destroy me
+Gorlack: you will have to destroy me
 
 Krahkrahs: So be it, pretender.
 
-Galun: no one is to intervene on my behalf
+Gorlack: no one is to intervene on my behalf
 
-(NEW SCENARIO OBJECTIVE: Galun must fight Krahkrahs one on one.)
+(NEW SCENARIO OBJECTIVE: Gorlack must fight Krahkrahs one on one.)
 (12 turns added to turn limit.)
-(Krahkrahs AI mode: Attack only Galun.)
+(Krahkrahs AI mode: Attack only Gorlack.)
 
 
-IF UNIT OTHER THAN GALUN ATTACKS KRAHKRAHS FOR THE FIRST TIME:
+IF UNIT OTHER THAN GORLACK ATTACKS KRAHKRAHS FOR THE FIRST TIME:
 
-Galun: do not intervene
+Gorlack: do not intervene
 
 
-KRAHKRAHS OR GALUN DEFEATS THE OTHER:
+KRAHKRAHS OR GORLACK DEFEATS THE OTHER:
 
 Krahkrahs: Speak of Shek’kahan. Tell me my brother’s fate.
 
-Galun: he is perished
+Gorlack: he is perished
 
 Krahkrahs: So then it is true…
 
 It was nigh every season he would intrude upon my domain or me his. Each time, there was such a glorious battle between we, the Sons of Drugis, as to impart even the clouds with fright. I must not have challenged him enough that he grew weak, vulnerable. Now another great battle between us there will never be. Now there is only me.
 
 
-IF KRAHKRAHS DEFEATED GALUN:
+IF KRAHKRAHS DEFEATED GORLACK:
 
-Galun: finish this
+Gorlack: finish this
 
 Krahkrahs: I can not destroy you. You have already been. I saw before our battle began; your heart no longer dances with flames for the struggle of life. There is no glory for me in victory here.
 
@@ -1036,7 +1036,7 @@ Krahkrahs: Perhaps in time there will be glory in challenging you again. Yes, pe
 (Scenario successfully completed.)
 
 
-IF GALUN DEFEATED KRAHKRAHS:
+IF GORLACK DEFEATED KRAHKRAHS:
 
 Krahkrahs: Long has it been since I enjoyed battle so. Even if it is only by rearing, you stand as tall as Shek’kahan once did.
 
@@ -1055,53 +1055,53 @@ STORY:
 
 Narrator:
 
-A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. Galun had the camp fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
+A storm of ice fell upon the sunreach peaks. The greatland’s season of cold had come to sojourn the flight. Gorlack had the camp fortified with great stone works until it resembled an eyrie. With the ample provisions, this season might be outlasted.
 
-Galun secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Zedrix trekked up the peak to bring his dragon sustenance.
+Gorlack secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day Zedrix trekked up the peak to bring his dragon sustenance.
 
 
 START:
 
 Zedrix: I sssee now you are not Shek’kahan. I ssaw as I wanted to ssee.
 
-Galun: As have I…
+Gorlack: As have I…
 
 Zedrix: What do you mean?
 
-Galun: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Reshan had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
+Gorlack: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Reshan had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
 
-Galun: I thought myself invulnerable, the hero in my own tale. I charged at the beast, striking with bare claws. Spiting feeble sparks. With one swipe I was sent to the ground, bleeding.
+Gorlack: I thought myself invulnerable, the hero in my own tale. I charged at the beast, striking with bare claws. Spiting feeble sparks. With one swipe I was sent to the ground, bleeding.
 
-Galun: My body froze me as it readied to flee. The desire to flee was overcoming. Flee… abandon Reshan to die…
+Gorlack: My body froze me as it readied to flee. The desire to flee was overcoming. Flee… abandon Reshan to die…
 
-Galun: The agonizing guilt of that last thought. Leave my friend to die. It reignited my heart with an unfamiliar passion. I would do anything to save my friend. I felt the whole world around me burning for the means to save him. That is when I felt it beneath my right wing. A clasher’s spear, broken a reach beneath the head. It had not been there when I entered the cave. It was there now.
+Gorlack: The agonizing guilt of that last thought. Leave my friend to die. It reignited my heart with an unfamiliar passion. I would do anything to save my friend. I felt the whole world around me burning for the means to save him. That is when I felt it beneath my right wing. A clasher’s spear, broken a reach beneath the head. It had not been there when I entered the cave. It was there now.
 
-Galun: The rogue turned to finish Reshan. I threw myself upon it with all my hate. The spear I ran deep into its cold heart.
+Gorlack: The rogue turned to finish Reshan. I threw myself upon it with all my hate. The spear I ran deep into its cold heart.
 
 Ever since have I trusted absolutely in the fire that saved my friend…
 Ever since have I fled the fear that drove me toward such vile cowardice.
 
 Zedrix: You shunned Reshan’s fearss too.
 
-Galun: Breathing in his fears could chill my heart to cowardice.
+Gorlack: Breathing in his fears could chill my heart to cowardice.
 
 Zedrix: Yet hisss heart was brave. Hisss fear for you made it sso.
 
-Galun: …… It did.
+Gorlack: …… It did.
 
 Zedrix: Your fear for him made you brave.
 
-Galun: A discarded spear made me brave.
+Gorlack: A discarded spear made me brave.
 
 Zedrix: The meanss to ssave your friend. It appeared *as* you feared for him. Becaussse you did.
 
-Galun: …………
+Gorlack: …………
 
 (The Sound of War Horns.)
 
 Arinexis: Come ssswiftly! Deep dwellersss emerge!
 
-(Galun starts a turn or two from his keep given the hindrance of heavy snow. The camp is already surrounded by higher level dwarvish units three turns away that emerged from holes surrounding at the same distance. Thurdakor [Dwarvish Berserker] has a small camp to the south where he recruits primarily Gryphon Riders to contest villages and support his already deployed forces.)
+(Gorlack starts a turn or two from his keep given the hindrance of heavy snow. The camp is already surrounded by higher level dwarvish units three turns away that emerged from holes surrounding at the same distance. Thurdakor [Dwarvish Berserker] has a small camp to the south where he recruits primarily Gryphon Riders to contest villages and support his already deployed forces.)
 
 (Sound of War Horns #3.)
 
@@ -1117,7 +1117,7 @@ Thurdakor: A' richt, noo ye listen tae me, dragons. Ah cannae hae ye juist stand
 
 (Sound of War Horns #4.)
 
-Galun: I do not grasp the words you speak. Use fewer of them with less haste.
+Gorlack: I do not grasp the words you speak. Use fewer of them with less haste.
 
 Thurdakor: Noo juist whit in th' fiendish skies ‘boon is that suppose tae mean?! Ah wull hae ye ken…
 
@@ -1127,7 +1127,7 @@ Arinexis: Your hornblower ssspewss notesss over your wordsss!
 
 Thurdakor: Juist dingy him, he hud awfy much tae dram.
 
-Galun: If you depart now no harm will come to you.
+Gorlack: If you depart now no harm will come to you.
 
 Thurdakor: Weel that is it then, wee jimmies. Ye a' saw howfur ah tried tae be reasonable. Bit thare is na reasoning wi' dragons. Thay ainlie ken th' bite o' oor axes.
 
@@ -1142,7 +1142,7 @@ Defeat Thurdakor.
 
 Deep dwellers emerge from each hole until it is filled in. (Move a unit onto the hole tile to fill it in.)
 
-Galun, Arinexis and Zedrix must survive.
+Gorlack, Arinexis and Zedrix must survive.
 
 
 EVERY TURN:
@@ -1157,23 +1157,23 @@ IF A PLAYER UNITS REACHES A HOLE TILE:
 
 TURN 30 OR THURDAKOR DEFEATED:
 
-Galun: Behold what ends you have wrought. You can no easier cast us off these peaks than we could pluck you from the deep.
+Gorlack: Behold what ends you have wrought. You can no easier cast us off these peaks than we could pluck you from the deep.
 
 I offer you this pact. All the peaks are our domain. For our metal works, the soils within. The vast under world beneath these we will not violate. Both of us may hunt the lowlands so long as one takes not the other as game.
 
 Thurdakor: Nae sure ah like the sound o' this deal.
 
-Galun: It is the best you will have. We covet the soil as little as you do the clouds. We will find no better neighbors than each other.
+Gorlack: It is the best you will have. We covet the soil as little as you do the clouds. We will find no better neighbors than each other.
 
 Thurdakor: Yer nae easy tae haggle with, dragon.
 
 Sae be it, a deal we hae. Ah wull even release mah prize wee dragon captive fur ye.
 
-(Thurdakor goes to uncover a nearby hole. From it Reshan surfaces and moves toward Galun.)
+(Thurdakor goes to uncover a nearby hole. From it Reshan surfaces and moves toward Gorlack.)
 
-Reshan: Galun, it seems no cave can keep us!
+Reshan: Gorlack, it seems no cave can keep us!
 
-Galun: reshan…
+Gorlack: reshan…
 
 Reshan!
 
@@ -1185,14 +1185,14 @@ Reshan: My friend… You have saved me.
 
 The deep dwellers hewed through my tomb of broken stone to discover me. I was to be their captive in the underworld forever. A curio to frighten their hatchlings from straying to the above. By your pact with them, I was freed.
 
-Galun: Reshan, it was you that saved me.
+Gorlack: Reshan, it was you that saved me.
 
 We have much to plan for the Future of our Folk in this Greatland.
 
 
 
 
-S11 CONFRONTATION [A little concerned how Karron has a flight enough to challenge galun, but that could be because the hunting parties are out, and resources expended during FMS. Also could have no gold carryover to this scenario.]
+S11 CONFRONTATION [A little concerned how Karron has a flight enough to challenge gorlack, but that could be because the hunting parties are out, and resources expended during FMS. Also could have no gold carryover to this scenario.]
 
 
 STORY:
@@ -1206,9 +1206,9 @@ A flight was spotted inbound. Once more, it was the Flight of Karron.
 
 START:
 
-(Galun, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
+(Gorlack, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
 
-Karron: Galun, it is good to see you alive. As well you, Reshan. When the Flight of Galun did not return, I assumed you all had perished to the wild game of this land.
+Karron: Gorlack, it is good to see you alive. As well you, Reshan. When the Flight of Gorlack did not return, I assumed you all had perished to the wild game of this land.
 
 Reshan: Karron, likewise! If only Vladnir had shared our fortune.
 
@@ -1216,27 +1216,27 @@ Karron: Indeed, Vladnir will be remembered. Vladnir will be avenged…
 
 Five new flights have arrived at your eyrie. Another seven will have made the journey within a moon. Next year, a full dozen more. Working together, we will swiftly cull the prey-kinds that proved problematic. At last we will subdue this land.
 
-Galun: Karron, not even the whole of Morogor could subdue this land. Not in the way we strived to.
+Gorlack: Karron, not even the whole of Morogor could subdue this land. Not in the way we strived to.
 
-Karron: … never before have you spoken as this… Galun, by your own measure, you speak cowardice!
+Karron: … never before have you spoken as this… Gorlack, by your own measure, you speak cowardice!
 
-Galun: My measure was wrong. I possessed the drive needed to reach this distant land. Yet I now see it will take much more to *thrive* here.
+Gorlack: My measure was wrong. I possessed the drive needed to reach this distant land. Yet I now see it will take much more to *thrive* here.
 
 We must seek a deeper Wisdom of this place in order to…
 
 Karron: I will tell you what I seek! Your return to the eyrie to complete what you began.
 
-Galun: *This* is my eyrie now. Here I must stay to ready my flight for the long task ahead. The task of our slow ascension to dominance over the greatland.
+Gorlack: *This* is my eyrie now. Here I must stay to ready my flight for the long task ahead. The task of our slow ascension to dominance over the greatland.
 
 You may return with the remaining provisions we gathered. Once returned, you may claim the eyrie I forsook.
 
-Karron: You swore to aid those who journeyed to your greatland. You called the Hunt… Galun, the hunt is not ended!
+Karron: You swore to aid those who journeyed to your greatland. You called the Hunt… Gorlack, the hunt is not ended!
 
-Galun: My summons was never issued, the arrivals premature. The hunt was indeed ended, by failure.
+Gorlack: My summons was never issued, the arrivals premature. The hunt was indeed ended, by failure.
 
 Karron, hear me, we must alter our ploys for rule over this land, lest it is to rule over us…
 
-Karron: You may embrace your cowardice, Galun. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
+Karron: You may embrace your cowardice, Gorlack. Hide here in your hovel with it. Yet your flight will not be dishonored with you. They will return with me to rejoin the Hunt. To aid the salvation of our people which you have forsaken!
 
 Through the Ways of Morogor, I Proclaim you Deprived.
 
@@ -1247,15 +1247,15 @@ Karron: Then only one fix remains. A trial to the death.
 
 COMBAT OPTIONS:
 
-Karron: Galun, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
+Karron: Gorlack, let us spare our flights unneeded bloodshed. Summon no additional veterans or recruits. With just the aid of our counselors we will meet between our camps to finish this.
 
 (Player chooses from three responses [Full Combat, Limited Combat, Singular Combat]:
-Galun: This battle decides the fate of my entire flight. I will stay none from their due part in it.
+Gorlack: This battle decides the fate of my entire flight. I will stay none from their due part in it.
 Karron: So be it.
 OR
-Galun: I accept.
+Gorlack: I accept.
 OR
-Galun: Then let us leave aside our counselors as well. I challenge you to singular combat.
+Gorlack: Then let us leave aside our counselors as well. I challenge you to singular combat.
 Karron: Your challenge is unexpectedly valiant. I accept.)
 
 
@@ -1264,32 +1264,32 @@ SCENARIO OBJECTIVES:
 Defeat Karron.
 
 (If player chose the Limited OR Singular Combat):
-If Galun does not recruit or recall then neither will Karron.
+If Gorlack does not recruit or recall then neither will Karron.
 
 (If player chose Singular Combat):
-Galun should defeat Karron one on one.
+Gorlack should defeat Karron one on one.
 
-Galun, Arinexis and Zedrix must survive. (or maybe only Galun needs to survive)
+Gorlack, Arinexis and Zedrix must survive. (or maybe only Gorlack needs to survive)
 
 
 IF PLAYER CHOSE LIMITED COMBAT:
 
-(Karron will not recruit. He and his intendants will go to the area between the camps [~16,19] and wait. When one or more of Galun’s units is in that vicinity as well, the AI will switch to general attack mode [sans recruiting].)
+(Karron will not recruit. He and his intendants will go to the area between the camps [~16,19] and wait. When one or more of Gorlack’s units is in that vicinity as well, the AI will switch to general attack mode [sans recruiting].)
 
 
 IF PLAYER CHOSE SINGULAR COMBAT:
 
-(Karron will not recruit. His intendants will not move. He will go to the area between the camps [~16,19] and wait. When Galun is in that vicinity as well, Karron will attack only Galun.)
+(Karron will not recruit. His intendants will not move. He will go to the area between the camps [~16,19] and wait. When Gorlack is in that vicinity as well, Karron will attack only Gorlack.)
 
 
 IF PLAYER CHOSE LIMITED OR SINGULAR COMBAT THEN RECRUITED:
 
-Karron: You have broken our agreement not to involve our wider forces. You dishonor yourself, Galun.
+Karron: You have broken our agreement not to involve our wider forces. You dishonor yourself, Gorlack.
 
 (Karron’s side AI resets to defaults. Karron will attempt return to his keep to recruit. All scenario variables reset to Full Combat defaults.)
 
 
-IF PLAYER CHOSE SINGULAR COMBAT THEN STRIKES WITH ANY UNIT BESIDES GALUN:
+IF PLAYER CHOSE SINGULAR COMBAT THEN STRIKES WITH ANY UNIT BESIDES GORLACK:
 
 Karron: You have betrayed your pledge of singular combat! How far you have fallen.
 
@@ -1300,33 +1300,33 @@ IF KARRON DEFEATED:
 
 Karron: You have one last victory over me… Finish it.
 
-Galun: Nay.
+Gorlack: Nay.
 
 Karron: ……
 
-Galun: Karron, I banish you from this greatland, from these far lands of the east. Not as the victor vanquishing a rival as it was in the contention… as a friend seeking to stay you from the turmoil that becomes.
+Gorlack: Karron, I banish you from this greatland, from these far lands of the east. Not as the victor vanquishing a rival as it was in the contention… as a friend seeking to stay you from the turmoil that becomes.
 
 I strove to prevent a war between the flights. Yet we traded it for a war of an unknown kind. The hungry flights arriving in numbers will call a Hunt far greater than even ours. Yet it will not be a hunt. It will be a war with prey.
 
 Karron: Beasts can no more make war on us than could the clouds.
 
-Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be forced to scatter deep into the greatland to meet fates unknown. As it was with the Flight of Vladnir.
+Gorlack: They already have. You witnessed it. We all did. Perhaps half the coming flights will be forced to scatter deep into the greatland to meet fates unknown. As it was with the Flight of Vladnir.
 
 Only through defeat will some learn as I did. The wisdom Reshan whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
 
 Karron: I do not… fully grasp…
 
-Galun: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out new lands with the wisdom from mistakes made here. Let your gliders’ spoken remembrance guide the way.
+Gorlack: That is why I banish you west, away from this affair. Take your flight west beyond even Morogor. Seek out new lands with the wisdom from mistakes made here. Let your gliders’ spoken remembrance guide the way.
 
-Karron: Galun, let both our flights head west. We may together take on this adventure as it always should have been.
+Karron: Gorlack, let both our flights head west. We may together take on this adventure as it always should have been.
 
-Galun: I am sorry, Karron. Our windpaths will never cross as you hoped. You spoke rightly before, I must finish what I began here.
+Gorlack: I am sorry, Karron. Our windpaths will never cross as you hoped. You spoke rightly before, I must finish what I began here.
 
 Karron: So it must be…
 
 May your fire light the way in darkness.
 
-Galun: May the wind catch your wings to soar.
+Gorlack: May the wind catch your wings to soar.
 
 (Karron, followed by his flight, depart SW off map.)
 
@@ -1342,6 +1342,6 @@ Narrator:
 
 Karron heard the memory spoken to him by his gliders. He lead a few smaller flights west to the green isle of the orcs. Striving together with native adversaries of these beasts, the isle was taken for new eyries to be set. Sadly, the allure of orc flesh proved too enticing to prevent their vanishing.
 
-Time proved right the prediction of Galun. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the Greatland as more poured in from Morogor to supplant them.
+Time proved right the prediction of Gorlack. Countless drakes flocked from Morogor to scorch the East with their hunger. The prey that survived were provoked to frenzy in larger throngs. Flights soon fell along with their quarry. Others were scattered far across the Greatland as more poured in from Morogor to supplant them.
 
-Many drakes that grew weary of the hunt heard the many wisdoms of Galun, retold far and wide by his gliders. By century’s end, drakes following the windpath of Galun spanned the vast whole of the greatland.
+Many drakes that grew weary of the hunt heard the many wisdoms of Gorlack, retold far and wide by his gliders. By century’s end, drakes following the windpath of Gorlack spanned the vast whole of the greatland.
