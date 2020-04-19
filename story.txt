@@ -1,4 +1,4 @@
-WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.2)
+WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.3)
 
 
 
@@ -21,13 +21,13 @@ For gliders remember what others forgot. There is land beyond Morogor, across th
 
 START:
 
-(Galun [a burner], Vank [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
+(Galun [a burner], Reshan [a glider] and a handful of similar drakes fly into position near the SW coast of a large island.)
 
-Vank: The Isle of Gaall. The most harrowing hunting ground in the Domain of Vladnir.
+Reshan: The Isle of Gaall. The most harrowing hunting ground in the Domain of Vladnir.
 
 Galun: The Hunt of Gaall awaits us below. The trial of the provider. The trial for Aspirancy.
 
-Vank: May we few prove worthy of it… if only Karron was still of us.
+Reshan: May we few prove worthy of it… if only Karron was still of us.
 
 Galun: Karron never was of us. Seeking an ally in him we could only find a rival. I would not to see his wayward heart.
 
@@ -35,31 +35,31 @@ Galun: We need no further hunters to prevail here. No less of a challenge readie
 
 Call the Hunt.
 
-Vank: By your will-- Hunters! Descend!
+Reshan: By your will-- Hunters! Descend!
 
 
 SCENARIO OBJECTIVES:
 
-Galun and Vank must attain level 2.
+Galun and Reshan must attain level 2.
 
 Overcome the Challenge of Gaall by killing X number of units before end of the the Hunt. (X varies on diffiiculty)
 
-Galun and Vank must survive.
+Galun and Reshan must survive.
 
 
 VICTORY:
 
-Vank: Victory is yours, *Aspirant* Galun!
+Reshan: Victory is yours, *Aspirant* Galun!
 
-Galun: Learn from this trial, Vank. Your fear voiced at the onset of this hunt; see now its futility.
+Galun: Learn from this trial, Reshan. Your fear voiced at the onset of this hunt; see now its futility.
 
-Vank: If I only had your fearless heart…
+Reshan: If I only had your fearless heart…
 
-Vank: … Galun. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
+Reshan: … Galun. I must speak of the cave. Yet the words evade me. Your fearlessness for my sake…
 
 Galun: Nay! There is nothing to be said. A brief moment now long passed.
 
-Vank: Galun…
+Reshan: Galun…
 
 Galun: You know what lies ahead. Henceforth, we must look only to the future.
 
@@ -108,13 +108,13 @@ Call the Hunt.
 
 START:
 
-(Galun, Vank, two Burners, two Fighters and two Gliders appear from SW over the ocean)
+(Galun, Reshan, two Burners, two Fighters and two Gliders appear from SW over the ocean)
 
-Vank: Our swift approach escaped our quarry’s notice. Their defense is yet to be mustered.
+Reshan: Our swift approach escaped our quarry’s notice. Their defense is yet to be mustered.
 
 Galun: We will retake the nearest watchtower before they ready fully. From there we rally a defense of our own.
 
-Vank: It would be wise of us to burn their sea glider, lest they escape by it.
+Reshan: It would be wise of us to burn their sea glider, lest they escape by it.
 
 
 SCENARIO OBJECTIVES:
@@ -123,12 +123,12 @@ Defeat Viragar or his ship before he escapes (ship begins retreat on turn 13).
 
 Slaughter every last intruder.
 
-Galun and Vank must survive.
+Galun and Reshan must survive.
 
 
 TURN 7:
 
-Vank: Lo! Karron reinforces us.
+Reshan: Lo! Karron reinforces us.
 
 Karron: I see Galun still lasts. Wing, descend upon the interlopers. Leave no survivors!
 
@@ -152,7 +152,7 @@ Viragar: Run! Back to the boat you scum! We are LEAVING!
 
 SHIP REACHES EDGE OF MAP:
 
-Vank: Galun, the lead intruder is fled!
+Reshan: Galun, the lead intruder is fled!
 
 
 IF KARRON DEFEATED (by enemies):
@@ -173,7 +173,7 @@ Galun: Put him on the Spit of Telling.
 
 ALL ORCS SLAIN:
 
-Galun: The hunt is ended. Ensure that our captive is attended to, Vank.
+Galun: The hunt is ended. Ensure that our captive is attended to, Reshan.
 
 
 
@@ -189,27 +189,27 @@ Fresh prey carcasses were justly divided among combatants in accord with the Way
 
 Karron: Savory… *chewing* Sapid… *crunch* … these creatures are a delicacy without match.
 
-Vank: Galun! I bear rich tidings. The captive’s mind spilled all that it carried!
+Reshan: Galun! I bear rich tidings. The captive’s mind spilled all that it carried!
 
-Galun: Excellent, Vank! Speak of it.
+Galun: Excellent, Reshan! Speak of it.
 
-Vank: ‘Orc’ the creatures call themselves.
+Reshan: ‘Orc’ the creatures call themselves.
 
 Karron: *examining his meal...* “Orkchops.”
 
 *crunch*
 
-Vank: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
+Reshan: They flow forth from a distant westerly isle. An isle great enough to be of the central islands. From there, further west, lands vast beyond perception. At any height, just a lone coast may be witnessed of these.
 
 Galun, perhaps these are the far lands of my caste’s spoken memory. The place beneath the setting sun from which drakes first took flight.
 
-Galun: They may very well be, Vank. Now speak of our prey’s destination in the east.
+Galun: They may very well be, Reshan. Now speak of our prey’s destination in the east.
 
-Vank: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
+Reshan: Perilous that way is. A wide stretch of sea unexceptional flyers might cross with favor from the winds. Then only a petty atoll to rest them. Slid past unnoticed with perilous ease.
 
 Galun: Go on.
 
-Vank: Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
+Reshan: Further east, another stretch of sea, nearly as wide. At last, the Greatland. A land seemingly as vast as the ocean itself. Likewise mysterious.
 
 Galun: If there our prey migrates, then there our prey will be most plentiful…
 
@@ -238,15 +238,15 @@ All the skills to lead a Flight were tested. With his party of Intendants, each 
 
 START:
 
-Vank: The Contention! I feel strangely light.
+Reshan: The Contention! I feel strangely light.
 
-Galun: Pray do not fall faint before this grand audience, Vank.
+Galun: Pray do not fall faint before this grand audience, Reshan.
 
 Karron: Galun, feel no shame for the fear shaking your heart. Facing such an opponent as yours, it will not be judged.
 
 Galun: If just sharp as your tongue were your teeth.
 
-(Vank gives game plan advice. TBD.)
+(Reshan gives game plan advice. TBD.)
 
 
 SCENARIO OBJECTIVES:
@@ -299,7 +299,7 @@ Vladnir: All of us that rose to Dominance, did so on the wings of a youthful con
 
 Galun: … Dominant Vladnir, tell me what flaw you see in my heart.
 
-Vladnir: I can not see what is within your heart, Galun. I see only that it burns with a brighter passion than others. Ever since you saved Vank from his fate within that cave. Slew that vile rogue. That ordeal recast you; it set the fire of Dominance to your heart.
+Vladnir: I can not see what is within your heart, Galun. I see only that it burns with a brighter passion than others. Ever since you saved Reshan from his fate within that cave. Slew that vile rogue. That ordeal recast you; it set the fire of Dominance to your heart.
 
 Whatever has driven you this far, master it. Lest it master you.
 
@@ -326,7 +326,7 @@ Skimming just above the glassy moonlit ocean, their wingwake mildly rippling beh
 
 Soaring by day. Skimming by night. So forth the journey persisted.
 
-To spy the Petty Atoll, Vank scattered gliders to a broadest array. Past their north wing it nigh slipped even so. At long last, they set themselves upon it.
+To spy the Petty Atoll, Reshan scattered gliders to a broadest array. Past their north wing it nigh slipped even so. At long last, they set themselves upon it.
 
 
 START:
@@ -349,11 +349,11 @@ Shussek: We will ‘de-part’ your fins from you and gulp your fry by the thous
 
 Galun: So an army of mermish chokes our passage across their ocean realm. A great battle between us will now ensue.
 
-Vank: The mermish have deranged us for centuries. Yet the Flight is direly weary from the journey. If we could find some way round conflict…
+Reshan: The mermish have deranged us for centuries. Yet the Flight is direly weary from the journey. If we could find some way round conflict…
 
 Galun: We will prevail through them.
 
-Vank: Then we should forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
+Reshan: Then we should forge a truce with the serpentine ones. We might liaise with their leader if I can get close to him.
 
 Otherwise, having not summoned us here, prudently will he assume us of the mermish camp.
 
@@ -364,40 +364,40 @@ SCENARIO OBJECTIVES:
 
 Slaughter every last creature standing against us.
 
-Vank may turn the Naga to our side if he reaches their leader directly (if he is one tile away).
+Reshan may turn the Naga to our side if he reaches their leader directly (if he is one tile away).
 
-Galun and Vank must survive.
+Galun and Reshan must survive.
 
 
 ON TURN 2:
 
-Vank: Lo, just before the horizon! There are mighty wakes pointing to us. Only a monster leaves so tall a wake.
+Reshan: Lo, just before the horizon! There are mighty wakes pointing to us. Only a monster leaves so tall a wake.
 
 
-IF VANK REACHES NAGA LEADER WHILE MERMISH ALIVE:
+IF RESHAN REACHES NAGA LEADER WHILE MERMISH ALIVE:
 
-Vank: We seek an ally against these fiend mermish.
+Reshan: We seek an ally against these fiend mermish.
 
 Shussek: Ssssss? You will betray mermish?
 
-Vank: … As you say.
+Reshan: … As you say.
 
 Shussek: Then you take this reef from us? Ssssss!
 
-Vank: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
+Reshan: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
 
 Shussek: You have a deal, sky monster. They will float dead on the waves!
 
 
-IF VANK REACHES NAGA LEADER WHEN MERMISH DEAD:
+IF RESHAN REACHES NAGA LEADER WHEN MERMISH DEAD:
 
 Shussek: Ssssss? You have betrayed mermish?
 
-Vank: … As you say.
+Reshan: … As you say.
 
 Shussek: Then you take this reef from us? Ssssss!
 
-Vank: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
+Reshan: We seek a right to respite here for those of our kind faring past these isles. Also, we shall have the mermish carcasses for our provisions.
 
 Shussek: So be it, sky monster.
 
@@ -428,7 +428,7 @@ Kraken: “Glarbelblarg!”
 
 VICTORY:
 
-Vank: Now… we can rest.
+Reshan: Now… we can rest.
 
 Galun: I will allow a sojourn of three days.
 
@@ -448,34 +448,34 @@ The familiar rhythm of the long journey began anew. Slowly returned the aching w
 
 Then Galun, scouting ahead with the glider line, sighted it. Land as great as the ocean. The land without end.
 
-Vank persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the Greatland.
+Reshan persuaded Galun to make first landfall upon a nearby cluster of three islands. Here a narrow sea warded against the unknown perils of the Greatland.
 
 
 START:
 
-(Galun appears at 3,19 with Vank and some gliders appearing nearby.
+(Galun appears at 3,19 with Reshan and some gliders appearing nearby.
 The northern keep is occupied by The Midnight Queen [Spectre].
 The southern keep is occupied by a Giant Scorpion, with saurians hostile to it distantly surrounding it.
 The eastern keep is occupied by Rhynnin, a Master at Arms.)
 
 Galun: It is here I will plant my eyrie. Clear this isle of every hindrance.
 
-Vank: By the northern stronghold the land bleeds its fiery ichor. Once this isle is captured, we can reforge the apparati of the clashers.
+Reshan: By the northern stronghold the land bleeds its fiery ichor. Once this isle is captured, we can reforge the apparati of the clashers.
 
-Vank: To the southern stro… Hatchlings! There are hatchlings to our south. They look to be in dire need of aid.
+Reshan: To the southern stro… Hatchlings! There are hatchlings to our south. They look to be in dire need of aid.
 
 Rhynnin: Spread forth, men! I care not for what tales you have heard of this place. For striking at Elensefar herself, we shall hunt those scaly wee devils to the far reaches of this “cursed isle”!
 
 Galun: Those creatures are jessene.
 
-Vank: Nay, their weaponry is not crude enough. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
+Reshan: Nay, their weaponry is not crude enough. They are the haldric, creatures of close relation to the jessene. Yet of much higher quality. Meat of equal blandness.
 
 
 SCENARIO OBJECTIVES:
 
 Slaughter every last creature imperiling this triumphant setting place of our eyrie.
 
-Galun and Vank must survive.
+Galun and Reshan must survive.
 
 
 IF GIANT SCORPION LEADER KILLED:
@@ -484,17 +484,17 @@ IF GIANT SCORPION LEADER KILLED:
 
 Zedrix: He returnsss! Noble Shek’kahan returnss from ssspirit realm to ssave usss! *chirping sob*
 
-Galun: Vank.
+Galun: Reshan.
 
 These… are not hatchlings.
 
-Vank: By the winds, they are not. Indeed, their resemblance is so strikingly of hatchlings.
+Reshan: By the winds, they are not. Indeed, their resemblance is so strikingly of hatchlings.
 
 Arinexis: Ssso thesse are Fire Dragonsss, eh Zedrix?
 
 Hail, dragonss! *rapid clicking* Down here!
 
-Vank: They are receiving us.
+Reshan: They are receiving us.
 
 Arinexis: Hail-loooo! Dragonss, can you ssspeak? Zedrix, you ssaid dragons can ssspeak!
 
@@ -509,9 +509,9 @@ EVERY ENEMY UNIT DEAD:
 
 Galun: Upon this isle, I hereby Proclaim my Eyrie. From here my Domain extends.
 
-Galun: Vank, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, will be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
+Galun: Reshan, dispatch gliders back to Morogor with tidings. Send word also that I shall issue my summons in a year’s time. All Flights with a heart hot enough to undergo the salient journey, will be received at this, my eyrie. From here, they may go forth and set their eyries upon this greatest land.
 
-Vank: By your command, my Dominant.
+Reshan: By your command, my Dominant.
 
 I wish to dispatch a sky patrol as well. To begin unbroken watch of the greatland just off our eastern shore.
 
@@ -527,7 +527,7 @@ STORY:
 
 Narrator:
 
-A proud eyrie was carved into the highest peak of the three islands. The small flight easily filled their bellies with the game of only the main isle. The stocks of the wider domain were reserved for the visitor flights to come. Vank’s patrols spied vague details of the mysterious greatland.
+A proud eyrie was carved into the highest peak of the three islands. The small flight easily filled their bellies with the game of only the main isle. The stocks of the wider domain were reserved for the visitor flights to come. Reshan’s patrols spied vague details of the mysterious greatland.
 
 Then, only a moon cycle after the Proclaiming, a flight was spotted inbound. The Flight of Karron.
 
@@ -542,7 +542,7 @@ Galun: Vladnir can not hold with *no* ally by his side.
 
 Karron: Vladnir designed to follow me here. By now he is already faring.
 
-Vank: We have not yet the provisions for three flights within this domain. There could be hunger before the next moon!
+Reshan: We have not yet the provisions for three flights within this domain. There could be hunger before the next moon!
 
 Karron: Galun we must… Galun, hatchlings do not belong at a counsel gathering.
 
@@ -552,15 +552,15 @@ Not hatchlings!
 
 Zedrix: Indeed, I am our pack’ss Elder. Ssuch longevity wandering starss bestow me. For over 11 yearsss have I lived.
 
-Vank: They are “Saurians”.
+Reshan: They are “Saurians”.
 
 Karron: Their likeness to hatchlings is disarming. Disturbingly so. I will not have them near my fli…
 
 Galun: Enough.
 
-I will have a closer survey of the greatland focused on game abundance. Vank, see to it at once.
+I will have a closer survey of the greatland focused on game abundance. Reshan, see to it at once.
 
-Vank: By your will. *departs*
+Reshan: By your will. *departs*
 
 Karron: Galun, arriving here, I noticed a large gathering of game to the northeast. A nest of haldric.
 
@@ -576,17 +576,17 @@ Zedrix: Alasss! I am verily shaking at presssent.
 
 Karron: Galun, we should harvest them. There is enough meat there to feed our three flights a full year.
 
-Galun: Vank has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
+Galun: Reshan has counseled against it until more is known of them. The glider memory speaks many times of underrated prey turning to become the hunter. It is even said that is why the ancients fled to Morogor in the time of legend.
 
-Karron: You speak with Vank’s fearful tongue. I remember, long ago…
+Karron: You speak with Reshan’s fearful tongue. I remember, long ago…
 
-You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Vank. Before your mind echoed with his glider myths.
+You would speak of our great battles to be won over the rogues. Hunting beasts so terrible we could only hope to take them on working together. Long ago. Before Reshan. Before your mind echoed with his glider myths.
 
 Galun: Not myths, Karron. Look around us. It is not the ocean we stand upon.
 
 Karron: Your dreams of glorious feats, spoken in such detail. Such certainty. In them I found my inspiration. I would become your First Intendant. So that I might become a part of them-- your adventures to come. Harder than your other allies I trained. In the Challenges, fiercer than any of them I fought.
 
-Already advanced to Warrior rank was I, when still of basic rank were all of you. When you promised First Intendancy to Vank. The insult of Second… to me.
+Already advanced to Warrior rank was I, when still of basic rank were all of you. When you promised First Intendancy to Reshan. The insult of Second… to me.
 
 Galun: You dwell so much in the past. The past weakens you.
 
@@ -613,13 +613,13 @@ START:
 
 (Galun is camped with Arinexis and Zedrix south of Elensefar. [General] Vorlyan holds Elensefar, nearby is [Cavalier] Iryn. There is an unlit brazier just west of Galun’s camp.)
 
-(Vank flies in from east, stopping north of Galun’s camp.)
+(Reshan flies in from east, stopping north of Galun’s camp.)
 
-Vank: Galun, you have made landfall! In sight of these creatures!
+Reshan: Galun, you have made landfall! In sight of these creatures!
 
-Galun: You have returned from patrol with fortunate timing, Vank. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
+Galun: You have returned from patrol with fortunate timing, Reshan. These creatures are to be our prey. I will grant you the details at the keep. Fall in.
 
-Vank: Galun, this is unwise! The abilities of this game is still unknown to us.
+Reshan: Galun, this is unwise! The abilities of this game is still unknown to us.
 
 Galun: We have no choice, we need the meat.
 
@@ -644,7 +644,7 @@ Meat bonus for every kill. (“gold”)
 
 Clashers are now recruitable and recallable.
 
-Galun, Vank, Karron, Arinexis and Zedrix must survive.
+Galun, Reshan, Karron, Arinexis and Zedrix must survive.
 
 
 IF KARRON BEACON LIT (A PLAYER UNIT IS ON ITS TILE):
@@ -675,19 +675,19 @@ The hunt continued across grassy stretches of the greatland. Beasts on four legs
 
 Vladnir: This land of yours is indeed limitless, Galun. Half of Morogor makes ready for the journey!
 
-Vank: That must not be! Even now we have not the provisions for additional visitors. Further, our saurians tell us there is a terrible season which afflicts the greatland. Much of it will grow as lifelessly cold as the highest mountain peak. This cold lasts several moons.
+Reshan: That must not be! Even now we have not the provisions for additional visitors. Further, our saurians tell us there is a terrible season which afflicts the greatland. Much of it will grow as lifelessly cold as the highest mountain peak. This cold lasts several moons.
 
 Vladnir: Then we must expand the hunt. Presently.
 
-Vank: There is something else… the Prey. We may have underestimated it, severly. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
+Reshan: There is something else… the Prey. We may have underestimated it, severly. Take the “humans” that graze upon the tall grass of the plains. They may have capacities of mind on par with mermish. I fear that…
 
 Galun: Speak no more of fear.
 
-Vank: ……
+Reshan: ……
 
 Galun: So many challenges have we overcome. So many foes vanquished. Yet still you do not grasp how we shift the winds of fate by our willful action.
 
-Vank: The spoken memory tells us steady wings may catch the winds of fate…
+Reshan: The spoken memory tells us steady wings may catch the winds of fate…
 
 Galun: Nay. Not merely tossed about by the winds. We *shift* the winds of fate. Feel the world as it should be with all the Fire of your Heart. With no concern for how things have always been. Then act directly to remake the world as it should become.
 
@@ -737,7 +737,7 @@ Harvest all pixie meat. (Woses are not counted.)
 
 Meat bonus for every pixie. (“gold”) (Woses are not counted.)
 
-Galun, Vank, Arinexis and Zedrix must survive.
+Galun, Reshan, Arinexis and Zedrix must survive.
 
 
 IF IRIMOON REACHES HER KEEP UNHARMED:
@@ -812,11 +812,11 @@ Zedrix: Ah, that is mosst favored name - ‘Sandfolks’ - bland yet no negative
 
 Galun: You *will* be silent.
 
-(Vank flies in from the SW.)
+(Reshan flies in from the SW.)
 
-Galun: Report, Vank. There are still three wings yet to regather.
+Galun: Report, Reshan. There are still three wings yet to regather.
 
-Vank: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
+Reshan: Galun, they are routed. The forest withheld the prey’s true number. A throng of them pursues us here. On par with four of our Flights. It arrives in no more than two days.
 
 We must retreat to the eyrie with haste.
 
@@ -830,19 +830,19 @@ Zedrix: With care, Arinexisss, with care! Fire dussst isss ssstrewn about.
 
 Arinexis: Dragonsss, do not breath on the dussst!
 
-Vank: Fire Dust… enough to bring down this cave behind us…
+Reshan: Fire Dust… enough to bring down this cave behind us…
 
 Galun: … a Cave.
 
-Vank: Galun, you know we must brave it…
+Reshan: Galun, you know we must brave it…
 
 … we will do this. Together. You got me out of *That* cave alive. I swear to you, Galun, I will repay you this.
 
-Galun: Vank… about That cave… there is something…
+Galun: Reshan… about That cave… there is something…
 
 (The Sound of War Horns. An Elvish Outrider and several Elvish Riders appear from SW. [They are in reach of striking on their first move.])
 
-Vank: Land gliders! I never expected they possessed such swiftness. To delay us must be their aim.
+Reshan: Land gliders! I never expected they possessed such swiftness. To delay us must be their aim.
 
 Galun: I need a few to hold a line across the mouth. The rest of you, into the cave!
 
@@ -853,11 +853,11 @@ Seek the passage through the mountain.
 
 Flee members of our Flight through the passage. (Move units on to the exit tile to flee them.) (Those left behind will perish.)
 
-Flee Galun and Vank through the passage last. (Move units to the exit tile to flee them.)
+Flee Galun and Reshan through the passage last. (Move units to the exit tile to flee them.)
 
 The main mass of frenzied prey arrives in two days. (Turn 13)
 
-Galun, Vank, Arinexis and Zedrix must survive.
+Galun, Reshan, Arinexis and Zedrix must survive.
 
 
 ON SIGHTING LICH-LORD SIRAVAN
@@ -910,9 +910,9 @@ IF UNIT MOVED TO EXIT PASSAGE TILE:
 (Unit removed from map and saved.)
 
 
-IF VANK MOVED TO EXIT PASSAGE TILE:
+IF RESHAN MOVED TO EXIT PASSAGE TILE:
 
-Vank: Nay. Galun, I will not depart this cave before you!
+Reshan: Nay. Galun, I will not depart this cave before you!
 
 
 IF GALUN MOVED TO EXIT PASSAGE BEFORE ARINEXIS AND ZEDRIX EXIT:
@@ -924,23 +924,23 @@ IF GALUN MOVED TO EXIT PASSAGE AFTER ARINEXIS AND ZEDRIX EXIT:
 
 (Mundane units still on map are not saved.)
 
-Vank: Go on, my friend. I will make sure none follow. Leave this cave behind.
+Reshan: Go on, my friend. I will make sure none follow. Leave this cave behind.
 
 Galun: Nay, there is no time, we leave now.
 
-Vank: Tell Karron I will always regret taking his place.
+Reshan: Tell Karron I will always regret taking his place.
 
-Galun: Vank, we leave this cave together. Just like we did the first one.
+Galun: Reshan, we leave this cave together. Just like we did the first one.
 
-Vank: farewell my friend
+Reshan: farewell my friend
 
-Galun: vank
+Galun: reshan
 
-(Vank flies SW to a large collection of ‘fire dust’ kegs that pervade the SW of the cave.)
+(Reshan flies SW to a large collection of ‘fire dust’ kegs that pervade the SW of the cave.)
 
-Vank: My wings catch the Wind…
+Reshan: My wings catch the Wind…
 
-(Vank ignites the fire dust. With a deep rumble the map goes black.)
+(Reshan ignites the fire dust. With a deep rumble the map goes black.)
 
 
 
@@ -1068,20 +1068,20 @@ Galun: As have I…
 
 Zedrix: What do you mean?
 
-Galun: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Vank had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
+Galun: As a fledgling long ago… I strayed far from the eyrie, lost in dreams of glorious things to be. From a cave nearby I heard cries. My friend Reshan had happened upon a dishonored rogue hiding within. It sought his death to keep secret its presence there. It had cornered him.
 
 Galun: I thought myself invulnerable, the hero in my own tale. I charged at the beast, striking with bare claws. Spiting feeble sparks. With one swipe I was sent to the ground, bleeding.
 
-Galun: My body froze me as it readied to flee. The desire to flee was overcoming. Flee… abandon Vank to die…
+Galun: My body froze me as it readied to flee. The desire to flee was overcoming. Flee… abandon Reshan to die…
 
 Galun: The agonizing guilt of that last thought. Leave my friend to die. It reignited my heart with an unfamiliar passion. I would do anything to save my friend. I felt the whole world around me burning for the means to save him. That is when I felt it beneath my right wing. A clasher’s spear, broken a reach beneath the head. It had not been there when I entered the cave. It was there now.
 
-Galun: The rogue turned to finish Vank. I threw myself upon it with all my hate. The spear I ran deep into its cold heart.
+Galun: The rogue turned to finish Reshan. I threw myself upon it with all my hate. The spear I ran deep into its cold heart.
 
 Ever since have I trusted absolutely in the fire that saved my friend…
 Ever since have I fled the fear that drove me toward such vile cowardice.
 
-Zedrix: You shunned Vank’s fearss too.
+Zedrix: You shunned Reshan’s fearss too.
 
 Galun: Breathing in his fears could chill my heart to cowardice.
 
@@ -1169,23 +1169,23 @@ Thurdakor: Yer nae easy tae haggle with, dragon.
 
 Sae be it, a deal we hae. Ah wull even release mah prize wee dragon captive fur ye.
 
-(Thurdakor goes to uncover a nearby hole. From it Vank surfaces and moves toward Galun.)
+(Thurdakor goes to uncover a nearby hole. From it Reshan surfaces and moves toward Galun.)
 
-Vank: Galun, it seems no cave can keep us!
+Reshan: Galun, it seems no cave can keep us!
 
-Galun: vank…
+Galun: reshan…
 
-Vank!
+Reshan!
 
 Thurdakor: Well, that is it fur me, back doon th' shute.
 
 (Thurdakor disappears back down the hole along with his remaining dwarves.)
 
-Vank: My friend… You have saved me.
+Reshan: My friend… You have saved me.
 
 The deep dwellers hewed through my tomb of broken stone to discover me. I was to be their captive in the underworld forever. A curio to frighten their hatchlings from straying to the above. By your pact with them, I was freed.
 
-Galun: Vank, it was you that saved me.
+Galun: Reshan, it was you that saved me.
 
 We have much to plan for the Future of our Folk in this Greatland.
 
@@ -1208,9 +1208,9 @@ START:
 
 (Galun, Arinexis, Zedrix and his two remaining intendants stand ready at his camp in the NE. Against them in the SW is Karron, his two remaining intendants [Drake Warden, Hurricane Drake], plus the recent replacement for his first intendant [Drake Warrior].
 
-Karron: Galun, it is good to see you alive. As well you, Vank. When the Flight of Galun did not return, I assumed you all had perished to the wild game of this land.
+Karron: Galun, it is good to see you alive. As well you, Reshan. When the Flight of Galun did not return, I assumed you all had perished to the wild game of this land.
 
-Vank: Karron, likewise! If only Vladnir had shared our fortune.
+Reshan: Karron, likewise! If only Vladnir had shared our fortune.
 
 Karron: Indeed, Vladnir will be remembered. Vladnir will be avenged…
 
@@ -1240,7 +1240,7 @@ Karron: You may embrace your cowardice, Galun. Hide here in your hovel with it. 
 
 Through the Ways of Morogor, I Proclaim you Deprived.
 
-Vank: We are far beyond Morogor. The Ways do not apply here.
+Reshan: We are far beyond Morogor. The Ways do not apply here.
 
 Karron: Then only one fix remains. A trial to the death.
 
@@ -1312,7 +1312,7 @@ Karron: Beasts can no more make war on us than could the clouds.
 
 Galun: They already have. You witnessed it. We all did. Perhaps half the coming flights will be forced to scatter deep into the greatland to meet fates unknown. As it was with the Flight of Vladnir.
 
-Only through defeat will some learn as I did. The wisdom Vank whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
+Only through defeat will some learn as I did. The wisdom Reshan whispered. His gentle saurians. Our truce with the deep dwellers. Hunting only those creatures that do not hold weapons. Honoring those that do by making full war upon them when the need arises. It will take a thousand years. Yet by this windpath alone we shall rise to dominate the far lands.
 
 Karron: I do not… fully grasp…
 
