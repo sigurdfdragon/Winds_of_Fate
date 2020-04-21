@@ -1,4 +1,4 @@
-WINGS OF VICTORY (Revision 2020-04-21 - Draft 4.5)
+WINGS OF VICTORY (Revision 2020-04-21 - Draft 4.6)
 
 
 
@@ -714,13 +714,15 @@ Salennea: Be silent, Nomeon. For I am no mere “princess” awaiting your salva
 
 Arinexis: Shek’kahan, thisss iss their underbelly I ssspoke of…
 
-Wise Salennea! We wish entry to your land, ssseeking your counsssel. Grant uss thisss, Salennea the Jusst!
+Arinexis: Wise Salennea! We wish entry to your land to ssseek your counsssel. Grant uss thisss, Salennea the Jusst!
 
 Salennea: “Salennea the Just”. I shall weave this into the long twine of my titles. “Wise Sorceress Salennea, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
 
-Arinexis: We grow weary of… travel. And we go hungry! … *So Hungry*…
+Arinexis: Salennea! ...we grow weary of travel... and we go hungry!
 
-Salennea, pray allow usss entry.
+*So Hungry.*
+
+Arinexis: Salennea, pray allow usss entry.
 
 Nomeon: Nay! This is a March of Wesmere.
 
