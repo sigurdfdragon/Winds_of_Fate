@@ -1,4 +1,4 @@
-WINGS OF VICTORY (Revision 2020-04-19 - Draft 4.4)
+WINGS OF VICTORY (Revision 2020-04-21 - Draft 4.5)
 
 
 
@@ -702,33 +702,33 @@ I already signaled Karron to continue east across the grassy plains. Vladnir, yo
 
 START:
 
-(Gorlack’s camp is in a woodlands west of a river running vaguely NNW-SSE. There is a river or ford west across the river guarded be an elvish castle commanded by [Elvish Hero] Nomeon with [Elvish Rider] Vonel nearby. From there a path leads further west to two C-shaped intertangled yet separate castles. On one sits [Elvish Sorceress] Irimoon. Far WNW is [Ancient Wose] Gulladrumm.)
+(Gorlack’s camp is in a woodlands west of a river running vaguely NNW-SSE. There is a river or ford west across the river guarded be an elvish castle commanded by [Elvish Hero] Nomeon with [Elvish Rider] Vonel nearby. From there a path leads further west to two C-shaped intertangled yet separate castles. On one sits [Elvish Sorceress] Salennea. Far WNW is [Ancient Wose] Gulladrumm.)
 
 Nomeon: You monsters there, Halt! This is the sovereign realm of Wesmere. No further may you go.
 
-(Irimoon moves from her keep all the way to the river crossing.)
+(Salennea moves from her keep all the way to the river crossing.)
 
 Nomeon: Princess, I beg of you, walk not again into jeopardy!
 
-Irimoon: Be silent, Nomeon. For I am no mere “princess” awaiting your salvation. With all your beastly sinews and steel tools of death, you possess not a dewdrop of my esoteric powers. My unelucidated talents and conscience are more than protection enough.
+Salennea: Be silent, Nomeon. For I am no mere “princess” awaiting your salvation. With all your beastly sinews and steel tools of death, you possess not a dewdrop of my esoteric powers. My unelucidated talents and conscience are more than protection enough.
 
 Arinexis: Shek’kahan, thisss iss their underbelly I ssspoke of…
 
-Wise Irimoon! We wish entry to your land, ssseeking your counsssel. Grant uss thisss, Irimoon the Jusst!
+Wise Salennea! We wish entry to your land, ssseeking your counsssel. Grant uss thisss, Salennea the Jusst!
 
-Irimoon: “Irimoon the Just”. I shall weave this into the long twine of my titles. “Wise Sorceress Irimoon, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
+Salennea: “Salennea the Just”. I shall weave this into the long twine of my titles. “Wise Sorceress Salennea, the Just, Wielder of the Sapphire of Ice, the Embracer of Woses, the Merciful to Orcs, Keeper of Ca…
 
 Arinexis: We grow weary of… travel. And we go hungry! … *So Hungry*…
 
-Irimoon, pray allow usss entry.
+Salennea, pray allow usss entry.
 
 Nomeon: Nay! This is a March of Wesmere.
 
-Irimoon: Marches only part us, Nomeon...
+Salennea: Marches only part us, Nomeon...
 
 Let all be welcomed to Wesmere!
 
-(Irimoon begins travel back to her keep, a turn at a time. No AI sides will recruit or attack until the player attacks.)
+(Salennea begins travel back to her keep, a turn at a time. No AI sides will recruit or attack until the player attacks.)
 
 
 SCENARIO OBJECTIVES:
@@ -742,7 +742,7 @@ Gorlack, Reshan, Arinexis and Zedrix must survive.
 
 IF IRIMOON REACHES HER KEEP UNHARMED:
 
-Irimoon: This is my castle Saethrania-- the Castle of Sharing. You may make an abode of castle Gliinoler-- the Castle of Caring.
+Salennea: This is my castle Saethrania-- the Castle of Sharing. You may make an abode of castle Gliinoler-- the Castle of Caring.
 
 (the player is pointed to the keep tile of Gliinoler)
 
@@ -756,13 +756,13 @@ Arinexis: Let usss attack!
 
 IF ELF OR WOSE ATTACKED:
 
-Irimoon: Nay! This is a thing too terrible to foresee. Nomeon, save me from these dragons!
+Salennea: Nay! This is a thing too terrible to foresee. Nomeon, save me from these dragons!
 
 Nomeon: I am coming, Princess!
 
 Dispatch doves to the Ka’lian with word of our peril here!
 
-Vonel: Princess Irimoon loosed them to the wilds this morning for sake of their well being…
+Vonel: Princess Salennea loosed them to the wilds this morning for sake of their well being…
 
 I shall send word myself!
 
@@ -771,7 +771,7 @@ I shall send word myself!
 
 IF IRIMOON DEFEATED:
 
-Irimoon: You have slain me, Nomeon. Your bias and slander against these gentle creatures imbued them with a terrible yet justifiable wrath!
+Salennea: You have slain me, Nomeon. Your bias and slander against these gentle creatures imbued them with a terrible yet justifiable wrath!
 
 
 ALL PIXIES EATEN:
