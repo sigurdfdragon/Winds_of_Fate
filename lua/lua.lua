@@ -1,8 +1,6 @@
--- from multiplayer/eras.lua, slightly modified
+-- from multiplayer/eras.lua, slightly modified for use in a campaign and to return a result
 
-local res = {}
-
-res.turns_over_advantage = function()
+local function determine_advantage()
 	local _ = wesnoth.textdomain "wesnoth-multiplayer"
 	local function all_sides()
 		local function f(s, i)
@@ -16,54 +14,60 @@ res.turns_over_advantage = function()
 	local income_factor = 5
 
 	local winning_sides = {}
-	local tie = true
 	local total_score = -1
 	local side_comparison = ""
-	local color = "#000000"
+	local winners_color = "#000000"
 	for side, team in all_sides() do
 		if not team.__cfg.hidden then
-			local r, g, b = 255, 255, 255
-			if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
-			elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255 end
-			if # wesnoth.get_units( { side = side } ) == 0 then
-				side_comparison = side_comparison .. string.format( tostring( _ "<span strikethrough='true' foreground='#%02x%02x%02x'>Side %d</span>") .. "\n",
-				r, g, b, side)
+			local side_color = wesnoth.colors[team.color].pango_color
+			if # wesnoth.units.find_on_map( { side = side } ) == 0 then
+				-- po: In the end-of-match summary, a side which has no units left and therefore lost. In English the loss is shown by displaying it with the text struck through.
+				local side_text = _ "<span strikethrough='true' foreground='$side_color'>Side $side_number</span>:  Has lost all units"
+				-- The double new-line here is to balance with the other sides getting a line for "Grand total"
+				side_comparison = side_comparison .. side_text:vformat{side_color = side_color, side_number = side} .. "\n\n"
 			else
 				local income = team.total_income * income_factor
 				local units = 0
 				-- Calc the total unit-score here
-				for i, unit in ipairs( wesnoth.get_units { side = side } ) do
+				for i, unit in ipairs( wesnoth.units.find_on_map { side = side } ) do
 					if not unit.__cfg.canrecruit then
-						wesnoth.fire("unit_worth", { id = unit.id })
+						wml.fire("unit_worth", { id = unit.id })
 						units = units + wml.variables["unit_worth"]
 					end
 				end
 				-- Up to here
 				local total = units + team.gold + income
-				side_comparison = side_comparison .. string.format( tostring( _ "<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d") .. "\n" .. tostring( _ "Grand total: <b>%d</b>") .. "\n",
-				r, g, b, side, income, units, team.gold, total)
+				-- po: In the end-of-match summary, any side that still has units left
+				local side_text = _ "<span foreground='$side_color'>Side $side_number</span>:  Income score = $income  Unit score = $units  Gold = $gold\nGrand total: <b>$total</b>"
+				side_comparison = side_comparison .. side_text:vformat{side_color = side_color, side_number = side, income = income, units = units, gold = team.gold, total = total} .. "\n"
 				if total > total_score then
-					color = string.format("#%02x%02x%02x", r, g, b)
+					winners_color = side_color
 					winning_sides = {side}
-					tie = false
 					total_score = total
 				elseif total == total_score then
 					table.insert(winning_sides, side)
-					tie = true
 				end
 			end
 		end
 	end
 
 	local result = nil
-	if tie then
-		side_comparison = side_comparison .. string.format( "\n" .. tostring( _ "Sides %s and %d are tied."), 1 , 2)
-		result = "tie"
-	else
-		side_comparison = side_comparison .. string.format( "\n" .. tostring( _ "<span foreground='%s'>Side %d</span> has the advantage."), color, winning_sides[1])
+
+	if #winning_sides == 1 then
+		-- po: In the end-of-match summary, there's a single side that's won.
+		local comparison_text = _ "<span foreground='$side_color'>Side $side_number</span> has the advantage."
+		side_comparison = side_comparison .. "\n" .. comparison_text:vformat{side_number = winning_sides[1], side_color = winners_color}
 		result = winning_sides[1]
+	else -- #winning_sides == 2, a tie (or both sides have no units or a negative score which should be impossible here)
+		-- po: In the end-of-match summary, there's a two-way tie (this is only used for exactly two winning teams)
+		-- Separated from the three-or-more text in case a language differentiates "two sides" vs "three sides".
+		local comparison_text = _ "Sides $side_number and $other_side_number are tied."
+		side_comparison = side_comparison .. "\n" .. comparison_text:vformat{side_number = winning_sides[1], other_side_number = winning_sides[2]}
+		result = "tie"
 	end
-	wesnoth.fire("message", { message = side_comparison, speaker = "narrator", image = "wesnoth-icon.png"})
+	-- po: "Turns Over", meaning "turn limit reached" is the title of the end-of-match summary dialog
+	local a, b = gui.show_popup(_ "dialog^Turns Over", side_comparison)
 	return result
 end
-return res
+
+return determine_advantage()
