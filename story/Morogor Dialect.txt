@@ -32,19 +32,29 @@ A Drake with a rank high enough to command a Wing and enter the Contention.
 This rank is achieved by completing the Trials.
 
 - Caste Burner -
-Parting Saying:
+The generally highest caste, renowned for their strategic thinking, leadership, passion and concern for other drakes.
+They are also known to be somewhat aloof, prideful, stubborn and vague on details.
+Nearly half of all Dominants are of this caste.
+Saying:
 May your Fire light the way in darkness.
 
 - Caste Clasher -
-Parting Saying:
+The honorbound protectors of the precious progeny, Ways, and secret written knowledge of the Drakes of Morogor.
+They can be counted on to put following the Ways of Morogor before all other loyalties besides the defense of eggs and Hatchlings.
+Saying:
 May the Ancestors tread beside you.
 
 - Caste Fighter -
-Parting Saying:
+Quick thinking, adaptable tacticians and fearless warriors.
+They somewhat lack foresight and seeing the bigger picture.
+Saying:
 May your Blades find their marks in fury.
 
 - Caste Glider -
-Parting Saying:
+Scouts, messengers, stewards of hunting grounds and mystics.
+Though vague, their Spoken Memory contains broad wisdom and extends immensely far into prehistory.
+There limited usefulness in fighting off intruders leaves them the lowest status of the castes.
+Saying:
 May the Wind catch your wings to soar.
 
 - Contention -
@@ -66,7 +76,7 @@ Includes Drakes and fire dragons.
 A race of lesser Dragons. They are bipedal, diurnal and have a high capacity for smithing, organization and strategy.
 
 - Drakish -
-The language of the Drakes of Morogor.
+The tongue of the Drakes of Morogor.
 It is very archaic dialect of the common tongue spoken by most races, making communication with others difficult.
 
 - Eyrie -
@@ -92,13 +102,13 @@ A newly hatched Drake, about two thirds the size of an adult human but clumsy an
 
 - Hunt -
 An organized, large scale hunt for Prey called by a high ranking Drake.
-The Drake that calls the Hunt is responsible for setting its end goal as well as the safety of the hunters.
+The Drake that calls the Hunt is responsible for setting the end goal as well as the safety of the hunters.
 
 - Infestation, Infester -
 Any invasive creature that threatens Morogor's ecosystem and thereby the Drake's food supply.
 Usually designated as such by an Intendant of the Glider Caste.
 
-- Intendant -
+- Intendants -
 Advisors and lieutenants of a Dominant, usually one of each caste other than its own.
 
 - Intendant, First -
@@ -106,6 +116,7 @@ Primary advisor to the Dominant.
 Tasked to take temporary command of the Flight if ever its Dominant is incapacitated.
 
 - Morogor -
+Also known as the Domain of Morogor
 Archipelago, located somewhere in the Great Ocean east of the Green Isle and west of the "Greatland" (Great Continent).
 
 - Prey -
@@ -117,15 +128,19 @@ It is the shape and size of a drake egg and likewise guarded by the Clashers, th
 Its hollow interior allows it to float on a protective pool of water during the frequent earthquakes.
 
 - Spoken Memory -
-Also called the "Memory", "Glider Memory" and the"Glider Spoken Memory".
+Also called the "Memory", "Glider Memory" and "Glider Spoken Memory".
 An oral history of the Drakes going back into the early times of Irdya, but generally known only to the Glider Caste.
 It is augmented by a vague sense of ancestral memory drakes possess.
+
+- Ways of Morogor -
+The truly enormous code of laws that govern Morogor and the highest authority in the land.
+They have accrued for nearly five thousand years and are more and more focused on managing territorial redistribution as Morogor loses ground to the surrounding ocean.
 
 - Winds of Fate -
 Also called the "Wind" and the "Winds".
 Glider belief that destiny is a kind of swirling complex of air currents, which they call Windpaths.
 These Windpaths cannot be seen, but can be felt "under your wings".
-Carefully choosing the right Windpath can deliver one to their desired goal in life, the wrong one leads to ruin.
+Carefully choosing the right Windpath can deliver one to a desirable outcome, the wrong one leads to ruin.
 Gliders believe there is no escaping the Winds, you are either on one Windpath or another.
 
 - Windpath -
